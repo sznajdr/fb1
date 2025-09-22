@@ -1,4 +1,4 @@
-"Competition_Name","Gender","Country","Season_End_Year","Round","Wk","Day","Date","Time","Home","HomeGoals","Home_xG","Away","AwayGoals","Away_xG","Attendance","Venue","Referee","Notes","MatchURL"
+"Competition_Name","Gender","Country","Season","Round","Wk","Day","Date","Time","Home","HomeGoals","Home_xG","Away","AwayGoals","Away_xG","Attendance","Venue","Referee","Notes","MatchURL"
 "Frauen-Bundesliga","F","GER",2025,NA,"1","Fri",2025-09-05,"18:30","Eint Frankfurt",5,3.4,"Essen",0,0.5,NA,"Stadion am Brentanobad","Davina Lutz",NA,"https://fbref.com/en/matches/0ac03876/Eintracht-Frankfurt-Essen-September-5-2025-Frauen-Bundesliga"
 "Frauen-Bundesliga","F","GER",2025,NA,"1","Sat",2025-09-06,"14:00","Köln",0,0.8,"RB Leipzig",2,0.8,NA,"Franz-Kremer-Stadion","Karoline Wacker",NA,"https://fbref.com/en/matches/62254b60/Koln-RB-Leipzig-September-6-2025-Frauen-Bundesliga"
 "Frauen-Bundesliga","F","GER",2025,NA,"1","Sat",2025-09-06,"17:45","Bayern Munich",2,1.4,"Leverkusen",0,0.4,NA,"Allianz Arena","Franziska Wildfeuer",NA,"https://fbref.com/en/matches/35ddae8a/Bayern-Munich-Bayer-Leverkusen-September-6-2025-Frauen-Bundesliga"
@@ -759,3 +759,4 @@
 "Frauen-Bundesliga","F","GER",2023,NA,"9","Sun",2022-12-04,"13:00","Leverkusen",3,2.6,"Turbine Potsdam",0,0.3,574,"Ulrich-Haberland-Stadion","Naemi Breier",NA,"https://fbref.com/en/matches/38d0713d/Bayer-Leverkusen-Turbine-Potsdam-December-4-2022-Frauen-Bundesliga"
 "Frauen-Bundesliga","F","GER",2023,NA,"9","Sun",2022-12-04,"13:00","Meppen",1,0.7,"Köln",0,0.9,1175,"Hänsch-Arena","Christine Weigelt",NA,"https://fbref.com/en/matches/9145b9d9/Meppen-Koln-December-4-2022-Frauen-Bundesliga"
 "Frauen-Bundesliga","F","GER",2023,NA,"9","Sun",2022-12-04,"16:00","Essen",0,2,"Werder Bremen",0,0.7,1017,"Stadion Essen","Riem Hussein",NA,"https://fbref.com/en/matches/0d584ec0/Essen-Werder-Bremen-December-4-2022-Frauen-Bundesliga"
+
