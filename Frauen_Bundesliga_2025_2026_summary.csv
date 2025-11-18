@@ -1,0 +1,72 @@
+match_id,home_team,away_team,home_score,away_score,date,league,round,finished
+4863530,Eintracht Frankfurt,SGS Essen,5,0,2025-09-05T16:30:00.000Z,Frauen-Bundesliga,1,True
+4863532,FC Köln,RB Leipzig,0,2,2025-09-06T12:00:00.000Z,Frauen-Bundesliga,1,True
+4863527,Bayern München,Bayer Leverkusen,2,0,2025-09-06T15:45:00.000Z,Frauen-Bundesliga,1,True
+4863529,Werder Bremen,Freiburg,1,1,2025-09-07T12:00:00.000Z,Frauen-Bundesliga,1,True
+4863533,Hamburger SV,VfL Wolfsburg,3,3,2025-09-07T14:00:00.000Z,Frauen-Bundesliga,1,True
+4863528,Union Berlin,Nürnberg,1,1,2025-09-07T16:30:00.000Z,Frauen-Bundesliga,1,True
+4863531,FC Carl Zeiss Jena,TSG 1899 Hoffenheim,1,4,2025-09-08T16:00:00.000Z,Frauen-Bundesliga,1,True
+4863535,Freiburg,FC Köln,1,0,2025-09-12T16:30:00.000Z,Frauen-Bundesliga,2,True
+4863538,Nürnberg,Werder Bremen,1,4,2025-09-13T10:00:00.000Z,Frauen-Bundesliga,2,True
+4863534,SGS Essen,Hamburger SV,0,0,2025-09-13T12:00:00.000Z,Frauen-Bundesliga,2,True
+4863536,RB Leipzig,Bayern München,0,3,2025-09-14T12:00:00.000Z,Frauen-Bundesliga,2,True
+4863539,VfL Wolfsburg,FC Carl Zeiss Jena,3,1,2025-09-14T14:00:00.000Z,Frauen-Bundesliga,2,True
+4863540,TSG 1899 Hoffenheim,Eintracht Frankfurt,3,0,2025-09-14T16:30:00.000Z,Frauen-Bundesliga,2,True
+4863537,Bayer Leverkusen,Union Berlin,3,2,2025-09-15T16:00:00.000Z,Frauen-Bundesliga,2,True
+4863666,Freiburg,Hamburger SV,6,2,2025-09-19T16:30:00.000Z,Frauen-Bundesliga,3,True
+4863541,Union Berlin,SGS Essen,2,0,2025-09-20T10:00:00.000Z,Frauen-Bundesliga,3,True
+4863545,Bayern München,FC Carl Zeiss Jena,0,0,2025-09-20T12:00:00.000Z,Frauen-Bundesliga,3,True
+4863542,Werder Bremen,TSG 1899 Hoffenheim,2,1,2025-09-21T12:00:00.000Z,Frauen-Bundesliga,3,True
+4863546,Nürnberg,Bayer Leverkusen,0,1,2025-09-21T14:00:00.000Z,Frauen-Bundesliga,3,True
+4863544,FC Köln,VfL Wolfsburg,1,2,2025-09-21T16:30:00.000Z,Frauen-Bundesliga,3,True
+4863547,Eintracht Frankfurt,RB Leipzig,4,3,2025-09-22T16:00:00.000Z,Frauen-Bundesliga,3,True
+4863549,Bayern München,Freiburg,4,0,2025-09-23T16:00:00.000Z,Frauen-Bundesliga,4,True
+4863551,FC Carl Zeiss Jena,Union Berlin,1,2,2025-09-23T17:00:00.000Z,Frauen-Bundesliga,4,True
+4863548,SGS Essen,FC Köln,1,2,2025-09-24T17:00:00.000Z,Frauen-Bundesliga,4,True
+4863550,TSG 1899 Hoffenheim,Nürnberg,1,1,2025-09-24T17:00:00.000Z,Frauen-Bundesliga,4,True
+4863554,VfL Wolfsburg,Werder Bremen,4,2,2025-09-24T17:00:00.000Z,Frauen-Bundesliga,4,True
+4863553,Bayer Leverkusen,Eintracht Frankfurt,2,1,2025-09-25T17:00:00.000Z,Frauen-Bundesliga,4,True
+4863552,RB Leipzig,Hamburger SV,0,1,2025-09-25T17:00:00.000Z,Frauen-Bundesliga,4,True
+4863590,Eintracht Frankfurt,FC Carl Zeiss Jena,3,1,2025-10-03T16:30:00.000Z,Frauen-Bundesliga,5,True
+4863593,SGS Essen,VfL Wolfsburg,0,8,2025-10-04T10:00:00.000Z,Frauen-Bundesliga,5,True
+4863589,Bayern München,Werder Bremen,4,0,2025-10-04T12:00:00.000Z,Frauen-Bundesliga,5,True
+4863594,Union Berlin,Freiburg,0,3,2025-10-05T12:00:00.000Z,Frauen-Bundesliga,5,True
+4863588,Nürnberg,RB Leipzig,1,1,2025-10-05T14:00:00.000Z,Frauen-Bundesliga,5,True
+4863592,FC Köln,Bayer Leverkusen,1,0,2025-10-05T16:30:00.000Z,Frauen-Bundesliga,5,True
+4863591,Hamburger SV,TSG 1899 Hoffenheim,1,4,2025-10-06T16:00:00.000Z,Frauen-Bundesliga,5,True
+5006346,FC Köln,Bayer Leverkusen,2,2,2025-10-16T16:00:00.000Z,Frauen-Bundesliga,5,True
+4863599,RB Leipzig,SGS Essen,2,1,2025-10-10T16:30:00.000Z,Frauen-Bundesliga,6,True
+4863601,VfL Wolfsburg,Bayern München,1,3,2025-10-11T13:00:00.000Z,Frauen-Bundesliga,6,True
+4863600,Werder Bremen,Hamburger SV,2,0,2025-10-11T15:45:00.000Z,Frauen-Bundesliga,6,True
+4863595,Freiburg,Eintracht Frankfurt,3,2,2025-10-12T12:00:00.000Z,Frauen-Bundesliga,6,True
+4863596,TSG 1899 Hoffenheim,Bayer Leverkusen,0,2,2025-10-12T14:00:00.000Z,Frauen-Bundesliga,6,True
+4863598,FC Köln,Union Berlin,2,1,2025-10-12T16:30:00.000Z,Frauen-Bundesliga,6,True
+4863597,FC Carl Zeiss Jena,Nürnberg,2,3,2025-10-13T16:00:00.000Z,Frauen-Bundesliga,6,True
+4863607,SGS Essen,TSG 1899 Hoffenheim,0,1,2025-10-17T16:30:00.000Z,Frauen-Bundesliga,7,True
+4863602,Nürnberg,Freiburg,3,2,2025-10-18T10:00:00.000Z,Frauen-Bundesliga,7,True
+4863606,Hamburger SV,FC Carl Zeiss Jena,1,1,2025-10-18T12:00:00.000Z,Frauen-Bundesliga,7,True
+4863608,Union Berlin,RB Leipzig,5,0,2025-10-19T10:00:00.000Z,Frauen-Bundesliga,7,True
+4863605,Eintracht Frankfurt,Werder Bremen,2,0,2025-10-19T12:00:00.000Z,Frauen-Bundesliga,7,True
+4863604,Bayern München,FC Köln,5,1,2025-10-19T14:00:00.000Z,Frauen-Bundesliga,7,True
+4863603,Bayer Leverkusen,VfL Wolfsburg,1,5,2025-10-19T15:15:00.000Z,Frauen-Bundesliga,7,True
+4863613,FC Köln,Nürnberg,3,0,2025-10-31T17:30:00.000Z,Frauen-Bundesliga,8,True
+4863614,Werder Bremen,Union Berlin,3,0,2025-11-01T11:00:00.000Z,Frauen-Bundesliga,8,True
+4863609,Bayern München,SGS Essen,4,1,2025-11-01T13:00:00.000Z,Frauen-Bundesliga,8,True
+4863615,VfL Wolfsburg,TSG 1899 Hoffenheim,2,1,2025-11-01T15:00:00.000Z,Frauen-Bundesliga,8,True
+4863612,FC Carl Zeiss Jena,Bayer Leverkusen,2,4,2025-11-02T12:00:00.000Z,Frauen-Bundesliga,8,True
+4863611,Hamburger SV,Eintracht Frankfurt,0,4,2025-11-02T14:00:00.000Z,Frauen-Bundesliga,8,True
+4863610,Freiburg,RB Leipzig,2,4,2025-11-03T17:00:00.000Z,Frauen-Bundesliga,8,True
+4863616,Nürnberg,Bayern München,0,6,2025-11-04T17:00:00.000Z,Frauen-Bundesliga,9,True
+4863622,Union Berlin,VfL Wolfsburg,1,4,2025-11-04T18:00:00.000Z,Frauen-Bundesliga,9,True
+4863617,Bayer Leverkusen,Hamburger SV,2,1,2025-11-05T18:00:00.000Z,Frauen-Bundesliga,9,True
+4863618,Eintracht Frankfurt,FC Köln,1,1,2025-11-05T18:00:00.000Z,Frauen-Bundesliga,9,True
+4863621,SGS Essen,Werder Bremen,2,3,2025-11-05T18:00:00.000Z,Frauen-Bundesliga,9,True
+4863620,RB Leipzig,FC Carl Zeiss Jena,2,0,2025-11-06T18:00:00.000Z,Frauen-Bundesliga,9,True
+4863619,TSG 1899 Hoffenheim,Freiburg,2,1,2025-11-06T18:00:00.000Z,Frauen-Bundesliga,9,True
+4863623,Bayern München,Union Berlin,4,0,2025-11-07T17:30:00.000Z,Frauen-Bundesliga,10,True
+4863629,VfL Wolfsburg,Eintracht Frankfurt,2,3,2025-11-08T13:00:00.000Z,Frauen-Bundesliga,10,True
+4863626,FC Carl Zeiss Jena,SGS Essen,1,1,2025-11-09T11:00:00.000Z,Frauen-Bundesliga,10,True
+4863625,Hamburger SV,Nürnberg,1,2,2025-11-09T13:00:00.000Z,Frauen-Bundesliga,10,True
+4863627,FC Köln,TSG 1899 Hoffenheim,1,0,2025-11-09T15:00:00.000Z,Frauen-Bundesliga,10,True
+4863628,Werder Bremen,RB Leipzig,2,1,2025-11-09T17:30:00.000Z,Frauen-Bundesliga,10,True
+4863624,Freiburg,Bayer Leverkusen,2,1,2025-11-10T17:00:00.000Z,Frauen-Bundesliga,10,True
