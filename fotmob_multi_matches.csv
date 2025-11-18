@@ -1,0 +1,204 @@
+match_id,season,competition,match_name,league_name,match_date,home_team,away_team,home_score,away_score,finished
+4561655,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-Bayern München_Fri, Aug 30, 2024, 15:00 UTC",Frauen-Bundesliga,2024-08-30T15:00:00.000Z,Turbine Potsdam,Bayern München,0,2,True
+4561663,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-FC Carl Zeiss Jena_Sat, Aug 31, 2024, 10:00 UTC",Frauen-Bundesliga,2024-08-31T10:00:00.000Z,Eintracht Frankfurt,FC Carl Zeiss Jena,2,0,True
+4561660,2024,Frauen-Bundesliga,"SGS Essen-vs-TSG 1899 Hoffenheim_Sun, Sep 1, 2024, 12:00 UTC",Frauen-Bundesliga,2024-09-01T12:00:00.000Z,SGS Essen,TSG 1899 Hoffenheim,1,2,True
+4561661,2024,Frauen-Bundesliga,"RB Leipzig-vs-FC Köln_Sun, Sep 1, 2024, 16:30 UTC",Frauen-Bundesliga,2024-09-01T16:30:00.000Z,RB Leipzig,FC Köln,2,1,True
+4561662,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-Werder Bremen_Mon, Sep 2, 2024, 16:00 UTC",Frauen-Bundesliga,2024-09-02T16:00:00.000Z,VfL Wolfsburg,Werder Bremen,3,3,True
+4689102,2024,Frauen-Bundesliga,"Freiburg-vs-Bayer Leverkusen_Sun, Jan 26, 2025, 11:00 UTC",Frauen-Bundesliga,2025-01-26T11:00:00.000Z,Freiburg,Bayer Leverkusen,1,2,True
+4561657,2024,Frauen-Bundesliga,"Bayern München-vs-RB Leipzig_Fri, Sep 13, 2024, 16:30 UTC",Frauen-Bundesliga,2024-09-13T16:30:00.000Z,Bayern München,RB Leipzig,6,2,True
+4561659,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-VfL Wolfsburg_Sat, Sep 14, 2024, 10:00 UTC",Frauen-Bundesliga,2024-09-14T10:00:00.000Z,FC Carl Zeiss Jena,VfL Wolfsburg,0,1,True
+4561644,2024,Frauen-Bundesliga,"Werder Bremen-vs-Turbine Potsdam_Sat, Sep 14, 2024, 12:00 UTC",Frauen-Bundesliga,2024-09-14T12:00:00.000Z,Werder Bremen,Turbine Potsdam,2,0,True
+4561656,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-Eintracht Frankfurt_Sun, Sep 15, 2024, 12:00 UTC",Frauen-Bundesliga,2024-09-15T12:00:00.000Z,Bayer Leverkusen,Eintracht Frankfurt,2,2,True
+4561654,2024,Frauen-Bundesliga,"FC Köln-vs-SGS Essen_Sun, Sep 15, 2024, 16:30 UTC",Frauen-Bundesliga,2024-09-15T16:30:00.000Z,FC Köln,SGS Essen,2,2,True
+4561658,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-Freiburg_Mon, Sep 16, 2024, 16:00 UTC",Frauen-Bundesliga,2024-09-16T16:00:00.000Z,TSG 1899 Hoffenheim,Freiburg,2,3,True
+4561649,2024,Frauen-Bundesliga,"RB Leipzig-vs-Werder Bremen_Fri, Sep 20, 2024, 16:30 UTC",Frauen-Bundesliga,2024-09-20T16:30:00.000Z,RB Leipzig,Werder Bremen,2,0,True
+4561650,2024,Frauen-Bundesliga,"Freiburg-vs-FC Carl Zeiss Jena_Sat, Sep 21, 2024, 10:00 UTC",Frauen-Bundesliga,2024-09-21T10:00:00.000Z,Freiburg,FC Carl Zeiss Jena,1,1,True
+4561653,2024,Frauen-Bundesliga,"SGS Essen-vs-Bayer Leverkusen_Sat, Sep 21, 2024, 12:00 UTC",Frauen-Bundesliga,2024-09-21T12:00:00.000Z,SGS Essen,Bayer Leverkusen,0,2,True
+4561651,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-Eintracht Frankfurt_Sun, Sep 22, 2024, 12:00 UTC",Frauen-Bundesliga,2024-09-22T12:00:00.000Z,Turbine Potsdam,Eintracht Frankfurt,0,6,True
+4561652,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-FC Köln_Sun, Sep 22, 2024, 16:30 UTC",Frauen-Bundesliga,2024-09-22T16:30:00.000Z,VfL Wolfsburg,FC Köln,5,1,True
+4561648,2024,Frauen-Bundesliga,"Bayern München-vs-TSG 1899 Hoffenheim_Mon, Sep 23, 2024, 16:00 UTC",Frauen-Bundesliga,2024-09-23T16:00:00.000Z,Bayern München,TSG 1899 Hoffenheim,5,1,True
+4561666,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-TSG 1899 Hoffenheim_Fri, Sep 27, 2024, 16:30 UTC",Frauen-Bundesliga,2024-09-27T16:30:00.000Z,Bayer Leverkusen,TSG 1899 Hoffenheim,2,1,True
+4561667,2024,Frauen-Bundesliga,"FC Köln-vs-Freiburg_Sat, Sep 28, 2024, 10:00 UTC",Frauen-Bundesliga,2024-09-28T10:00:00.000Z,FC Köln,Freiburg,0,2,True
+4561646,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-RB Leipzig_Sat, Sep 28, 2024, 12:00 UTC",Frauen-Bundesliga,2024-09-28T12:00:00.000Z,Turbine Potsdam,RB Leipzig,0,3,True
+4561665,2024,Frauen-Bundesliga,"Werder Bremen-vs-Bayern München_Sun, Sep 29, 2024, 12:00 UTC",Frauen-Bundesliga,2024-09-29T12:00:00.000Z,Werder Bremen,Bayern München,0,4,True
+4561645,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-VfL Wolfsburg_Sun, Sep 29, 2024, 15:00 UTC",Frauen-Bundesliga,2024-09-29T15:00:00.000Z,Eintracht Frankfurt,VfL Wolfsburg,3,0,True
+4561647,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-SGS Essen_Mon, Sep 30, 2024, 16:00 UTC",Frauen-Bundesliga,2024-09-30T16:00:00.000Z,FC Carl Zeiss Jena,SGS Essen,0,2,True
+4561669,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-RB Leipzig_Fri, Oct 4, 2024, 16:30 UTC",Frauen-Bundesliga,2024-10-04T16:30:00.000Z,VfL Wolfsburg,RB Leipzig,5,0,True
+4561673,2024,Frauen-Bundesliga,"Freiburg-vs-Turbine Potsdam_Sat, Oct 5, 2024, 10:00 UTC",Frauen-Bundesliga,2024-10-05T10:00:00.000Z,Freiburg,Turbine Potsdam,3,0,True
+4561670,2024,Frauen-Bundesliga,"Bayern München-vs-FC Köln_Sat, Oct 5, 2024, 12:00 UTC",Frauen-Bundesliga,2024-10-05T12:00:00.000Z,Bayern München,FC Köln,1,0,True
+4561668,2024,Frauen-Bundesliga,"SGS Essen-vs-Eintracht Frankfurt_Sun, Oct 6, 2024, 12:00 UTC",Frauen-Bundesliga,2024-10-06T12:00:00.000Z,SGS Essen,Eintracht Frankfurt,1,3,True
+4561671,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-Werder Bremen_Sun, Oct 6, 2024, 16:30 UTC",Frauen-Bundesliga,2024-10-06T16:30:00.000Z,TSG 1899 Hoffenheim,Werder Bremen,1,0,True
+4561672,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-FC Carl Zeiss Jena_Mon, Oct 7, 2024, 16:00 UTC",Frauen-Bundesliga,2024-10-07T16:00:00.000Z,Bayer Leverkusen,FC Carl Zeiss Jena,1,0,True
+4561677,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-SGS Essen_Fri, Oct 11, 2024, 16:30 UTC",Frauen-Bundesliga,2024-10-11T16:30:00.000Z,Turbine Potsdam,SGS Essen,0,3,True
+4561674,2024,Frauen-Bundesliga,"Werder Bremen-vs-Bayer Leverkusen_Sat, Oct 12, 2024, 12:00 UTC",Frauen-Bundesliga,2024-10-12T12:00:00.000Z,Werder Bremen,Bayer Leverkusen,1,1,True
+4561676,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-Bayern München_Sat, Oct 12, 2024, 15:45 UTC",Frauen-Bundesliga,2024-10-12T15:45:00.000Z,VfL Wolfsburg,Bayern München,2,0,True
+4561675,2024,Frauen-Bundesliga,"FC Köln-vs-TSG 1899 Hoffenheim_Sun, Oct 13, 2024, 12:00 UTC",Frauen-Bundesliga,2024-10-13T12:00:00.000Z,FC Köln,TSG 1899 Hoffenheim,0,3,True
+4561679,2024,Frauen-Bundesliga,"RB Leipzig-vs-FC Carl Zeiss Jena_Sun, Oct 13, 2024, 16:30 UTC",Frauen-Bundesliga,2024-10-13T16:30:00.000Z,RB Leipzig,FC Carl Zeiss Jena,2,0,True
+4561678,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-Freiburg_Mon, Oct 14, 2024, 16:00 UTC",Frauen-Bundesliga,2024-10-14T16:00:00.000Z,Eintracht Frankfurt,Freiburg,6,0,True
+4561700,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-Turbine Potsdam_Fri, Oct 18, 2024, 16:30 UTC",Frauen-Bundesliga,2024-10-18T16:30:00.000Z,TSG 1899 Hoffenheim,Turbine Potsdam,6,0,True
+4561701,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-Werder Bremen_Sat, Oct 19, 2024, 10:00 UTC",Frauen-Bundesliga,2024-10-19T10:00:00.000Z,Eintracht Frankfurt,Werder Bremen,0,1,True
+4561698,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-FC Köln_Sat, Oct 19, 2024, 12:00 UTC",Frauen-Bundesliga,2024-10-19T12:00:00.000Z,FC Carl Zeiss Jena,FC Köln,2,2,True
+4561699,2024,Frauen-Bundesliga,"SGS Essen-vs-VfL Wolfsburg_Sun, Oct 20, 2024, 12:00 UTC",Frauen-Bundesliga,2024-10-20T12:00:00.000Z,SGS Essen,VfL Wolfsburg,0,2,True
+4561706,2024,Frauen-Bundesliga,"Freiburg-vs-RB Leipzig_Sun, Oct 20, 2024, 14:00 UTC",Frauen-Bundesliga,2024-10-20T14:00:00.000Z,Freiburg,RB Leipzig,4,1,True
+4561702,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-Bayern München_Sun, Oct 20, 2024, 16:30 UTC",Frauen-Bundesliga,2024-10-20T16:30:00.000Z,Bayer Leverkusen,Bayern München,2,3,True
+4561708,2024,Frauen-Bundesliga,"FC Köln-vs-Bayer Leverkusen_Fri, Nov 1, 2024, 17:30 UTC",Frauen-Bundesliga,2024-11-01T17:30:00.000Z,FC Köln,Bayer Leverkusen,1,2,True
+4561707,2024,Frauen-Bundesliga,"Werder Bremen-vs-SGS Essen_Sat, Nov 2, 2024, 11:00 UTC",Frauen-Bundesliga,2024-11-02T11:00:00.000Z,Werder Bremen,SGS Essen,1,0,True
+4561697,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-FC Carl Zeiss Jena_Sat, Nov 2, 2024, 13:00 UTC",Frauen-Bundesliga,2024-11-02T13:00:00.000Z,Turbine Potsdam,FC Carl Zeiss Jena,0,0,True
+4561704,2024,Frauen-Bundesliga,"RB Leipzig-vs-TSG 1899 Hoffenheim_Sun, Nov 3, 2024, 13:00 UTC",Frauen-Bundesliga,2024-11-03T13:00:00.000Z,RB Leipzig,TSG 1899 Hoffenheim,3,1,True
+4561703,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-Freiburg_Sun, Nov 3, 2024, 17:30 UTC",Frauen-Bundesliga,2024-11-03T17:30:00.000Z,VfL Wolfsburg,Freiburg,3,0,True
+4561705,2024,Frauen-Bundesliga,"Bayern München-vs-Eintracht Frankfurt_Mon, Nov 4, 2024, 17:00 UTC",Frauen-Bundesliga,2024-11-04T17:00:00.000Z,Bayern München,Eintracht Frankfurt,1,1,True
+4561710,2024,Frauen-Bundesliga,"Freiburg-vs-Bayern München_Fri, Nov 8, 2024, 17:30 UTC",Frauen-Bundesliga,2024-11-08T17:30:00.000Z,Freiburg,Bayern München,2,2,True
+4561713,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-VfL Wolfsburg_Sat, Nov 9, 2024, 11:00 UTC",Frauen-Bundesliga,2024-11-09T11:00:00.000Z,TSG 1899 Hoffenheim,VfL Wolfsburg,0,3,True
+4561689,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-FC Köln_Sat, Nov 9, 2024, 13:00 UTC",Frauen-Bundesliga,2024-11-09T13:00:00.000Z,Eintracht Frankfurt,FC Köln,8,0,True
+4561712,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-Turbine Potsdam_Sun, Nov 10, 2024, 13:00 UTC",Frauen-Bundesliga,2024-11-10T13:00:00.000Z,Bayer Leverkusen,Turbine Potsdam,3,0,True
+4561709,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-Werder Bremen_Sun, Nov 10, 2024, 17:30 UTC",Frauen-Bundesliga,2024-11-10T17:30:00.000Z,FC Carl Zeiss Jena,Werder Bremen,0,1,True
+4561711,2024,Frauen-Bundesliga,"SGS Essen-vs-RB Leipzig_Mon, Nov 11, 2024, 17:00 UTC",Frauen-Bundesliga,2024-11-11T17:00:00.000Z,SGS Essen,RB Leipzig,0,0,True
+4561686,2024,Frauen-Bundesliga,"Freiburg-vs-SGS Essen_Fri, Nov 15, 2024, 17:30 UTC",Frauen-Bundesliga,2024-11-15T17:30:00.000Z,Freiburg,SGS Essen,1,0,True
+4561683,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-Turbine Potsdam_Sat, Nov 16, 2024, 13:00 UTC",Frauen-Bundesliga,2024-11-16T13:00:00.000Z,VfL Wolfsburg,Turbine Potsdam,3,1,True
+4561682,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-Eintracht Frankfurt_Sat, Nov 16, 2024, 16:10 UTC",Frauen-Bundesliga,2024-11-16T16:10:00.000Z,TSG 1899 Hoffenheim,Eintracht Frankfurt,0,1,True
+4561685,2024,Frauen-Bundesliga,"Bayern München-vs-FC Carl Zeiss Jena_Sun, Nov 17, 2024, 13:00 UTC",Frauen-Bundesliga,2024-11-17T13:00:00.000Z,Bayern München,FC Carl Zeiss Jena,5,0,True
+4561684,2024,Frauen-Bundesliga,"RB Leipzig-vs-Bayer Leverkusen_Sun, Nov 17, 2024, 17:30 UTC",Frauen-Bundesliga,2024-11-17T17:30:00.000Z,RB Leipzig,Bayer Leverkusen,0,1,True
+4561681,2024,Frauen-Bundesliga,"FC Köln-vs-Werder Bremen_Mon, Nov 18, 2024, 17:00 UTC",Frauen-Bundesliga,2024-11-18T17:00:00.000Z,FC Köln,Werder Bremen,1,4,True
+4561688,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-VfL Wolfsburg_Fri, Dec 6, 2024, 17:30 UTC",Frauen-Bundesliga,2024-12-06T17:30:00.000Z,Bayer Leverkusen,VfL Wolfsburg,1,0,True
+4561692,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-FC Köln_Sat, Dec 7, 2024, 11:00 UTC",Frauen-Bundesliga,2024-12-07T11:00:00.000Z,Turbine Potsdam,FC Köln,0,1,True
+4561680,2024,Frauen-Bundesliga,"SGS Essen-vs-Bayern München_Sat, Dec 7, 2024, 13:00 UTC",Frauen-Bundesliga,2024-12-07T13:00:00.000Z,SGS Essen,Bayern München,0,2,True
+4561691,2024,Frauen-Bundesliga,"Werder Bremen-vs-Freiburg_Sun, Dec 8, 2024, 13:00 UTC",Frauen-Bundesliga,2024-12-08T13:00:00.000Z,Werder Bremen,Freiburg,0,3,True
+4561687,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-RB Leipzig_Mon, Dec 9, 2024, 17:00 UTC",Frauen-Bundesliga,2024-12-09T17:00:00.000Z,Eintracht Frankfurt,RB Leipzig,3,0,True
+4561690,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-TSG 1899 Hoffenheim_Sun, Jan 26, 2025, 13:00 UTC",Frauen-Bundesliga,2025-01-26T13:00:00.000Z,FC Carl Zeiss Jena,TSG 1899 Hoffenheim,0,3,True
+4561695,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-Eintracht Frankfurt_Fri, Dec 13, 2024, 17:30 UTC",Frauen-Bundesliga,2024-12-13T17:30:00.000Z,FC Carl Zeiss Jena,Eintracht Frankfurt,0,3,True
+4561714,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-Freiburg_Sat, Dec 14, 2024, 11:00 UTC",Frauen-Bundesliga,2024-12-14T11:00:00.000Z,Bayer Leverkusen,Freiburg,2,0,True
+4561694,2024,Frauen-Bundesliga,"Werder Bremen-vs-VfL Wolfsburg_Sat, Dec 14, 2024, 13:00 UTC",Frauen-Bundesliga,2024-12-14T13:00:00.000Z,Werder Bremen,VfL Wolfsburg,1,3,True
+4561715,2024,Frauen-Bundesliga,"Bayern München-vs-Turbine Potsdam_Sun, Dec 15, 2024, 13:00 UTC",Frauen-Bundesliga,2024-12-15T13:00:00.000Z,Bayern München,Turbine Potsdam,2,0,True
+4561693,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-SGS Essen_Sun, Dec 15, 2024, 17:30 UTC",Frauen-Bundesliga,2024-12-15T17:30:00.000Z,TSG 1899 Hoffenheim,SGS Essen,1,0,True
+4561696,2024,Frauen-Bundesliga,"FC Köln-vs-RB Leipzig_Mon, Dec 16, 2024, 17:00 UTC",Frauen-Bundesliga,2024-12-16T17:00:00.000Z,FC Köln,RB Leipzig,1,3,True
+4561737,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-Bayer Leverkusen_Fri, Jan 31, 2025, 17:30 UTC",Frauen-Bundesliga,2025-01-31T17:30:00.000Z,Eintracht Frankfurt,Bayer Leverkusen,3,2,True
+4561743,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-Werder Bremen_Sat, Feb 1, 2025, 13:00 UTC",Frauen-Bundesliga,2025-02-01T13:00:00.000Z,Turbine Potsdam,Werder Bremen,1,4,True
+4561735,2024,Frauen-Bundesliga,"Freiburg-vs-TSG 1899 Hoffenheim_Sun, Feb 2, 2025, 13:00 UTC",Frauen-Bundesliga,2025-02-02T13:00:00.000Z,Freiburg,TSG 1899 Hoffenheim,0,3,True
+4561738,2024,Frauen-Bundesliga,"RB Leipzig-vs-Bayern München_Sun, Feb 2, 2025, 17:30 UTC",Frauen-Bundesliga,2025-02-02T17:30:00.000Z,RB Leipzig,Bayern München,0,1,True
+4561739,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-FC Carl Zeiss Jena_Mon, Feb 3, 2025, 17:00 UTC",Frauen-Bundesliga,2025-02-03T17:00:00.000Z,VfL Wolfsburg,FC Carl Zeiss Jena,3,0,True
+4561736,2024,Frauen-Bundesliga,"SGS Essen-vs-FC Köln_Tue, Feb 11, 2025, 17:30 UTC",Frauen-Bundesliga,2025-02-11T17:30:00.000Z,SGS Essen,FC Köln,0,0,True
+4561741,2024,Frauen-Bundesliga,"FC Köln-vs-VfL Wolfsburg_Fri, Feb 7, 2025, 17:30 UTC",Frauen-Bundesliga,2025-02-07T17:30:00.000Z,FC Köln,VfL Wolfsburg,0,0,True
+4561742,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-SGS Essen_Sat, Feb 8, 2025, 11:00 UTC",Frauen-Bundesliga,2025-02-08T11:00:00.000Z,Bayer Leverkusen,SGS Essen,1,1,True
+4561745,2024,Frauen-Bundesliga,"Werder Bremen-vs-RB Leipzig_Sat, Feb 8, 2025, 13:00 UTC",Frauen-Bundesliga,2025-02-08T13:00:00.000Z,Werder Bremen,RB Leipzig,1,4,True
+4561744,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-Bayern München_Sun, Feb 9, 2025, 13:00 UTC",Frauen-Bundesliga,2025-02-09T13:00:00.000Z,TSG 1899 Hoffenheim,Bayern München,1,3,True
+4561740,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-Turbine Potsdam_Sun, Feb 9, 2025, 17:30 UTC",Frauen-Bundesliga,2025-02-09T17:30:00.000Z,Eintracht Frankfurt,Turbine Potsdam,9,0,True
+4561734,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-Freiburg_Wed, Mar 5, 2025, 17:30 UTC",Frauen-Bundesliga,2025-03-05T17:30:00.000Z,FC Carl Zeiss Jena,Freiburg,0,2,True
+4561748,2024,Frauen-Bundesliga,"RB Leipzig-vs-Turbine Potsdam_Fri, Feb 14, 2025, 17:30 UTC",Frauen-Bundesliga,2025-02-14T17:30:00.000Z,RB Leipzig,Turbine Potsdam,4,1,True
+4561749,2024,Frauen-Bundesliga,"Freiburg-vs-FC Köln_Sat, Feb 15, 2025, 11:00 UTC",Frauen-Bundesliga,2025-02-15T11:00:00.000Z,Freiburg,FC Köln,2,0,True
+4561750,2024,Frauen-Bundesliga,"SGS Essen-vs-FC Carl Zeiss Jena_Sat, Feb 15, 2025, 13:00 UTC",Frauen-Bundesliga,2025-02-15T13:00:00.000Z,SGS Essen,FC Carl Zeiss Jena,4,1,True
+4561746,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-Bayer Leverkusen_Sun, Feb 16, 2025, 13:00 UTC",Frauen-Bundesliga,2025-02-16T13:00:00.000Z,TSG 1899 Hoffenheim,Bayer Leverkusen,1,0,True
+4561747,2024,Frauen-Bundesliga,"Bayern München-vs-Werder Bremen_Sun, Feb 16, 2025, 14:15 UTC",Frauen-Bundesliga,2025-02-16T14:15:00.000Z,Bayern München,Werder Bremen,1,0,True
+4561751,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-Eintracht Frankfurt_Sun, Feb 16, 2025, 15:45 UTC",Frauen-Bundesliga,2025-02-16T15:45:00.000Z,VfL Wolfsburg,Eintracht Frankfurt,6,1,True
+4561721,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-SGS Essen_Fri, Mar 7, 2025, 17:30 UTC",Frauen-Bundesliga,2025-03-07T17:30:00.000Z,Eintracht Frankfurt,SGS Essen,2,1,True
+4561717,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-Freiburg_Sat, Mar 8, 2025, 11:00 UTC",Frauen-Bundesliga,2025-03-08T11:00:00.000Z,Turbine Potsdam,Freiburg,0,1,True
+4561720,2024,Frauen-Bundesliga,"RB Leipzig-vs-VfL Wolfsburg_Sat, Mar 8, 2025, 13:00 UTC",Frauen-Bundesliga,2025-03-08T13:00:00.000Z,RB Leipzig,VfL Wolfsburg,0,2,True
+4561719,2024,Frauen-Bundesliga,"FC Köln-vs-Bayern München_Sun, Mar 9, 2025, 13:00 UTC",Frauen-Bundesliga,2025-03-09T13:00:00.000Z,FC Köln,Bayern München,0,3,True
+4561725,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-Bayer Leverkusen_Sun, Mar 9, 2025, 17:30 UTC",Frauen-Bundesliga,2025-03-09T17:30:00.000Z,FC Carl Zeiss Jena,Bayer Leverkusen,0,2,True
+4561718,2024,Frauen-Bundesliga,"Werder Bremen-vs-TSG 1899 Hoffenheim_Mon, Mar 10, 2025, 17:00 UTC",Frauen-Bundesliga,2025-03-10T17:00:00.000Z,Werder Bremen,TSG 1899 Hoffenheim,1,0,True
+4561724,2024,Frauen-Bundesliga,"Bayern München-vs-VfL Wolfsburg_Fri, Mar 14, 2025, 15:55 UTC",Frauen-Bundesliga,2025-03-14T15:55:00.000Z,Bayern München,VfL Wolfsburg,3,1,True
+4561716,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-RB Leipzig_Sat, Mar 15, 2025, 11:00 UTC",Frauen-Bundesliga,2025-03-15T11:00:00.000Z,FC Carl Zeiss Jena,RB Leipzig,1,1,True
+4561723,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-FC Köln_Sat, Mar 15, 2025, 13:00 UTC",Frauen-Bundesliga,2025-03-15T13:00:00.000Z,TSG 1899 Hoffenheim,FC Köln,5,1,True
+4561727,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-Werder Bremen_Sun, Mar 16, 2025, 13:00 UTC",Frauen-Bundesliga,2025-03-16T13:00:00.000Z,Bayer Leverkusen,Werder Bremen,6,0,True
+4561726,2024,Frauen-Bundesliga,"SGS Essen-vs-Turbine Potsdam_Sun, Mar 16, 2025, 17:30 UTC",Frauen-Bundesliga,2025-03-16T17:30:00.000Z,SGS Essen,Turbine Potsdam,2,1,True
+4561722,2024,Frauen-Bundesliga,"Freiburg-vs-Eintracht Frankfurt_Mon, Mar 17, 2025, 17:00 UTC",Frauen-Bundesliga,2025-03-17T17:00:00.000Z,Freiburg,Eintracht Frankfurt,3,2,True
+4561730,2024,Frauen-Bundesliga,"FC Köln-vs-FC Carl Zeiss Jena_Fri, Mar 28, 2025, 17:30 UTC",Frauen-Bundesliga,2025-03-28T17:30:00.000Z,FC Köln,FC Carl Zeiss Jena,0,1,True
+4561729,2024,Frauen-Bundesliga,"Werder Bremen-vs-Eintracht Frankfurt_Sat, Mar 29, 2025, 11:00 UTC",Frauen-Bundesliga,2025-03-29T11:00:00.000Z,Werder Bremen,Eintracht Frankfurt,1,4,True
+4561728,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-TSG 1899 Hoffenheim_Sat, Mar 29, 2025, 13:00 UTC",Frauen-Bundesliga,2025-03-29T13:00:00.000Z,Turbine Potsdam,TSG 1899 Hoffenheim,0,7,True
+4561732,2024,Frauen-Bundesliga,"RB Leipzig-vs-Freiburg_Sun, Mar 30, 2025, 12:00 UTC",Frauen-Bundesliga,2025-03-30T12:00:00.000Z,RB Leipzig,Freiburg,1,1,True
+4561733,2024,Frauen-Bundesliga,"Bayern München-vs-Bayer Leverkusen_Sun, Mar 30, 2025, 13:15 UTC",Frauen-Bundesliga,2025-03-30T13:15:00.000Z,Bayern München,Bayer Leverkusen,2,0,True
+4561731,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-SGS Essen_Sun, Mar 30, 2025, 16:30 UTC",Frauen-Bundesliga,2025-03-30T16:30:00.000Z,VfL Wolfsburg,SGS Essen,5,1,True
+4561774,2024,Frauen-Bundesliga,"SGS Essen-vs-Werder Bremen_Fri, Apr 11, 2025, 16:30 UTC",Frauen-Bundesliga,2025-04-11T16:30:00.000Z,SGS Essen,Werder Bremen,0,1,True
+4561764,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-Turbine Potsdam_Sat, Apr 12, 2025, 10:00 UTC",Frauen-Bundesliga,2025-04-12T10:00:00.000Z,FC Carl Zeiss Jena,Turbine Potsdam,1,0,True
+4561772,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-Bayern München_Sat, Apr 12, 2025, 12:00 UTC",Frauen-Bundesliga,2025-04-12T12:00:00.000Z,Eintracht Frankfurt,Bayern München,0,3,True
+4561775,2024,Frauen-Bundesliga,"Freiburg-vs-VfL Wolfsburg_Sun, Apr 13, 2025, 12:00 UTC",Frauen-Bundesliga,2025-04-13T12:00:00.000Z,Freiburg,VfL Wolfsburg,1,1,True
+4561773,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-RB Leipzig_Sun, Apr 13, 2025, 16:30 UTC",Frauen-Bundesliga,2025-04-13T16:30:00.000Z,TSG 1899 Hoffenheim,RB Leipzig,5,2,True
+4561771,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-FC Köln_Mon, Apr 14, 2025, 16:00 UTC",Frauen-Bundesliga,2025-04-14T16:00:00.000Z,Bayer Leverkusen,FC Köln,1,1,True
+4561770,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-Bayer Leverkusen_Fri, Apr 25, 2025, 16:30 UTC",Frauen-Bundesliga,2025-04-25T16:30:00.000Z,Turbine Potsdam,Bayer Leverkusen,1,3,True
+4561767,2024,Frauen-Bundesliga,"RB Leipzig-vs-SGS Essen_Sat, Apr 26, 2025, 10:00 UTC",Frauen-Bundesliga,2025-04-26T10:00:00.000Z,RB Leipzig,SGS Essen,0,3,True
+4561769,2024,Frauen-Bundesliga,"Werder Bremen-vs-FC Carl Zeiss Jena_Sat, Apr 26, 2025, 12:00 UTC",Frauen-Bundesliga,2025-04-26T12:00:00.000Z,Werder Bremen,FC Carl Zeiss Jena,3,0,True
+4561765,2024,Frauen-Bundesliga,"Bayern München-vs-Freiburg_Sun, Apr 27, 2025, 12:00 UTC",Frauen-Bundesliga,2025-04-27T12:00:00.000Z,Bayern München,Freiburg,3,1,True
+4561766,2024,Frauen-Bundesliga,"FC Köln-vs-Eintracht Frankfurt_Sun, Apr 27, 2025, 16:30 UTC",Frauen-Bundesliga,2025-04-27T16:30:00.000Z,FC Köln,Eintracht Frankfurt,0,4,True
+4561768,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-TSG 1899 Hoffenheim_Mon, Apr 28, 2025, 16:00 UTC",Frauen-Bundesliga,2025-04-28T16:00:00.000Z,VfL Wolfsburg,TSG 1899 Hoffenheim,2,1,True
+4561761,2024,Frauen-Bundesliga,"SGS Essen-vs-Freiburg_Fri, May 2, 2025, 16:30 UTC",Frauen-Bundesliga,2025-05-02T16:30:00.000Z,SGS Essen,Freiburg,0,0,True
+4561760,2024,Frauen-Bundesliga,"Bayer Leverkusen-vs-RB Leipzig_Sat, May 3, 2025, 10:00 UTC",Frauen-Bundesliga,2025-05-03T10:00:00.000Z,Bayer Leverkusen,RB Leipzig,1,0,True
+4561762,2024,Frauen-Bundesliga,"Turbine Potsdam-vs-VfL Wolfsburg_Sat, May 3, 2025, 12:00 UTC",Frauen-Bundesliga,2025-05-03T12:00:00.000Z,Turbine Potsdam,VfL Wolfsburg,0,4,True
+4561752,2024,Frauen-Bundesliga,"Eintracht Frankfurt-vs-TSG 1899 Hoffenheim_Sun, May 4, 2025, 13:00 UTC",Frauen-Bundesliga,2025-05-04T13:00:00.000Z,Eintracht Frankfurt,TSG 1899 Hoffenheim,3,1,True
+4561763,2024,Frauen-Bundesliga,"Werder Bremen-vs-FC Köln_Sun, May 4, 2025, 16:30 UTC",Frauen-Bundesliga,2025-05-04T16:30:00.000Z,Werder Bremen,FC Köln,1,2,True
+4561759,2024,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-Bayern München_Mon, May 5, 2025, 16:00 UTC",Frauen-Bundesliga,2025-05-05T16:00:00.000Z,FC Carl Zeiss Jena,Bayern München,0,1,True
+4561753,2024,Frauen-Bundesliga,"Bayern München-vs-SGS Essen_Sun, May 11, 2025, 12:00 UTC",Frauen-Bundesliga,2025-05-11T12:00:00.000Z,Bayern München,SGS Essen,3,0,True
+4561756,2024,Frauen-Bundesliga,"FC Köln-vs-Turbine Potsdam_Sun, May 11, 2025, 12:00 UTC",Frauen-Bundesliga,2025-05-11T12:00:00.000Z,FC Köln,Turbine Potsdam,4,0,True
+4561758,2024,Frauen-Bundesliga,"Freiburg-vs-Werder Bremen_Sun, May 11, 2025, 12:00 UTC",Frauen-Bundesliga,2025-05-11T12:00:00.000Z,Freiburg,Werder Bremen,3,2,True
+4561754,2024,Frauen-Bundesliga,"RB Leipzig-vs-Eintracht Frankfurt_Sun, May 11, 2025, 12:00 UTC",Frauen-Bundesliga,2025-05-11T12:00:00.000Z,RB Leipzig,Eintracht Frankfurt,0,2,True
+4561757,2024,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-FC Carl Zeiss Jena_Sun, May 11, 2025, 12:00 UTC",Frauen-Bundesliga,2025-05-11T12:00:00.000Z,TSG 1899 Hoffenheim,FC Carl Zeiss Jena,4,0,True
+4561755,2024,Frauen-Bundesliga,"VfL Wolfsburg-vs-Bayer Leverkusen_Sun, May 11, 2025, 12:00 UTC",Frauen-Bundesliga,2025-05-11T12:00:00.000Z,VfL Wolfsburg,Bayer Leverkusen,3,1,True
+4863530,2025,Frauen-Bundesliga,"Eintracht Frankfurt-vs-SGS Essen_Fri, Sep 5, 2025, 16:30 UTC",Frauen-Bundesliga,2025-09-05T16:30:00.000Z,Eintracht Frankfurt,SGS Essen,5,0,True
+4863532,2025,Frauen-Bundesliga,"FC Köln-vs-RB Leipzig_Sat, Sep 6, 2025, 12:00 UTC",Frauen-Bundesliga,2025-09-06T12:00:00.000Z,FC Köln,RB Leipzig,0,2,True
+4863527,2025,Frauen-Bundesliga,"Bayern München-vs-Bayer Leverkusen_Sat, Sep 6, 2025, 15:45 UTC",Frauen-Bundesliga,2025-09-06T15:45:00.000Z,Bayern München,Bayer Leverkusen,2,0,True
+4863529,2025,Frauen-Bundesliga,"Werder Bremen-vs-Freiburg_Sun, Sep 7, 2025, 12:00 UTC",Frauen-Bundesliga,2025-09-07T12:00:00.000Z,Werder Bremen,Freiburg,1,1,True
+4863533,2025,Frauen-Bundesliga,"Hamburger SV-vs-VfL Wolfsburg_Sun, Sep 7, 2025, 14:00 UTC",Frauen-Bundesliga,2025-09-07T14:00:00.000Z,Hamburger SV,VfL Wolfsburg,3,3,True
+4863528,2025,Frauen-Bundesliga,"Union Berlin-vs-Nürnberg_Sun, Sep 7, 2025, 16:30 UTC",Frauen-Bundesliga,2025-09-07T16:30:00.000Z,Union Berlin,Nürnberg,1,1,True
+4863531,2025,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-TSG 1899 Hoffenheim_Mon, Sep 8, 2025, 16:00 UTC",Frauen-Bundesliga,2025-09-08T16:00:00.000Z,FC Carl Zeiss Jena,TSG 1899 Hoffenheim,1,4,True
+4863535,2025,Frauen-Bundesliga,"Freiburg-vs-FC Köln_Fri, Sep 12, 2025, 16:30 UTC",Frauen-Bundesliga,2025-09-12T16:30:00.000Z,Freiburg,FC Köln,1,0,True
+4863538,2025,Frauen-Bundesliga,"Nürnberg-vs-Werder Bremen_Sat, Sep 13, 2025, 10:00 UTC",Frauen-Bundesliga,2025-09-13T10:00:00.000Z,Nürnberg,Werder Bremen,1,4,True
+4863534,2025,Frauen-Bundesliga,"SGS Essen-vs-Hamburger SV_Sat, Sep 13, 2025, 12:00 UTC",Frauen-Bundesliga,2025-09-13T12:00:00.000Z,SGS Essen,Hamburger SV,0,0,True
+4863536,2025,Frauen-Bundesliga,"RB Leipzig-vs-Bayern München_Sun, Sep 14, 2025, 12:00 UTC",Frauen-Bundesliga,2025-09-14T12:00:00.000Z,RB Leipzig,Bayern München,0,3,True
+4863539,2025,Frauen-Bundesliga,"VfL Wolfsburg-vs-FC Carl Zeiss Jena_Sun, Sep 14, 2025, 14:00 UTC",Frauen-Bundesliga,2025-09-14T14:00:00.000Z,VfL Wolfsburg,FC Carl Zeiss Jena,3,1,True
+4863540,2025,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-Eintracht Frankfurt_Sun, Sep 14, 2025, 16:30 UTC",Frauen-Bundesliga,2025-09-14T16:30:00.000Z,TSG 1899 Hoffenheim,Eintracht Frankfurt,3,0,True
+4863537,2025,Frauen-Bundesliga,"Bayer Leverkusen-vs-Union Berlin_Mon, Sep 15, 2025, 16:00 UTC",Frauen-Bundesliga,2025-09-15T16:00:00.000Z,Bayer Leverkusen,Union Berlin,3,2,True
+4863666,2025,Frauen-Bundesliga,"Freiburg-vs-Hamburger SV_Fri, Sep 19, 2025, 16:30 UTC",Frauen-Bundesliga,2025-09-19T16:30:00.000Z,Freiburg,Hamburger SV,6,2,True
+4863541,2025,Frauen-Bundesliga,"Union Berlin-vs-SGS Essen_Sat, Sep 20, 2025, 10:00 UTC",Frauen-Bundesliga,2025-09-20T10:00:00.000Z,Union Berlin,SGS Essen,2,0,True
+4863545,2025,Frauen-Bundesliga,"Bayern München-vs-FC Carl Zeiss Jena_Sat, Sep 20, 2025, 12:00 UTC",Frauen-Bundesliga,2025-09-20T12:00:00.000Z,Bayern München,FC Carl Zeiss Jena,0,0,True
+4863542,2025,Frauen-Bundesliga,"Werder Bremen-vs-TSG 1899 Hoffenheim_Sun, Sep 21, 2025, 12:00 UTC",Frauen-Bundesliga,2025-09-21T12:00:00.000Z,Werder Bremen,TSG 1899 Hoffenheim,2,1,True
+4863546,2025,Frauen-Bundesliga,"Nürnberg-vs-Bayer Leverkusen_Sun, Sep 21, 2025, 14:00 UTC",Frauen-Bundesliga,2025-09-21T14:00:00.000Z,Nürnberg,Bayer Leverkusen,0,1,True
+4863544,2025,Frauen-Bundesliga,"FC Köln-vs-VfL Wolfsburg_Sun, Sep 21, 2025, 16:30 UTC",Frauen-Bundesliga,2025-09-21T16:30:00.000Z,FC Köln,VfL Wolfsburg,1,2,True
+4863547,2025,Frauen-Bundesliga,"Eintracht Frankfurt-vs-RB Leipzig_Mon, Sep 22, 2025, 16:00 UTC",Frauen-Bundesliga,2025-09-22T16:00:00.000Z,Eintracht Frankfurt,RB Leipzig,4,3,True
+4863549,2025,Frauen-Bundesliga,"Bayern München-vs-Freiburg_Tue, Sep 23, 2025, 16:00 UTC",Frauen-Bundesliga,2025-09-23T16:00:00.000Z,Bayern München,Freiburg,4,0,True
+4863551,2025,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-Union Berlin_Tue, Sep 23, 2025, 17:00 UTC",Frauen-Bundesliga,2025-09-23T17:00:00.000Z,FC Carl Zeiss Jena,Union Berlin,1,2,True
+4863548,2025,Frauen-Bundesliga,"SGS Essen-vs-FC Köln_Wed, Sep 24, 2025, 17:00 UTC",Frauen-Bundesliga,2025-09-24T17:00:00.000Z,SGS Essen,FC Köln,1,2,True
+4863550,2025,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-Nürnberg_Wed, Sep 24, 2025, 17:00 UTC",Frauen-Bundesliga,2025-09-24T17:00:00.000Z,TSG 1899 Hoffenheim,Nürnberg,1,1,True
+4863554,2025,Frauen-Bundesliga,"VfL Wolfsburg-vs-Werder Bremen_Wed, Sep 24, 2025, 17:00 UTC",Frauen-Bundesliga,2025-09-24T17:00:00.000Z,VfL Wolfsburg,Werder Bremen,4,2,True
+4863553,2025,Frauen-Bundesliga,"Bayer Leverkusen-vs-Eintracht Frankfurt_Thu, Sep 25, 2025, 17:00 UTC",Frauen-Bundesliga,2025-09-25T17:00:00.000Z,Bayer Leverkusen,Eintracht Frankfurt,2,1,True
+4863552,2025,Frauen-Bundesliga,"RB Leipzig-vs-Hamburger SV_Thu, Sep 25, 2025, 17:00 UTC",Frauen-Bundesliga,2025-09-25T17:00:00.000Z,RB Leipzig,Hamburger SV,0,1,True
+4863590,2025,Frauen-Bundesliga,"Eintracht Frankfurt-vs-FC Carl Zeiss Jena_Fri, Oct 3, 2025, 16:30 UTC",Frauen-Bundesliga,2025-10-03T16:30:00.000Z,Eintracht Frankfurt,FC Carl Zeiss Jena,3,1,True
+4863593,2025,Frauen-Bundesliga,"SGS Essen-vs-VfL Wolfsburg_Sat, Oct 4, 2025, 10:00 UTC",Frauen-Bundesliga,2025-10-04T10:00:00.000Z,SGS Essen,VfL Wolfsburg,0,8,True
+4863589,2025,Frauen-Bundesliga,"Bayern München-vs-Werder Bremen_Sat, Oct 4, 2025, 12:00 UTC",Frauen-Bundesliga,2025-10-04T12:00:00.000Z,Bayern München,Werder Bremen,4,0,True
+4863594,2025,Frauen-Bundesliga,"Union Berlin-vs-Freiburg_Sun, Oct 5, 2025, 12:00 UTC",Frauen-Bundesliga,2025-10-05T12:00:00.000Z,Union Berlin,Freiburg,0,3,True
+4863588,2025,Frauen-Bundesliga,"Nürnberg-vs-RB Leipzig_Sun, Oct 5, 2025, 14:00 UTC",Frauen-Bundesliga,2025-10-05T14:00:00.000Z,Nürnberg,RB Leipzig,1,1,True
+4863592,2025,Frauen-Bundesliga,"FC Köln-vs-Bayer Leverkusen_Sun, Oct 5, 2025, 16:30 UTC",Frauen-Bundesliga,2025-10-05T16:30:00.000Z,FC Köln,Bayer Leverkusen,1,0,True
+4863591,2025,Frauen-Bundesliga,"Hamburger SV-vs-TSG 1899 Hoffenheim_Mon, Oct 6, 2025, 16:00 UTC",Frauen-Bundesliga,2025-10-06T16:00:00.000Z,Hamburger SV,TSG 1899 Hoffenheim,1,4,True
+5006346,2025,Frauen-Bundesliga,"FC Köln-vs-Bayer Leverkusen_Thu, Oct 16, 2025, 16:00 UTC",Frauen-Bundesliga,2025-10-16T16:00:00.000Z,FC Köln,Bayer Leverkusen,2,2,True
+4863599,2025,Frauen-Bundesliga,"RB Leipzig-vs-SGS Essen_Fri, Oct 10, 2025, 16:30 UTC",Frauen-Bundesliga,2025-10-10T16:30:00.000Z,RB Leipzig,SGS Essen,2,1,True
+4863601,2025,Frauen-Bundesliga,"VfL Wolfsburg-vs-Bayern München_Sat, Oct 11, 2025, 13:00 UTC",Frauen-Bundesliga,2025-10-11T13:00:00.000Z,VfL Wolfsburg,Bayern München,1,3,True
+4863600,2025,Frauen-Bundesliga,"Werder Bremen-vs-Hamburger SV_Sat, Oct 11, 2025, 15:45 UTC",Frauen-Bundesliga,2025-10-11T15:45:00.000Z,Werder Bremen,Hamburger SV,2,0,True
+4863595,2025,Frauen-Bundesliga,"Freiburg-vs-Eintracht Frankfurt_Sun, Oct 12, 2025, 12:00 UTC",Frauen-Bundesliga,2025-10-12T12:00:00.000Z,Freiburg,Eintracht Frankfurt,3,2,True
+4863596,2025,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-Bayer Leverkusen_Sun, Oct 12, 2025, 14:00 UTC",Frauen-Bundesliga,2025-10-12T14:00:00.000Z,TSG 1899 Hoffenheim,Bayer Leverkusen,0,2,True
+4863598,2025,Frauen-Bundesliga,"FC Köln-vs-Union Berlin_Sun, Oct 12, 2025, 16:30 UTC",Frauen-Bundesliga,2025-10-12T16:30:00.000Z,FC Köln,Union Berlin,2,1,True
+4863597,2025,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-Nürnberg_Mon, Oct 13, 2025, 16:00 UTC",Frauen-Bundesliga,2025-10-13T16:00:00.000Z,FC Carl Zeiss Jena,Nürnberg,2,3,True
+4863607,2025,Frauen-Bundesliga,"SGS Essen-vs-TSG 1899 Hoffenheim_Fri, Oct 17, 2025, 16:30 UTC",Frauen-Bundesliga,2025-10-17T16:30:00.000Z,SGS Essen,TSG 1899 Hoffenheim,0,1,True
+4863602,2025,Frauen-Bundesliga,"Nürnberg-vs-Freiburg_Sat, Oct 18, 2025, 10:00 UTC",Frauen-Bundesliga,2025-10-18T10:00:00.000Z,Nürnberg,Freiburg,3,2,True
+4863606,2025,Frauen-Bundesliga,"Hamburger SV-vs-FC Carl Zeiss Jena_Sat, Oct 18, 2025, 12:00 UTC",Frauen-Bundesliga,2025-10-18T12:00:00.000Z,Hamburger SV,FC Carl Zeiss Jena,1,1,True
+4863608,2025,Frauen-Bundesliga,"Union Berlin-vs-RB Leipzig_Sun, Oct 19, 2025, 10:00 UTC",Frauen-Bundesliga,2025-10-19T10:00:00.000Z,Union Berlin,RB Leipzig,5,0,True
+4863605,2025,Frauen-Bundesliga,"Eintracht Frankfurt-vs-Werder Bremen_Sun, Oct 19, 2025, 12:00 UTC",Frauen-Bundesliga,2025-10-19T12:00:00.000Z,Eintracht Frankfurt,Werder Bremen,2,0,True
+4863604,2025,Frauen-Bundesliga,"Bayern München-vs-FC Köln_Sun, Oct 19, 2025, 14:00 UTC",Frauen-Bundesliga,2025-10-19T14:00:00.000Z,Bayern München,FC Köln,5,1,True
+4863603,2025,Frauen-Bundesliga,"Bayer Leverkusen-vs-VfL Wolfsburg_Sun, Oct 19, 2025, 15:15 UTC",Frauen-Bundesliga,2025-10-19T15:15:00.000Z,Bayer Leverkusen,VfL Wolfsburg,1,5,True
+4863613,2025,Frauen-Bundesliga,"FC Köln-vs-Nürnberg_Fri, Oct 31, 2025, 17:30 UTC",Frauen-Bundesliga,2025-10-31T17:30:00.000Z,FC Köln,Nürnberg,3,0,True
+4863614,2025,Frauen-Bundesliga,"Werder Bremen-vs-Union Berlin_Sat, Nov 1, 2025, 11:00 UTC",Frauen-Bundesliga,2025-11-01T11:00:00.000Z,Werder Bremen,Union Berlin,3,0,True
+4863609,2025,Frauen-Bundesliga,"Bayern München-vs-SGS Essen_Sat, Nov 1, 2025, 13:00 UTC",Frauen-Bundesliga,2025-11-01T13:00:00.000Z,Bayern München,SGS Essen,4,1,True
+4863615,2025,Frauen-Bundesliga,"VfL Wolfsburg-vs-TSG 1899 Hoffenheim_Sat, Nov 1, 2025, 15:00 UTC",Frauen-Bundesliga,2025-11-01T15:00:00.000Z,VfL Wolfsburg,TSG 1899 Hoffenheim,2,1,True
+4863612,2025,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-Bayer Leverkusen_Sun, Nov 2, 2025, 12:00 UTC",Frauen-Bundesliga,2025-11-02T12:00:00.000Z,FC Carl Zeiss Jena,Bayer Leverkusen,2,4,True
+4863611,2025,Frauen-Bundesliga,"Hamburger SV-vs-Eintracht Frankfurt_Sun, Nov 2, 2025, 14:00 UTC",Frauen-Bundesliga,2025-11-02T14:00:00.000Z,Hamburger SV,Eintracht Frankfurt,0,4,True
+4863610,2025,Frauen-Bundesliga,"Freiburg-vs-RB Leipzig_Mon, Nov 3, 2025, 17:00 UTC",Frauen-Bundesliga,2025-11-03T17:00:00.000Z,Freiburg,RB Leipzig,2,4,True
+4863616,2025,Frauen-Bundesliga,"Nürnberg-vs-Bayern München_Tue, Nov 4, 2025, 17:00 UTC",Frauen-Bundesliga,2025-11-04T17:00:00.000Z,Nürnberg,Bayern München,0,6,True
+4863622,2025,Frauen-Bundesliga,"Union Berlin-vs-VfL Wolfsburg_Tue, Nov 4, 2025, 18:00 UTC",Frauen-Bundesliga,2025-11-04T18:00:00.000Z,Union Berlin,VfL Wolfsburg,1,4,True
+4863617,2025,Frauen-Bundesliga,"Bayer Leverkusen-vs-Hamburger SV_Wed, Nov 5, 2025, 18:00 UTC",Frauen-Bundesliga,2025-11-05T18:00:00.000Z,Bayer Leverkusen,Hamburger SV,2,1,True
+4863618,2025,Frauen-Bundesliga,"Eintracht Frankfurt-vs-FC Köln_Wed, Nov 5, 2025, 18:00 UTC",Frauen-Bundesliga,2025-11-05T18:00:00.000Z,Eintracht Frankfurt,FC Köln,1,1,True
+4863621,2025,Frauen-Bundesliga,"SGS Essen-vs-Werder Bremen_Wed, Nov 5, 2025, 18:00 UTC",Frauen-Bundesliga,2025-11-05T18:00:00.000Z,SGS Essen,Werder Bremen,2,3,True
+4863620,2025,Frauen-Bundesliga,"RB Leipzig-vs-FC Carl Zeiss Jena_Thu, Nov 6, 2025, 18:00 UTC",Frauen-Bundesliga,2025-11-06T18:00:00.000Z,RB Leipzig,FC Carl Zeiss Jena,2,0,True
+4863619,2025,Frauen-Bundesliga,"TSG 1899 Hoffenheim-vs-Freiburg_Thu, Nov 6, 2025, 18:00 UTC",Frauen-Bundesliga,2025-11-06T18:00:00.000Z,TSG 1899 Hoffenheim,Freiburg,2,1,True
+4863623,2025,Frauen-Bundesliga,"Bayern München-vs-Union Berlin_Fri, Nov 7, 2025, 17:30 UTC",Frauen-Bundesliga,2025-11-07T17:30:00.000Z,Bayern München,Union Berlin,4,0,True
+4863629,2025,Frauen-Bundesliga,"VfL Wolfsburg-vs-Eintracht Frankfurt_Sat, Nov 8, 2025, 13:00 UTC",Frauen-Bundesliga,2025-11-08T13:00:00.000Z,VfL Wolfsburg,Eintracht Frankfurt,2,3,True
+4863626,2025,Frauen-Bundesliga,"FC Carl Zeiss Jena-vs-SGS Essen_Sun, Nov 9, 2025, 11:00 UTC",Frauen-Bundesliga,2025-11-09T11:00:00.000Z,FC Carl Zeiss Jena,SGS Essen,1,1,True
+4863625,2025,Frauen-Bundesliga,"Hamburger SV-vs-Nürnberg_Sun, Nov 9, 2025, 13:00 UTC",Frauen-Bundesliga,2025-11-09T13:00:00.000Z,Hamburger SV,Nürnberg,1,2,True
+4863627,2025,Frauen-Bundesliga,"FC Köln-vs-TSG 1899 Hoffenheim_Sun, Nov 9, 2025, 15:00 UTC",Frauen-Bundesliga,2025-11-09T15:00:00.000Z,FC Köln,TSG 1899 Hoffenheim,1,0,True
+4863628,2025,Frauen-Bundesliga,"Werder Bremen-vs-RB Leipzig_Sun, Nov 9, 2025, 17:30 UTC",Frauen-Bundesliga,2025-11-09T17:30:00.000Z,Werder Bremen,RB Leipzig,2,1,True
+4863624,2025,Frauen-Bundesliga,"Freiburg-vs-Bayer Leverkusen_Mon, Nov 10, 2025, 17:00 UTC",Frauen-Bundesliga,2025-11-10T17:00:00.000Z,Freiburg,Bayer Leverkusen,2,1,True
