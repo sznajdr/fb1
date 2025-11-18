@@ -1,0 +1,532 @@
+season,competition,player_id,player_name,team,matches_played,starts,total_minutes,avg_rating,total_goals,total_assists,age,position,country,start_percentage,avg_minutes_per_game,goals_per_90
+2024,Frauen-Bundesliga,129780,Linda Sembrant,Bayern München,9,9,810,7.2444444444444445,2,0,37,Defender,Sweden,100.0,90.0,0.222
+2024,Frauen-Bundesliga,182846,Bianca Schmidt,Turbine Potsdam,8,8,548,6.328571428571428,1,0,34,Midfielder,Germany,100.0,68.5,0.164
+2024,Frauen-Bundesliga,200707,Pernille Harder,Bayern München,21,21,1721,7.747619047619047,14,5,31,Unknown,Denmark,100.0,82.0,0.732
+2024,Frauen-Bundesliga,271109,Alexandra Popp,VfL Wolfsburg,18,18,1531,7.833333333333333,7,3,33,Unknown,Germany,100.0,85.1,0.411
+2024,Frauen-Bundesliga,294606,Jennifer Cramer,Turbine Potsdam,15,15,1257,6.333333333333333,0,0,31,Defender,Germany,100.0,83.8,0.0
+2024,Frauen-Bundesliga,294952,Svenja Huth,VfL Wolfsburg,20,20,1700,7.65,1,6,33,Unknown,Germany,100.0,85.0,0.053
+2024,Frauen-Bundesliga,440356,Synne Skinnes Hansen,Bayer Leverkusen,4,4,316,6.825,0,0,29,Defender,Norway,100.0,79.0,0.0
+2024,Frauen-Bundesliga,440499,Tuva Hansen,Bayern München,16,16,1370,7.28125,0,2,27,Defender,Norway,100.0,85.6,0.0
+2024,Frauen-Bundesliga,483047,Aurora Mikalsen,FC Köln,7,7,630,6.8428571428571425,0,0,28,Goalkeeper,Norway,100.0,90.0,0.0
+2024,Frauen-Bundesliga,734689,Merle Frohms,VfL Wolfsburg,12,12,1080,6.741666666666667,0,0,29,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,734703,Michaela Brandenburg,Werder Bremen,6,6,386,6.74,0,0,26,Defender,Germany,100.0,64.3,0.0
+2024,Frauen-Bundesliga,734709,Joelle Wedemeyer,VfL Wolfsburg,7,7,630,7.128571428571428,0,0,28,Defender,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,773401,Magdalena Eriksson,Bayern München,8,8,678,7.2,1,0,31,Defender,Sweden,100.0,84.8,0.133
+2024,Frauen-Bundesliga,856253,Lineth Beerensteyn,VfL Wolfsburg,18,18,1519,7.758823529411765,14,1,27,Unknown,Netherlands,100.0,84.4,0.829
+2024,Frauen-Bundesliga,856535,Jasmin Pal,FC Köln,1,1,90,7.1,0,0,28,Goalkeeper,Austria,100.0,90.0,0.0
+2024,Frauen-Bundesliga,856549,Sarah Zadrazil,Bayern München,13,13,1104,7.43076923076923,1,0,31,Midfielder,Austria,100.0,84.9,0.082
+2024,Frauen-Bundesliga,856551,Barbara Dunst,Eintracht Frankfurt,10,10,845,7.69,1,5,26,Unknown,Austria,100.0,84.5,0.107
+2024,Frauen-Bundesliga,856553,Laura Feiersinger,FC Köln,21,21,1835,7.20952380952381,0,4,31,Unknown,Austria,100.0,87.4,0.0
+2024,Frauen-Bundesliga,856554,Nicole Billa,FC Köln,9,9,626,6.644444444444445,3,0,28,Unknown,Austria,100.0,69.6,0.431
+2024,Frauen-Bundesliga,858999,Glodis Perla Viggosdottir,Bayern München,17,17,1475,7.447058823529411,1,2,29,Defender,Iceland,100.0,86.8,0.061
+2024,Frauen-Bundesliga,859021,Géraldine Reuteler,Eintracht Frankfurt,20,20,1699,7.95,10,7,25,Forward,Switzerland,100.0,85.0,0.53
+2024,Frauen-Bundesliga,859026,Kathrin-Julia Hendrich,VfL Wolfsburg,13,13,1033,7.015384615384615,0,0,32,Defender,Germany,100.0,79.5,0.0
+2024,Frauen-Bundesliga,859027,Carolin Simon,Bayern München,18,18,1501,7.7555555555555555,3,3,31,Defender,Germany,100.0,83.4,0.18
+2024,Frauen-Bundesliga,859028,Linda Dallmann,Bayern München,9,9,607,7.077777777777778,1,2,30,Unknown,Germany,100.0,67.4,0.148
+2024,Frauen-Bundesliga,859029,Sara Doorsoun,Eintracht Frankfurt,18,18,1463,7.48888888888889,4,0,32,Defender,Germany,100.0,81.3,0.246
+2024,Frauen-Bundesliga,859031,Hasret Kayikci,Freiburg,1,1,12,6.6,0,0,33,Unknown,Germany,100.0,12.0,0.0
+2024,Frauen-Bundesliga,881613,Tanja Pawollek,Eintracht Frankfurt,9,9,810,7.433333333333334,1,0,25,Midfielder,Poland,100.0,90.0,0.111
+2024,Frauen-Bundesliga,881741,Annalena Rieke,SGS Essen,19,19,1682,7.1157894736842096,4,1,25,Midfielder,Germany,100.0,88.5,0.214
+2024,Frauen-Bundesliga,881818,Marina Hegering,VfL Wolfsburg,14,14,1046,7.421428571428572,1,1,34,Defender,Germany,100.0,74.7,0.086
+2024,Frauen-Bundesliga,884202,Sharon Beck,Werder Bremen,1,1,75,6.3,0,0,30,Unknown,Israel,100.0,75.0,0.0
+2024,Frauen-Bundesliga,884218,Sarai Linder,VfL Wolfsburg,16,16,1251,7.05625,1,2,24,Unknown,Germany,100.0,78.2,0.072
+2024,Frauen-Bundesliga,884264,Nina Lührssen,Eintracht Frankfurt,17,17,1434,7.329411764705882,0,4,24,Defender,Germany,100.0,84.4,0.0
+2024,Frauen-Bundesliga,886678,Lea Schüller,Bayern München,13,13,1030,7.053846153846154,5,0,26,Unknown,Germany,100.0,79.2,0.437
+2024,Frauen-Bundesliga,886706,Georgia Stanway,Bayern München,12,12,1029,7.75,5,3,25,Unknown,England,100.0,85.8,0.437
+2024,Frauen-Bundesliga,887110,Emilie Bragstad,Bayer Leverkusen,1,1,90,6.8,0,0,22,Defender,Norway,100.0,90.0,0.0
+2024,Frauen-Bundesliga,887326,Marta Cazalla,TSG 1899 Hoffenheim,22,22,1936,7.1863636363636365,5,2,27,Defender,Spain,100.0,88.0,0.232
+2024,Frauen-Bundesliga,887416,Kristin Kögel,Bayer Leverkusen,21,21,1766,7.51,5,4,25,Midfielder,Germany,100.0,84.1,0.255
+2024,Frauen-Bundesliga,887418,Sydney Lohmann,Bayern München,11,11,807,7.327272727272727,1,2,24,Unknown,Germany,100.0,73.4,0.112
+2024,Frauen-Bundesliga,887423,Jovana Damnjanovic,Bayern München,8,8,493,6.775,0,1,29,Unknown,Serbia,100.0,61.6,0.0
+2024,Frauen-Bundesliga,887424,Verena Wieder,Werder Bremen,4,4,280,6.4,0,0,24,Forward,Germany,100.0,70.0,0.0
+2024,Frauen-Bundesliga,887454,Meret Felde,Freiburg,6,6,496,7.05,0,2,25,Midfielder,Germany,100.0,82.7,0.0
+2024,Frauen-Bundesliga,887454,Meret Velde,Freiburg,8,8,678,6.9125,0,0,25,Midfielder,Germany,100.0,84.8,0.0
+2024,Frauen-Bundesliga,887454,Meret Wittje,Freiburg,1,1,90,,0,0,25,Midfielder,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,887700,Samantha Kerr,Bayern München,2,2,180,6.8,0,0,25,Midfielder,Scotland,100.0,90.0,0.0
+2024,Frauen-Bundesliga,887992,Julia Stierli,Freiburg,19,19,1649,6.944444444444445,0,0,27,Defender,Switzerland,100.0,86.8,0.0
+2024,Frauen-Bundesliga,888165,Klara Bühl,Bayern München,20,20,1589,7.9799999999999995,6,14,23,Midfielder,Germany,100.0,79.4,0.34
+2024,Frauen-Bundesliga,888650,Giulia Gwinn,Bayern München,18,18,1604,7.2555555555555555,0,1,25,Defender,Germany,100.0,89.1,0.0
+2024,Frauen-Bundesliga,889243,Jana Feldkamp,TSG 1899 Hoffenheim,14,14,1153,6.764285714285714,0,2,26,Midfielder,Germany,100.0,82.4,0.0
+2024,Frauen-Bundesliga,889542,Nicole Anyomi,Eintracht Frankfurt,15,15,1117,7.5,9,3,24,Forward,Germany,100.0,74.5,0.725
+2024,Frauen-Bundesliga,889551,Lena Lattwein,VfL Wolfsburg,17,17,1282,7.152941176470588,4,1,24,Midfielder,Germany,100.0,75.4,0.281
+2024,Frauen-Bundesliga,892682,Fabienne Dongus,TSG 1899 Hoffenheim,7,7,578,7.014285714285714,0,1,30,Midfielder,Germany,100.0,82.6,0.0
+2024,Frauen-Bundesliga,892683,Jacqueline Meissner,SGS Essen,16,16,1373,7.168749999999999,0,1,30,Defender,Germany,100.0,85.8,0.0
+2024,Frauen-Bundesliga,892685,Lina Hausicke,Werder Bremen,5,5,439,6.279999999999999,0,0,27,Defender,Germany,100.0,87.8,0.0
+2024,Frauen-Bundesliga,895787,Anja Pfluger,SGS Essen,4,4,235,6.3,0,0,30,Midfielder,Germany,100.0,58.8,0.0
+2024,Frauen-Bundesliga,895789,Anna Gerhardt,FC Köln,16,16,1365,6.4875,1,0,26,Defender,Germany,100.0,85.3,0.066
+2024,Frauen-Bundesliga,895812,Vanessa Fürst,SGS Essen,19,19,1625,6.6947368421052635,0,0,22,Defender,Germany,100.0,85.5,0.0
+2024,Frauen-Bundesliga,896085,Stina Johannes,Eintracht Frankfurt,22,22,1980,6.9,0,0,24,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,896303,Selina Ostermeier,Bayer Leverkusen,21,21,1867,7.13,1,0,26,Defender,Germany,100.0,88.9,0.048
+2024,Frauen-Bundesliga,896307,Janina Hechler,FC Köln,16,16,1379,6.7375,1,0,25,Defender,Germany,100.0,86.2,0.065
+2024,Frauen-Bundesliga,896310,Saskia Matheis,Werder Bremen,9,9,701,6.711111111111111,1,2,27,Defender,Germany,100.0,77.9,0.128
+2024,Frauen-Bundesliga,896322,Valentina Limani,Turbine Potsdam,9,9,680,6.411111111111111,0,0,27,Unknown,Kosovo,100.0,75.6,0.0
+2024,Frauen-Bundesliga,896349,Julia Debitzki,SGS Essen,1,1,82,6.1,0,0,33,Midfielder,Germany,100.0,82.0,0.0
+2024,Frauen-Bundesliga,896357,Rieke Dieckmann,Werder Bremen,17,17,1284,6.641176470588236,0,0,28,Forward,Germany,100.0,75.5,0.0
+2024,Frauen-Bundesliga,896363,Rafaela Borggräfe,Freiburg,19,19,1684,7.144444444444444,0,0,24,Goalkeeper,Germany,100.0,88.6,0.0
+2024,Frauen-Bundesliga,896365,Noemi Gentile,FC Carl Zeiss Jena,10,10,641,6.43,1,0,24,Defender,Germany,100.0,64.1,0.14
+2024,Frauen-Bundesliga,896366,Greta Stegemann,Freiburg,11,11,909,7.0200000000000005,1,1,23,Defender,Germany,100.0,82.6,0.099
+2024,Frauen-Bundesliga,896367,Lisa Karl,Freiburg,22,22,1980,7.2285714285714295,4,1,28,Defender,Germany,100.0,90.0,0.182
+2024,Frauen-Bundesliga,896372,Janina Minge,VfL Wolfsburg,19,19,1675,7.621052631578948,4,2,25,Midfielder,Germany,100.0,88.2,0.215
+2024,Frauen-Bundesliga,896375,Sandra Starke,RB Leipzig,13,13,1126,7.023076923076923,0,1,31,Midfielder,Germany,100.0,86.6,0.0
+2024,Frauen-Bundesliga,898097,Kim Sindermann,SGS Essen,9,9,810,5.7444444444444445,0,0,23,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,898101,Lena Ostermeier,SGS Essen,14,14,1225,7.292857142857143,0,0,27,Defender,Germany,100.0,87.5,0.0
+2024,Frauen-Bundesliga,898112,Martina Tufekovic,TSG 1899 Hoffenheim,1,1,25,6.3,0,0,30,Goalkeeper,Croatia,100.0,25.0,0.0
+2024,Frauen-Bundesliga,898114,Friederike Repohl,Bayer Leverkusen,20,20,1800,6.81,0,0,30,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,898134,Franziska Harsch,TSG 1899 Hoffenheim,10,10,752,7.05,0,0,27,Midfielder,Germany,100.0,75.2,0.0
+2024,Frauen-Bundesliga,898137,Dora Zeller,FC Köln,17,17,1424,6.694117647058824,2,0,29,Unknown,Hungary,100.0,83.8,0.126
+2024,Frauen-Bundesliga,898495,Vanessa Fischer,Turbine Potsdam,16,16,1396,6.26875,0,0,26,Goalkeeper,Germany,100.0,87.2,0.0
+2024,Frauen-Bundesliga,898497,Caroline Siems,Werder Bremen,12,12,1080,6.991666666666667,0,2,25,Unknown,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,898503,Melissa Kössler,TSG 1899 Hoffenheim,14,14,1132,7.014285714285714,3,2,24,Forward,Germany,100.0,80.9,0.239
+2024,Frauen-Bundesliga,898504,Viktoria Schwalm,Turbine Potsdam,6,6,472,6.716666666666666,0,1,27,Forward,Germany,100.0,78.7,0.0
+2024,Frauen-Bundesliga,898505,Lara Prasnikar,Eintracht Frankfurt,14,14,1095,7.4,5,7,26,Unknown,Slovenia,100.0,78.2,0.411
+2024,Frauen-Bundesliga,898506,Laura Lindner,Turbine Potsdam,11,11,737,6.081818181818182,0,0,30,Unknown,Germany,100.0,67.0,0.0
+2024,Frauen-Bundesliga,898507,Ereleta Memeti,TSG 1899 Hoffenheim,20,20,1492,7.35,6,6,25,Midfielder,Kosovo,100.0,74.6,0.362
+2024,Frauen-Bundesliga,898511,Anneke Borbe,VfL Wolfsburg,10,10,897,6.959999999999999,0,0,24,Goalkeeper,Germany,100.0,89.7,0.0
+2024,Frauen-Bundesliga,898512,Michelle Ulbrich,Bayern München,1,1,90,8.5,1,0,28,Defender,Germany,100.0,90.0,1.0
+2024,Frauen-Bundesliga,898512,Michelle Ulbrich,Werder Bremen,12,12,1080,7.1000000000000005,2,2,27,Defender,Germany,100.0,90.0,0.167
+2024,Frauen-Bundesliga,898518,Pia-Sophie Wolter,Eintracht Frankfurt,17,17,1348,6.829411764705882,1,0,26,Defender,Germany,100.0,79.3,0.067
+2024,Frauen-Bundesliga,898520,Giovanna Hoffmann,RB Leipzig,21,21,1700,7.076190476190476,11,5,25,Unknown,Germany,100.0,81.0,0.582
+2024,Frauen-Bundesliga,908773,Sara Agrez,FC Köln,8,8,720,7.0125,0,0,23,Defender,Slovenia,100.0,90.0,0.0
+2024,Frauen-Bundesliga,944746,Justine Kielland,VfL Wolfsburg,4,4,234,7.525,1,1,22,Midfielder,Norway,100.0,58.5,0.385
+2024,Frauen-Bundesliga,961414,Julia Zigiotti Olme,Bayern München,9,9,769,7.7333333333333325,0,0,26,Midfielder,Sweden,100.0,85.4,0.0
+2024,Frauen-Bundesliga,961625,Rebecka Blomqvist,VfL Wolfsburg,1,1,46,6.7,0,0,27,Forward,Sweden,100.0,46.0,0.0
+2024,Frauen-Bundesliga,973819,Reena Wichmann,Werder Bremen,11,11,706,6.25,0,0,26,Unknown,Germany,100.0,64.2,0.0
+2024,Frauen-Bundesliga,978295,Laura Freigang,Eintracht Frankfurt,22,22,1862,7.75,14,5,26,Unknown,Germany,100.0,84.6,0.677
+2024,Frauen-Bundesliga,979375,Elvira Herzog,RB Leipzig,22,22,1980,6.568181818181818,0,0,24,Goalkeeper,Switzerland,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1002647,Selina Cerci,TSG 1899 Hoffenheim,18,18,1497,7.572222222222223,14,3,24,Forward,Germany,100.0,83.2,0.842
+2024,Frauen-Bundesliga,1023081,Shekiera Martinez,Freiburg,8,8,656,7.275,4,2,23,Forward,Germany,100.0,82.0,0.549
+2024,Frauen-Bundesliga,1028214,Weronika Zawistowska,Bayern München,1,1,76,7.3,0,0,24,Unknown,Poland,100.0,76.0,0.0
+2024,Frauen-Bundesliga,1028799,Martyna Wiankowska,FC Köln,11,11,886,6.445454545454546,0,0,27,Midfielder,Poland,100.0,80.5,0.0
+2024,Frauen-Bundesliga,1028805,Dominika Grabowska,TSG 1899 Hoffenheim,10,10,747,6.840000000000001,1,0,25,Unknown,Poland,100.0,74.7,0.12
+2024,Frauen-Bundesliga,1036591,Cornelia Kramer,Bayer Leverkusen,21,21,1803,7.576190476190476,12,2,21,Forward,Denmark,100.0,85.9,0.599
+2024,Frauen-Bundesliga,1091348,Julia Hickelsberger-Fueller,TSG 1899 Hoffenheim,9,9,615,6.888888888888889,0,3,25,Unknown,Austria,100.0,68.3,0.0
+2024,Frauen-Bundesliga,1091466,Livia Peng,Werder Bremen,21,21,1890,6.6571428571428575,0,0,22,Goalkeeper,Switzerland,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1091481,Anna-Lena Stolze,FC Köln,1,1,16,6.2,0,0,24,Forward,Germany,100.0,16.0,0.0
+2024,Frauen-Bundesliga,1091496,Lydia Andrade,RB Leipzig,9,9,710,6.944444444444445,1,1,25,Midfielder,Switzerland,100.0,78.9,0.127
+2024,Frauen-Bundesliga,1091576,Michela Croatto,RB Leipzig,1,1,70,6.2,0,0,22,Unknown,Austria,100.0,70.0,0.0
+2024,Frauen-Bundesliga,1091590,Annabel Schasching,Freiburg,17,17,1377,6.9875,2,1,22,Unknown,Austria,100.0,81.0,0.131
+2024,Frauen-Bundesliga,1091591,Laura Donhauser,FC Köln,10,10,812,6.55,0,0,22,Defender,Germany,100.0,81.2,0.0
+2024,Frauen-Bundesliga,1091594,Gia Corley,TSG 1899 Hoffenheim,8,8,638,7.4,2,1,22,Midfielder,Germany,100.0,79.8,0.282
+2024,Frauen-Bundesliga,1091618,Lynn Wilms,VfL Wolfsburg,16,16,1288,7.56875,3,2,23,Defender,Netherlands,100.0,80.5,0.21
+2024,Frauen-Bundesliga,1091627,Ella Peddemors,VfL Wolfsburg,5,5,394,6.8,0,1,22,Midfielder,Netherlands,100.0,78.8,0.0
+2024,Frauen-Bundesliga,1091635,Arianna Caruso,Bayern München,2,2,132,7.2,0,0,25,Unknown,Italy,100.0,66.0,0.0
+2024,Frauen-Bundesliga,1091704,Karolina Lea Vilhjálmsdottir,Bayer Leverkusen,14,14,998,6.8538461538461535,1,2,23,Midfielder,Iceland,100.0,71.3,0.09
+2024,Frauen-Bundesliga,1091726,Ruby Grant,Bayer Leverkusen,2,2,126,6.300000000000001,0,0,22,Midfielder,England,100.0,63.0,0.0
+2024,Frauen-Bundesliga,1093741,Sophie Weidauer,Werder Bremen,18,18,1512,6.927777777777778,4,0,22,Forward,Germany,100.0,84.0,0.238
+2024,Frauen-Bundesliga,1095768,Merza Julevic,FC Carl Zeiss Jena,22,22,1914,6.609090909090909,0,1,34,Unknown,Germany,100.0,87.0,0.0
+2024,Frauen-Bundesliga,1095778,Sophia Kleinherne,Eintracht Frankfurt,19,19,1666,7.4526315789473685,0,0,24,Defender,Germany,100.0,87.7,0.0
+2024,Frauen-Bundesliga,1095799,Vanessa Fudalla,RB Leipzig,21,21,1817,7.323809523809524,10,3,22,Midfielder,Germany,100.0,86.5,0.495
+2024,Frauen-Bundesliga,1111503,Svenja Fölmli,Freiburg,6,6,458,6.55,1,0,22,Forward,Switzerland,100.0,76.3,0.197
+2024,Frauen-Bundesliga,1178004,Lisanne Gräwe,Eintracht Frankfurt,20,20,1646,7.609999999999999,1,3,21,Unknown,Germany,100.0,82.3,0.055
+2024,Frauen-Bundesliga,1178348,Charlotte Voll,Bayer Leverkusen,2,2,180,5.1,0,0,25,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1178359,Maria Grohs,Bayern München,10,10,900,6.87,0,0,23,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1187388,Sveindis Jane Jonsdottir,VfL Wolfsburg,5,5,397,6.94,1,0,23,Unknown,Iceland,100.0,79.4,0.227
+2024,Frauen-Bundesliga,1189131,Lilla Turanyi,Bayer Leverkusen,19,19,1690,7.277777777777778,2,0,26,Defender,Hungary,100.0,88.9,0.107
+2024,Frauen-Bundesliga,1190570,Samantha Steuerwald,Freiburg,15,15,1279,6.864285714285714,2,0,26,Defender,Germany,100.0,85.3,0.141
+2024,Frauen-Bundesliga,1191074,Maike Berentzen,SGS Essen,2,2,132,6.35,0,0,28,Unknown,Germany,100.0,66.0,0.0
+2024,Frauen-Bundesliga,1192868,Juliane Wirtz,Werder Bremen,6,6,453,6.7,0,0,23,Unknown,Germany,100.0,75.5,0.0
+2024,Frauen-Bundesliga,1194928,Elisa Senss,Eintracht Frankfurt,19,19,1553,7.4105263157894745,2,2,26,Unknown,Germany,100.0,81.7,0.116
+2024,Frauen-Bundesliga,1195319,Carlotta Wamser,Eintracht Frankfurt,5,5,389,7.840000000000001,1,2,21,Forward,Germany,100.0,77.8,0.231
+2024,Frauen-Bundesliga,1198551,Irena Kuznetsov,Turbine Potsdam,12,12,838,6.308333333333334,1,0,22,Defender,Israel,100.0,69.8,0.107
+2024,Frauen-Bundesliga,1204258,Jule Brand,VfL Wolfsburg,17,17,1204,7.347058823529412,3,5,21,Midfielder,Germany,100.0,70.8,0.224
+2024,Frauen-Bundesliga,1204260,Melissa Friedrich,Bayer Leverkusen,3,3,233,6.833333333333333,0,0,27,Defender,Germany,100.0,77.7,0.0
+2024,Frauen-Bundesliga,1207565,Adriana Achcinska,FC Köln,22,22,1882,7.204545454545454,2,0,22,Unknown,Poland,100.0,85.5,0.096
+2024,Frauen-Bundesliga,1209440,Isabella Jaron,FC Carl Zeiss Jena,9,9,654,6.622222222222223,1,1,23,Forward,Germany,100.0,72.7,0.138
+2024,Frauen-Bundesliga,1209554,Nuria Rábano,VfL Wolfsburg,4,4,336,7.5,0,0,25,Defender,Spain,100.0,84.0,0.0
+2024,Frauen-Bundesliga,1214579,Lotta Cordes,FC Köln,5,5,407,6.9799999999999995,0,0,23,Defender,Germany,100.0,81.4,0.0
+2024,Frauen-Bundesliga,1214637,Janou Levels,Bayer Leverkusen,19,19,1631,7.427777777777777,1,4,24,Defender,Netherlands,100.0,85.8,0.055
+2024,Frauen-Bundesliga,1214663,Amira Arfaoui,Werder Bremen,9,9,620,6.7555555555555555,0,0,25,Forward,Switzerland,100.0,68.9,0.0
+2024,Frauen-Bundesliga,1215009,Lisa Doorn,TSG 1899 Hoffenheim,20,20,1753,6.970000000000001,0,1,23,Defender,Netherlands,100.0,87.6,0.0
+2024,Frauen-Bundesliga,1215012,Caitlin Dijkstra,VfL Wolfsburg,10,10,857,7.5200000000000005,1,1,26,Defender,Netherlands,100.0,85.7,0.105
+2024,Frauen-Bundesliga,1231068,Jamilla Sofia Rankin,TSG 1899 Hoffenheim,10,10,834,7.090000000000001,0,1,21,Defender,Australia,100.0,83.4,0.0
+2024,Frauen-Bundesliga,1236376,Laureta Elmazi,SGS Essen,15,15,1175,6.466666666666667,1,0,21,Unknown,Germany,100.0,78.3,0.077
+2024,Frauen-Bundesliga,1238107,Cora Zicai,Freiburg,18,18,1513,7.294117647058823,7,4,20,Unknown,Germany,100.0,84.1,0.416
+2024,Frauen-Bundesliga,1238256,Vivien Endemann,VfL Wolfsburg,13,13,865,7.123076923076923,3,0,23,Unknown,Germany,100.0,66.5,0.312
+2024,Frauen-Bundesliga,1238866,Adrijana Mori,Turbine Potsdam,1,1,46,5.8,0,0,24,Unknown,Slovenia,100.0,46.0,0.0
+2024,Frauen-Bundesliga,1242155,Ricarda Walkling,Werder Bremen,19,19,1481,6.689473684210526,0,0,27,Unknown,Germany,100.0,77.9,0.0
+2024,Frauen-Bundesliga,1253870,Nina Räcke,RB Leipzig,1,1,82,6.6,0,0,23,Defender,Germany,100.0,82.0,0.0
+2024,Frauen-Bundesliga,1254192,Beke Sterner,SGS Essen,21,21,1861,6.961904761904761,1,1,21,Defender,Germany,100.0,88.6,0.048
+2024,Frauen-Bundesliga,1254235,Ena Mahmutovic,Bayern München,12,12,1080,7.241666666666667,0,0,20,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1301446,Laura-Johanna Dick,TSG 1899 Hoffenheim,21,21,1890,6.6571428571428575,0,0,21,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1301448,Celina Degen,FC Köln,3,3,200,6.5,0,0,23,Defender,Austria,100.0,66.7,0.0
+2024,Frauen-Bundesliga,1301449,Vanessa Diehm,TSG 1899 Hoffenheim,15,15,1340,7.36,1,0,20,Midfielder,Germany,100.0,89.3,0.067
+2024,Frauen-Bundesliga,1301450,Chantal Hagel,VfL Wolfsburg,1,1,68,6.4,0,0,26,Unknown,Germany,100.0,68.0,0.0
+2024,Frauen-Bundesliga,1301451,Mara Alber,TSG 1899 Hoffenheim,1,1,59,7.1,0,0,19,Forward,Germany,100.0,59.0,0.0
+2024,Frauen-Bundesliga,1301452,Vanessa Leimenstoll,FC Köln,12,12,825,6.1000000000000005,0,1,23,Forward,Germany,100.0,68.8,0.0
+2024,Frauen-Bundesliga,1301822,Taylor Ziemer,FC Köln,22,22,1980,6.918181818181818,4,2,26,Unknown,Germany,100.0,90.0,0.182
+2024,Frauen-Bundesliga,1302366,Julia Landenberger,RB Leipzig,19,19,1692,6.915789473684211,1,1,20,Defender,Germany,100.0,89.1,0.053
+2024,Frauen-Bundesliga,1310205,Noa Selimhodzic,Turbine Potsdam,6,6,426,6.1000000000000005,0,0,20,Forward,Israel,100.0,71.0,0.0
+2024,Frauen-Bundesliga,1319797,Anna Margraf,FC Carl Zeiss Jena,3,3,211,5.966666666666666,0,0,23,Unknown,Australia,100.0,70.3,0.0
+2024,Frauen-Bundesliga,1335079,Maja Sternad,Werder Bremen,8,8,504,6.1375,0,1,20,Unknown,Slovenia,100.0,63.0,0.0
+2024,Frauen-Bundesliga,1341281,Lisa Kolb,Freiburg,4,4,260,6.875,0,0,23,Unknown,Austria,100.0,65.0,0.0
+2024,Frauen-Bundesliga,1342775,Anna Aehling,Eintracht Frankfurt,2,2,180,6.1,0,0,23,Defender,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1345055,Lisa Gora,FC Carl Zeiss Jena,11,11,886,6.681818181818182,0,0,20,Defender,Germany,100.0,80.5,0.0
+2024,Frauen-Bundesliga,1345143,Lara Marti,RB Leipzig,11,11,749,6.5181818181818185,0,0,25,Unknown,Switzerland,100.0,68.1,0.0
+2024,Frauen-Bundesliga,1345144,Sylwia Matysik,FC Köln,13,13,1049,6.723076923076923,0,0,27,Defender,Poland,100.0,80.7,0.0
+2024,Frauen-Bundesliga,1345147,Sofie Zdebel,Bayer Leverkusen,18,18,1512,7.0588235294117645,1,0,20,Midfielder,Germany,100.0,84.0,0.06
+2024,Frauen-Bundesliga,1345154,Franziska Kett,Bayern München,1,1,90,7.6,0,0,20,Defender,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1345182,Anja Heuschkel,FC Carl Zeiss Jena,17,17,1515,6.252941176470588,0,0,27,Defender,Germany,100.0,89.1,0.0
+2024,Frauen-Bundesliga,1345193,Nicole Woldmann,FC Carl Zeiss Jena,8,8,515,6.3,0,0,21,Unknown,Germany,100.0,64.4,0.0
+2024,Frauen-Bundesliga,1345194,Luca Emily Birkholz,FC Carl Zeiss Jena,11,11,868,6.3090909090909095,2,0,20,Unknown,Germany,100.0,78.9,0.207
+2024,Frauen-Bundesliga,1345198,Alicia-Sophie Gudorf,Freiburg,11,11,817,6.972727272727273,0,0,23,Unknown,Germany,100.0,74.3,0.0
+2024,Frauen-Bundesliga,1345203,Alina Axtmann,Freiburg,10,10,860,6.4799999999999995,0,0,19,Defender,Germany,100.0,86.0,0.0
+2024,Frauen-Bundesliga,1345205,Melina Reuter,FC Carl Zeiss Jena,18,18,1422,6.222222222222222,1,0,18,Unknown,Germany,100.0,79.0,0.063
+2024,Frauen-Bundesliga,1345215,Michelle Weiss,TSG 1899 Hoffenheim,1,1,84,5.9,0,0,23,Defender,Germany,100.0,84.0,0.0
+2024,Frauen-Bundesliga,1345217,Emilie Bernhardt,Turbine Potsdam,20,20,1800,6.32,0,2,22,Defender,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1345221,Leonie Kreil,FC Carl Zeiss Jena,3,3,266,6.7,1,0,27,Unknown,Germany,100.0,88.7,0.338
+2024,Frauen-Bundesliga,1345225,Tuana Shahnis Mahmoud,Werder Bremen,17,17,1458,7.1000000000000005,1,3,21,Unknown,Germany,100.0,85.8,0.062
+2024,Frauen-Bundesliga,1345233,Lara Sophie Schmidt,Werder Bremen,18,18,1571,6.633333333333334,3,1,24,Unknown,Germany,100.0,87.3,0.172
+2024,Frauen-Bundesliga,1345236,Lisann Kaut,TSG 1899 Hoffenheim,13,13,1056,7.276923076923077,1,1,24,Defender,Germany,100.0,81.2,0.085
+2024,Frauen-Bundesliga,1345238,Sophia Winkler,SGS Essen,12,12,1080,7.324999999999999,0,0,21,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1345239,Josefine Osigus,FC Köln,5,5,450,4.96,0,0,19,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1345241,Laura Pucks,SGS Essen,14,14,1231,6.721428571428571,0,0,20,Defender,Germany,100.0,87.9,0.0
+2024,Frauen-Bundesliga,1345243,Emely Lina Joester,SGS Essen,1,1,90,6.0,0,0,20,Defender,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1345245,Katharina Piljic,Bayer Leverkusen,16,16,1406,7.526666666666666,2,3,21,Midfielder,Germany,100.0,87.9,0.128
+2024,Frauen-Bundesliga,1346006,Lou-Ann Joly,RB Leipzig,15,15,1111,6.6,0,0,22,Midfielder,France,100.0,74.1,0.0
+2024,Frauen-Bundesliga,1346033,Juliette Vidal,Bayer Leverkusen,12,12,993,7.341666666666666,0,1,25,Midfielder,France,100.0,82.8,0.0
+2024,Frauen-Bundesliga,1346720,Nia Szenk,Freiburg,2,2,138,6.55,0,0,20,Defender,Germany,100.0,69.0,0.0
+2024,Frauen-Bundesliga,1358070,Emilia Ásgeirsdottir,RB Leipzig,6,6,444,6.483333333333333,2,0,20,Midfielder,Iceland,100.0,74.0,0.405
+2024,Frauen-Bundesliga,1359583,Marleen Schimmer,RB Leipzig,16,16,1369,7.1875,4,3,23,Forward,Germany,100.0,85.6,0.263
+2024,Frauen-Bundesliga,1375218,Feli Delacauw,TSG 1899 Hoffenheim,6,6,431,7.25,3,2,22,Midfielder,Belgium,100.0,71.8,0.626
+2024,Frauen-Bundesliga,1375220,Jill Janssens,TSG 1899 Hoffenheim,18,18,1358,7.305555555555555,3,0,20,Defender,Belgium,100.0,75.4,0.199
+2024,Frauen-Bundesliga,1376150,Mariella El Sherif,FC Carl Zeiss Jena,12,12,1080,6.833333333333333,0,0,20,Goalkeeper,Austria,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1376151,Julia Magerl,RB Leipzig,19,19,1557,6.4263157894736835,0,0,21,Defender,Austria,100.0,81.9,0.0
+2024,Frauen-Bundesliga,1380227,Nadine Riesen,Eintracht Frankfurt,6,6,487,7.466666666666666,0,2,24,Defender,Switzerland,100.0,81.2,0.0
+2024,Frauen-Bundesliga,1397590,Shahar Nakav,Turbine Potsdam,2,2,180,6.300000000000001,0,0,27,Defender,Israel,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1402524,Alena Bienz,FC Köln,17,17,1310,6.629411764705883,1,1,21,Unknown,Switzerland,100.0,77.1,0.069
+2024,Frauen-Bundesliga,1402531,Selina Vobian,Freiburg,21,21,1764,7.2,1,7,22,Unknown,Germany,100.0,84.0,0.051
+2024,Frauen-Bundesliga,1402550,Maya Hahn,Turbine Potsdam,13,13,1102,6.361538461538462,0,0,23,Defender,New Zealand,100.0,84.8,0.0
+2024,Frauen-Bundesliga,1402551,Alisa Grincenco,Turbine Potsdam,10,10,601,6.2,0,0,20,Forward,Germany,100.0,60.1,0.0
+2024,Frauen-Bundesliga,1402559,Hanna Nemeth,Werder Bremen,16,16,1354,6.525,0,0,25,Defender,Hungary,100.0,84.6,0.0
+2024,Frauen-Bundesliga,1406273,Ramona Maier,SGS Essen,20,20,1754,6.484999999999999,2,1,28,Unknown,Germany,100.0,87.7,0.103
+2024,Frauen-Bundesliga,1406275,Aline Allmann,SGS Essen,1,1,90,7.0,0,0,30,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1406574,Laura Vogt,FC Köln,11,11,962,6.709090909090909,1,1,23,Defender,Germany,100.0,87.5,0.094
+2024,Frauen-Bundesliga,1406588,Rebecca Adamczyk,Freiburg,3,3,270,7.4,0,0,19,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1406600,Toma Ihlenburg,FC Carl Zeiss Jena,22,22,1980,6.427272727272728,0,0,21,Defender,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1406649,Paula Flach,SGS Essen,12,12,975,6.75,0,0,21,Defender,Germany,100.0,81.2,0.0
+2024,Frauen-Bundesliga,1406733,Natasha Kowalski,SGS Essen,18,18,1477,7.127777777777778,6,4,21,Unknown,Germany,100.0,82.1,0.366
+2024,Frauen-Bundesliga,1412305,Leela Egli,Freiburg,5,5,297,6.275,0,0,18,Unknown,Switzerland,100.0,59.4,0.0
+2024,Frauen-Bundesliga,1418031,Lena Dahms,Werder Bremen,1,1,45,6.8,0,0,18,Unknown,Germany,100.0,45.0,0.0
+2024,Frauen-Bundesliga,1437279,Chiara Hahn,TSG 1899 Hoffenheim,3,3,244,7.133333333333334,0,0,22,Defender,Germany,100.0,81.3,0.0
+2024,Frauen-Bundesliga,1454364,Sara Ritter,TSG 1899 Hoffenheim,1,1,25,6.3,0,0,19,Defender,Germany,100.0,25.0,0.0
+2024,Frauen-Bundesliga,1464823,Tessa Blumenberg,Freiburg,4,4,263,6.7,1,0,19,Unknown,Germany,100.0,65.8,0.342
+2024,Frauen-Bundesliga,1510615,Remina Chiba,Eintracht Frankfurt,2,2,147,8.1,1,1,25,Unknown,Japan,100.0,73.5,0.612
+2024,Frauen-Bundesliga,1536057,Mai Kadowaki,RB Leipzig,5,5,368,6.0200000000000005,0,0,23,Unknown,Japan,100.0,73.6,0.0
+2024,Frauen-Bundesliga,1538465,Diana Nemeth,VfL Wolfsburg,2,2,114,6.75,0,0,20,Defender,Hungary,100.0,57.0,0.0
+2024,Frauen-Bundesliga,1544146,Loreen Bender,Bayer Leverkusen,11,11,731,7.154545454545455,1,3,19,Midfielder,Germany,100.0,66.5,0.123
+2024,Frauen-Bundesliga,1544147,Estrella Merino Gonzalez,Bayer Leverkusen,14,14,1250,7.161538461538461,0,1,18,Defender,Germany,100.0,89.3,0.0
+2024,Frauen-Bundesliga,1544148,Delice Boboy,Bayer Leverkusen,3,3,270,7.35,1,0,18,Forward,Germany,100.0,90.0,0.333
+2024,Frauen-Bundesliga,1544185,Alara Sehitler,Bayern München,8,8,542,6.975,1,1,17,Unknown,Germany,100.0,67.8,0.166
+2024,Frauen-Bundesliga,1544201,Jella Veit,Eintracht Frankfurt,5,5,320,7.025,0,0,19,Defender,Germany,100.0,64.0,0.0
+2024,Frauen-Bundesliga,1544531,Paula Hoppe,FC Köln,9,9,788,5.677777777777778,0,0,18,Goalkeeper,Germany,100.0,87.6,0.0
+2024,Frauen-Bundesliga,1544532,Carlotta Imping,FC Köln,3,3,156,6.133333333333333,0,0,21,Defender,Germany,100.0,52.0,0.0
+2024,Frauen-Bundesliga,1546108,Lilli Purtscheller,SGS Essen,18,18,1509,7.138888888888889,2,1,21,Unknown,Austria,100.0,83.8,0.119
+2024,Frauen-Bundesliga,1546131,Frederike Kempe,RB Leipzig,5,5,404,6.74,0,0,27,Defender,Germany,100.0,80.8,0.0
+2024,Frauen-Bundesliga,1546150,Victoria Krug,RB Leipzig,21,21,1753,6.814285714285714,0,1,26,Defender,Germany,100.0,83.5,0.0
+2024,Frauen-Bundesliga,1546154,Jenny Hipp,RB Leipzig,15,15,1252,6.846666666666667,0,1,26,Midfielder,Germany,100.0,83.5,0.0
+2024,Frauen-Bundesliga,1546159,Mia Werner,RB Leipzig,1,1,90,6.6,0,0,19,Forward,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1546178,Marlene Müller,RB Leipzig,21,21,1820,6.880952380952381,1,2,23,Defender,Germany,100.0,86.7,0.049
+2024,Frauen-Bundesliga,1549669,Eileen Campbell,Freiburg,7,7,607,7.014285714285714,0,2,23,Unknown,Austria,100.0,86.7,0.0
+2024,Frauen-Bundesliga,1549754,Sofija Nesterova,Werder Bremen,1,1,90,2.5,0,0,23,Goalkeeper,Latvia,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1553638,Caroline Kehrer,Bayer Leverkusen,18,18,1339,7.0058823529411764,5,3,27,Forward,USA,100.0,74.4,0.336
+2024,Frauen-Bundesliga,1554600,Anna Terestyenyi,Turbine Potsdam,1,1,90,5.3,0,0,23,Goalkeeper,Hungary,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1554607,Emoke Papai,Werder Bremen,1,1,46,7.1,0,0,21,Unknown,Hungary,100.0,46.0,0.0
+2024,Frauen-Bundesliga,1555648,Ena Taslidza,Turbine Potsdam,11,11,762,6.181818181818182,0,0,23,Forward,Bosnia and Herzegovina,100.0,69.3,0.0
+2024,Frauen-Bundesliga,1588269,Menglu Shen,Bayer Leverkusen,3,3,190,7.3,0,0,22,Defender,China,100.0,63.3,0.0
+2024,Frauen-Bundesliga,1604389,Momoko Tanikawa,Bayern München,3,3,186,7.266666666666667,0,0,19,Unknown,Japan,100.0,62.0,0.0
+2024,Frauen-Bundesliga,1607087,Annie Karich,Freiburg,12,12,986,6.945454545454546,0,1,21,Midfielder,USA,100.0,82.2,0.0
+2024,Frauen-Bundesliga,1607776,Kassandra Potsi,SGS Essen,7,7,464,6.3999999999999995,0,1,16,Defender,Germany,100.0,66.3,0.0
+2024,Frauen-Bundesliga,1638164,Larissa Michelle Mühlhaus,Werder Bremen,20,20,1665,7.340000000000001,10,1,21,Forward,Germany,100.0,83.2,0.541
+2024,Frauen-Bundesliga,1638281,Kim Schneider,Turbine Potsdam,10,10,779,6.35,0,0,20,Midfielder,Germany,100.0,77.9,0.0
+2024,Frauen-Bundesliga,1638285,Jette ter Horst,SGS Essen,1,1,62,6.7,0,0,22,Forward,Germany,100.0,62.0,0.0
+2024,Frauen-Bundesliga,1638297,Amelie Bohnen,FC Köln,3,3,270,6.7,0,0,23,Defender,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1644384,Maj Schneider,Freiburg,4,4,240,6.975,2,0,17,Unknown,Germany,100.0,60.0,0.75
+2024,Frauen-Bundesliga,1671109,Josephine Bonsu,FC Carl Zeiss Jena,20,20,1685,6.475,0,1,25,Forward,Germany,100.0,84.2,0.0
+2024,Frauen-Bundesliga,1671111,Fiona Gaisser,FC Carl Zeiss Jena,21,21,1840,6.6380952380952385,1,0,20,Unknown,Germany,100.0,87.6,0.049
+2024,Frauen-Bundesliga,1671113,Nelly Juckel,FC Carl Zeiss Jena,18,18,1498,6.25,0,1,22,Unknown,Germany,100.0,83.2,0.0
+2024,Frauen-Bundesliga,1671114,Gwen Mummert,FC Carl Zeiss Jena,11,11,973,6.2272727272727275,0,0,25,Defender,Germany,100.0,88.5,0.0
+2024,Frauen-Bundesliga,1671117,Felicia Straesser,FC Carl Zeiss Jena,16,16,1429,6.425,0,0,16,Defender,Germany,100.0,89.3,0.0
+2024,Frauen-Bundesliga,1671119,Jasmin Janning,FC Carl Zeiss Jena,10,10,900,6.51,0,0,19,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1671122,Nicole Ojukwu,Freiburg,8,8,554,6.475,0,0,18,Midfielder,Austria,100.0,69.2,0.0
+2024,Frauen-Bundesliga,1671124,Paulina Platner,SGS Essen,14,14,979,6.778571428571429,1,1,18,Midfielder,Germany,100.0,69.9,0.092
+2024,Frauen-Bundesliga,1671125,Julie Terlinden,SGS Essen,4,4,289,6.75,1,0,17,Defender,Germany,100.0,72.2,0.311
+2024,Frauen-Bundesliga,1671134,Kornelia Grosicka,Turbine Potsdam,1,1,76,6.2,0,0,25,Unknown,Poland,100.0,76.0,0.0
+2024,Frauen-Bundesliga,1671136,Caroline Krawczyk,Turbine Potsdam,14,14,1073,6.185714285714285,0,0,26,Unknown,Germany,100.0,76.6,0.0
+2024,Frauen-Bundesliga,1671137,Sara Ito,Turbine Potsdam,17,17,1494,6.335294117647059,0,0,22,Unknown,Japan,100.0,87.9,0.0
+2024,Frauen-Bundesliga,1671138,Flavia Luescher,Turbine Potsdam,4,4,304,6.125,0,0,20,Defender,Switzerland,100.0,76.0,0.0
+2024,Frauen-Bundesliga,1671139,Suya Haering,Turbine Potsdam,10,10,790,5.93,0,0,19,Defender,New Zealand,100.0,79.0,0.0
+2024,Frauen-Bundesliga,1671140,Marike Dommasch,Turbine Potsdam,2,2,106,5.6,0,0,17,Defender,Germany,100.0,53.0,0.0
+2024,Frauen-Bundesliga,1671141,Mia Schmid,Turbine Potsdam,19,19,1654,5.894736842105263,1,0,19,Defender,Switzerland,100.0,87.1,0.054
+2024,Frauen-Bundesliga,1671142,Lina Vianden,Turbine Potsdam,10,10,771,6.34,1,0,22,Defender,Germany,100.0,77.1,0.117
+2024,Frauen-Bundesliga,1671144,Lesley Lergenmueller,Turbine Potsdam,1,1,90,6.9,0,0,19,Goalkeeper,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1677219,Amani Mahmoud,Werder Bremen,2,2,167,,0,0,19,Unknown,Germany,100.0,83.5,0.0
+2024,Frauen-Bundesliga,1698552,Luca Scheel,Turbine Potsdam,2,2,180,6.1,0,0,22,Unknown,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1698783,Maria Penner,Werder Bremen,2,2,180,7.3,0,0,17,Defender,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1700514,Lucia Stritzke,Turbine Potsdam,1,1,90,4.7,0,0,18,Defender,Germany,100.0,90.0,0.0
+2024,Frauen-Bundesliga,1714403,Kaylie Joy Ronan,Werder Bremen,6,6,510,6.3999999999999995,1,0,22,Defender,USA,100.0,85.0,0.176
+2024,Frauen-Bundesliga,1715907,Silia Ploechinger,Turbine Potsdam,4,4,352,5.75,0,0,21,Goalkeeper,Switzerland,100.0,88.0,0.0
+2024,Frauen-Bundesliga,1726796,Alina Gnaedig,Turbine Potsdam,6,6,506,6.233333333333333,0,0,17,Forward,Germany,100.0,84.3,0.0
+2025,Frauen-Bundesliga,200707,Pernille Harder,Bayern München,7,7,518,7.628571428571428,4,1,32,Unknown,Denmark,100.0,74.0,0.695
+2025,Frauen-Bundesliga,271109,Alexandra Popp,VfL Wolfsburg,9,9,751,7.877777777777778,5,3,34,Forward,Germany,100.0,83.4,0.599
+2025,Frauen-Bundesliga,289679,Stine Ballisager Pedersen,Bayern München,6,6,496,7.566666666666666,1,1,31,Midfielder,Denmark,100.0,82.7,0.181
+2025,Frauen-Bundesliga,294952,Svenja Huth,VfL Wolfsburg,9,9,791,7.622222222222222,1,2,34,Midfielder,Germany,100.0,87.9,0.114
+2025,Frauen-Bundesliga,440499,Tuva Hansen,Bayern München,2,2,151,6.85,0,0,28,Defender,Norway,100.0,75.5,0.0
+2025,Frauen-Bundesliga,534780,Guro Bergsvand,VfL Wolfsburg,2,2,150,7.05,0,0,31,Defender,Norway,100.0,75.0,0.0
+2025,Frauen-Bundesliga,626685,Andrea Norheim,RB Leipzig,9,9,810,6.411111111111111,0,1,26,Defender,Norway,100.0,90.0,0.0
+2025,Frauen-Bundesliga,645995,Hayley Raso,Eintracht Frankfurt,1,1,90,7.3,0,0,31,Forward,Australia,100.0,90.0,0.0
+2025,Frauen-Bundesliga,646017,Pauline Bremer,FC Köln,2,2,180,7.85,2,0,29,Midfielder,Germany,100.0,90.0,1.0
+2025,Frauen-Bundesliga,646024,Laura Benkarth,Freiburg,10,10,900,6.69,0,0,32,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,646041,Amanda Ilestedt,Eintracht Frankfurt,9,9,742,7.144444444444444,4,0,32,Defender,Sweden,100.0,82.4,0.485
+2025,Frauen-Bundesliga,734709,Joelle Wedemeyer,VfL Wolfsburg,8,8,602,6.575,0,0,29,Defender,Germany,100.0,75.2,0.0
+2025,Frauen-Bundesliga,773401,Magdalena Eriksson,Bayern München,5,5,414,7.4799999999999995,1,0,31,Defender,Sweden,100.0,82.8,0.217
+2025,Frauen-Bundesliga,784540,Thea Bjelde,VfL Wolfsburg,1,1,65,6.4,0,0,25,Defender,Norway,100.0,65.0,0.0
+2025,Frauen-Bundesliga,856253,Lineth Beerensteyn,VfL Wolfsburg,5,5,391,7.340000000000001,3,0,28,Forward,Netherlands,100.0,78.2,0.691
+2025,Frauen-Bundesliga,856541,Katharina Naschenweng,Bayern München,3,3,264,7.566666666666666,0,1,27,Defender,Austria,100.0,88.0,0.0
+2025,Frauen-Bundesliga,856549,Sarah Zadrazil,Bayern München,3,3,196,7.266666666666667,0,0,32,Midfielder,Austria,100.0,65.3,0.0
+2025,Frauen-Bundesliga,856553,Laura Feiersinger,FC Köln,10,10,846,7.044444444444444,2,1,32,Midfielder,Austria,100.0,84.6,0.213
+2025,Frauen-Bundesliga,858997,Ingibjörg Sigurdardottir,Freiburg,4,4,349,5.425,0,0,27,Defender,Iceland,100.0,87.2,0.0
+2025,Frauen-Bundesliga,858999,Glodis Perla Viggosdottir,Bayern München,5,5,410,7.26,0,0,30,Defender,Iceland,100.0,82.0,0.0
+2025,Frauen-Bundesliga,859003,Sandra Maria Jessen,FC Köln,11,11,954,7.13,5,1,30,Forward,Iceland,100.0,86.7,0.472
+2025,Frauen-Bundesliga,859021,Géraldine Reuteler,Eintracht Frankfurt,9,9,797,7.644444444444444,2,4,26,Midfielder,Switzerland,100.0,88.6,0.226
+2025,Frauen-Bundesliga,859027,Carolin Simon,Bayern München,4,4,310,7.775,0,1,32,Defender,Germany,100.0,77.5,0.0
+2025,Frauen-Bundesliga,859028,Linda Dallmann,Bayern München,6,6,478,7.416666666666667,2,1,31,Unknown,Germany,100.0,79.7,0.377
+2025,Frauen-Bundesliga,881613,Tanja Pawollek,Union Berlin,5,5,450,6.74,0,0,26,Midfielder,Poland,100.0,90.0,0.0
+2025,Frauen-Bundesliga,881818,Marina Hegering,FC Köln,9,9,727,7.324999999999999,0,1,35,Defender,Germany,100.0,80.8,0.0
+2025,Frauen-Bundesliga,882111,Jobina Lahr,Hamburger SV,4,4,224,6.5,0,0,33,Defender,Germany,100.0,56.0,0.0
+2025,Frauen-Bundesliga,884202,Sharon Beck,Werder Bremen,3,3,207,7.0,0,1,30,Midfielder,Israel,100.0,69.0,0.0
+2025,Frauen-Bundesliga,884218,Sarai Linder,VfL Wolfsburg,2,2,180,7.1,0,0,25,Defender,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,884264,Nina Lührssen,Eintracht Frankfurt,9,9,757,7.388888888888889,0,3,25,Defender,Germany,100.0,84.1,0.0
+2025,Frauen-Bundesliga,886678,Lea Schüller,Bayern München,5,5,386,7.62,3,4,27,Unknown,Germany,100.0,77.2,0.699
+2025,Frauen-Bundesliga,886706,Georgia Stanway,Bayern München,9,9,756,8.18888888888889,1,6,26,Midfielder,England,100.0,84.0,0.119
+2025,Frauen-Bundesliga,887416,Kristin Kögel,Bayer Leverkusen,10,10,781,7.311111111111111,1,1,25,Midfielder,Germany,100.0,78.1,0.115
+2025,Frauen-Bundesliga,887423,Jovana Damnjanovic,Bayern München,4,4,304,7.5,0,1,30,Unknown,Serbia,100.0,76.0,0.0
+2025,Frauen-Bundesliga,887424,Verena Wieder,Werder Bremen,8,8,530,6.675,0,1,25,Midfielder,Germany,100.0,66.2,0.0
+2025,Frauen-Bundesliga,887454,Meret Felde,Freiburg,10,10,829,6.49,0,0,26,Defender,Germany,100.0,82.9,0.0
+2025,Frauen-Bundesliga,887992,Julia Stierli,Freiburg,7,7,630,6.8999999999999995,0,0,28,Defender,Switzerland,100.0,90.0,0.0
+2025,Frauen-Bundesliga,888165,Klara Bühl,Bayern München,9,9,738,8.588888888888889,3,9,24,Unknown,Germany,100.0,82.0,0.366
+2025,Frauen-Bundesliga,888650,Giulia Gwinn,Bayern München,5,5,377,7.779999999999999,1,2,26,Defender,Germany,100.0,75.4,0.239
+2025,Frauen-Bundesliga,889243,Jana Feldkamp,SGS Essen,8,8,709,6.1625,0,0,27,Midfielder,Germany,100.0,88.6,0.0
+2025,Frauen-Bundesliga,889542,Nicole Anyomi,Eintracht Frankfurt,7,7,560,7.971428571428571,5,1,25,Midfielder,Germany,100.0,80.0,0.804
+2025,Frauen-Bundesliga,889551,Lena Lattwein,VfL Wolfsburg,2,2,163,7.6,1,1,25,Midfielder,Germany,100.0,81.5,0.552
+2025,Frauen-Bundesliga,892683,Jacqueline Meissner,SGS Essen,10,10,818,6.68,0,0,31,Midfielder,Germany,100.0,81.8,0.0
+2025,Frauen-Bundesliga,892685,Lina Hausicke,Werder Bremen,9,9,743,6.933333333333334,0,1,27,Defender,Germany,100.0,82.6,0.0
+2025,Frauen-Bundesliga,895789,Anna Gerhardt,FC Köln,10,10,850,7.111111111111111,0,2,27,Defender,Germany,100.0,85.0,0.0
+2025,Frauen-Bundesliga,895812,Vanessa Fürst,SGS Essen,10,10,897,6.57,1,0,23,Defender,Germany,100.0,89.7,0.1
+2025,Frauen-Bundesliga,896085,Stina Johannes,VfL Wolfsburg,10,10,900,6.56,0,0,25,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,896286,Franziska Mai,Nürnberg,2,2,136,5.75,0,0,25,Defender,Germany,100.0,68.0,0.0
+2025,Frauen-Bundesliga,896291,Anna Weiss,Union Berlin,9,9,789,6.5,0,0,27,Unknown,Germany,100.0,87.7,0.0
+2025,Frauen-Bundesliga,896301,Cara Bösl,Union Berlin,9,9,792,6.155555555555555,0,0,28,Goalkeeper,Germany,100.0,88.0,0.0
+2025,Frauen-Bundesliga,896303,Selina Ostermeier,Bayer Leverkusen,4,4,360,7.333333333333333,0,1,26,Defender,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,896349,Julia Debitzki,SGS Essen,3,3,166,6.366666666666667,0,1,34,Unknown,Germany,100.0,55.3,0.0
+2025,Frauen-Bundesliga,896365,Noemi Gentile,FC Carl Zeiss Jena,9,9,748,6.677777777777778,0,0,25,Unknown,Germany,100.0,83.1,0.0
+2025,Frauen-Bundesliga,896366,Greta Stegemann,Freiburg,9,9,804,6.688888888888889,0,0,24,Defender,Germany,100.0,89.3,0.0
+2025,Frauen-Bundesliga,896367,Lisa Karl,Freiburg,10,10,900,6.9799999999999995,2,1,28,Defender,Germany,100.0,90.0,0.2
+2025,Frauen-Bundesliga,896372,Janina Minge,VfL Wolfsburg,10,10,853,7.62,3,2,26,Midfielder,Germany,100.0,85.3,0.317
+2025,Frauen-Bundesliga,896375,Sandra Starke,RB Leipzig,5,5,436,7.26,1,0,32,Midfielder,Germany,100.0,87.2,0.206
+2025,Frauen-Bundesliga,898097,Kim Sindermann,SGS Essen,5,5,450,6.14,0,0,24,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,898101,Lena Ostermeier,SGS Essen,8,8,720,6.825,0,0,28,Defender,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,898114,Friederike Repohl,Bayer Leverkusen,7,7,630,7.016666666666667,0,0,31,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,898121,Judith Steinert,Union Berlin,2,2,115,6.800000000000001,0,0,29,Unknown,Germany,100.0,57.5,0.0
+2025,Frauen-Bundesliga,898134,Franziska Harsch,TSG 1899 Hoffenheim,4,4,360,7.275,0,0,28,Midfielder,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,898398,Gina-Maria Chmielinski,RB Leipzig,7,7,529,6.714285714285714,0,0,25,Forward,Germany,100.0,75.6,0.0
+2025,Frauen-Bundesliga,898494,Lisa Schmitz,FC Köln,5,5,450,6.3,0,1,33,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,898496,Inga Schuldt,Hamburger SV,4,4,360,5.825,0,0,28,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,898503,Melissa Kössler,TSG 1899 Hoffenheim,5,5,437,8.3,4,3,25,Forward,Germany,100.0,87.4,0.824
+2025,Frauen-Bundesliga,898504,Viktoria Schwalm,Hamburger SV,1,1,60,6.4,0,0,27,Forward,Germany,100.0,60.0,0.0
+2025,Frauen-Bundesliga,898507,Ereleta Memeti,Eintracht Frankfurt,7,7,535,7.371428571428572,1,2,26,Midfielder,Kosovo,100.0,76.4,0.168
+2025,Frauen-Bundesliga,898512,Michelle Ulbrich,Werder Bremen,10,10,885,6.75,1,0,28,Defender,Germany,100.0,88.5,0.102
+2025,Frauen-Bundesliga,898518,Pia-Sophie Wolter,Eintracht Frankfurt,3,3,226,6.2,0,0,27,Forward,Germany,100.0,75.3,0.0
+2025,Frauen-Bundesliga,898520,Giovanna Hoffmann,RB Leipzig,4,4,339,7.05,2,0,27,Unknown,Germany,100.0,84.8,0.531
+2025,Frauen-Bundesliga,908773,Sara Agrez,FC Köln,11,11,990,7.2,1,0,24,Defender,Slovenia,100.0,90.0,0.091
+2025,Frauen-Bundesliga,944746,Justine Kielland,VfL Wolfsburg,6,6,442,7.366666666666667,0,3,22,Unknown,Norway,100.0,73.7,0.0
+2025,Frauen-Bundesliga,961625,Rebecka Blomqvist,Eintracht Frankfurt,8,8,622,7.3,4,2,28,Defender,Sweden,100.0,77.8,0.579
+2025,Frauen-Bundesliga,964595,Lena Oberdorf,Bayern München,3,3,152,7.6000000000000005,2,0,23,Defender,Germany,100.0,50.7,1.184
+2025,Frauen-Bundesliga,978295,Laura Freigang,Eintracht Frankfurt,9,9,704,7.322222222222223,2,1,27,Midfielder,Germany,100.0,78.2,0.256
+2025,Frauen-Bundesliga,979375,Elvira Herzog,RB Leipzig,10,10,900,6.21,0,0,25,Goalkeeper,Switzerland,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1002636,Laura Sieger,Hamburger SV,2,2,119,5.9,0,0,25,Goalkeeper,Germany,100.0,59.5,0.0
+2025,Frauen-Bundesliga,1002647,Selina Cerci,TSG 1899 Hoffenheim,7,7,630,8.028571428571428,6,2,25,Forward,Germany,100.0,90.0,0.857
+2025,Frauen-Bundesliga,1028214,Weronika Zawistowska,FC Köln,3,3,179,6.5,0,0,25,Unknown,Poland,100.0,59.7,0.0
+2025,Frauen-Bundesliga,1028799,Martyna Wiankowska,FC Köln,6,6,540,7.159999999999999,1,0,28,Unknown,Poland,100.0,90.0,0.167
+2025,Frauen-Bundesliga,1028805,Dominika Grabowska,TSG 1899 Hoffenheim,4,4,319,7.525,0,0,26,Midfielder,Poland,100.0,79.8,0.0
+2025,Frauen-Bundesliga,1036591,Cornelia Kramer,Bayer Leverkusen,1,1,66,6.3,0,0,22,Forward,Denmark,100.0,66.0,0.0
+2025,Frauen-Bundesliga,1037032,Antonia-Johanna Halverkamps,Union Berlin,4,4,263,6.475,1,1,24,Midfielder,Germany,100.0,65.8,0.342
+2025,Frauen-Bundesliga,1091481,Anna-Lena Stolze,FC Köln,5,5,334,7.220000000000001,0,2,25,Defender,Germany,100.0,66.8,0.0
+2025,Frauen-Bundesliga,1091496,Lydia Andrade,FC Köln,1,1,59,6.1,0,0,26,Forward,Switzerland,100.0,59.0,0.0
+2025,Frauen-Bundesliga,1091590,Annabel Schasching,RB Leipzig,10,10,896,7.410000000000001,3,1,23,Midfielder,Austria,100.0,89.6,0.301
+2025,Frauen-Bundesliga,1091591,Laura Donhauser,FC Köln,8,8,651,6.742857142857143,0,0,24,Midfielder,Germany,100.0,81.4,0.0
+2025,Frauen-Bundesliga,1091593,Maria Mikolajova,Hamburger SV,7,7,440,6.614285714285715,0,0,26,Defender,Slovakia,100.0,62.9,0.0
+2025,Frauen-Bundesliga,1091597,Melanie Brunnthaler,Hamburger SV,10,10,860,6.95,3,2,24,Forward,Austria,100.0,86.0,0.314
+2025,Frauen-Bundesliga,1091627,Ella Peddemors,VfL Wolfsburg,6,6,487,7.366666666666667,2,1,23,Defender,Netherlands,100.0,81.2,0.37
+2025,Frauen-Bundesliga,1091635,Arianna Caruso,Bayern München,3,3,245,7.366666666666667,1,1,25,Unknown,Italy,100.0,81.7,0.367
+2025,Frauen-Bundesliga,1091726,Ruby Grant,Bayer Leverkusen,7,7,474,6.68,0,0,23,Midfielder,England,100.0,67.7,0.0
+2025,Frauen-Bundesliga,1093265,Christin Meyer,Hamburger SV,1,1,76,6.5,0,0,24,Forward,Germany,100.0,76.0,0.0
+2025,Frauen-Bundesliga,1093741,Sophie Weidauer,Union Berlin,10,10,793,6.93,3,0,23,Forward,Germany,100.0,79.3,0.34
+2025,Frauen-Bundesliga,1095768,Merza Julevic,FC Carl Zeiss Jena,3,3,182,6.633333333333333,1,0,35,Unknown,Germany,100.0,60.7,0.495
+2025,Frauen-Bundesliga,1095799,Vanessa Fudalla,Bayer Leverkusen,11,11,907,7.4799999999999995,8,2,23,Forward,Germany,100.0,82.5,0.794
+2025,Frauen-Bundesliga,1111503,Svenja Fölmli,Freiburg,1,1,76,7.5,1,0,23,Forward,Switzerland,100.0,76.0,1.184
+2025,Frauen-Bundesliga,1178004,Lisanne Gräwe,Eintracht Frankfurt,8,8,702,7.9125,1,0,22,Defender,Germany,100.0,87.8,0.128
+2025,Frauen-Bundesliga,1178348,Charlotte Voll,Bayer Leverkusen,2,2,179,5.7,0,0,26,Goalkeeper,Germany,100.0,89.5,0.0
+2025,Frauen-Bundesliga,1178359,Maria Grohs,Bayern München,5,5,450,6.859999999999999,0,0,24,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1187399,Medina Desic,Werder Bremen,9,9,640,7.222222222222222,4,1,31,Forward,Montenegro,100.0,71.1,0.562
+2025,Frauen-Bundesliga,1189131,Lilla Turanyi,Bayer Leverkusen,8,8,720,6.471428571428571,0,0,26,Defender,Hungary,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1190322,Dina Orschmann,Union Berlin,8,8,657,6.675,1,0,27,Forward,Germany,100.0,82.1,0.137
+2025,Frauen-Bundesliga,1190570,Samantha Steuerwald,Union Berlin,10,10,900,6.43,0,0,26,Defender,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1191074,Maike Berentzen,SGS Essen,4,4,277,6.6,0,0,28,Unknown,Germany,100.0,69.2,0.0
+2025,Frauen-Bundesliga,1192868,Juliane Wirtz,Werder Bremen,9,9,757,6.9,0,1,24,Unknown,Germany,100.0,84.1,0.0
+2025,Frauen-Bundesliga,1192872,Kessya Bussy,VfL Wolfsburg,3,3,233,8.233333333333333,3,1,24,Unknown,France,100.0,77.7,1.159
+2025,Frauen-Bundesliga,1194928,Elisa Senss,Eintracht Frankfurt,9,9,780,7.666666666666667,3,2,27,Defender,Germany,100.0,86.7,0.346
+2025,Frauen-Bundesliga,1195311,Camilla Küver,VfL Wolfsburg,7,7,630,7.585714285714286,1,0,22,Defender,Germany,100.0,90.0,0.143
+2025,Frauen-Bundesliga,1195319,Carlotta Wamser,Bayer Leverkusen,8,8,676,7.442857142857143,1,1,21,Defender,Germany,100.0,84.5,0.133
+2025,Frauen-Bundesliga,1204260,Melissa Friedrich,Bayer Leverkusen,2,2,169,7.15,0,0,28,Defender,Germany,100.0,84.5,0.0
+2025,Frauen-Bundesliga,1207565,Adriana Achcinska,FC Köln,10,10,725,6.777777777777778,0,0,23,Midfielder,Poland,100.0,72.5,0.0
+2025,Frauen-Bundesliga,1209440,Isabella Jaron,FC Carl Zeiss Jena,9,9,708,7.033333333333333,3,2,23,Forward,Germany,100.0,78.7,0.381
+2025,Frauen-Bundesliga,1214637,Janou Levels,VfL Wolfsburg,9,9,754,7.455555555555555,1,4,24,Defender,Netherlands,100.0,83.8,0.119
+2025,Frauen-Bundesliga,1214663,Amira Arfaoui,Werder Bremen,3,3,214,7.466666666666666,1,0,26,Midfielder,Switzerland,100.0,71.3,0.421
+2025,Frauen-Bundesliga,1215002,Julia Pollak,Nürnberg,10,10,879,6.58,0,0,23,Defender,Germany,100.0,87.9,0.0
+2025,Frauen-Bundesliga,1215009,Lisa Doorn,TSG 1899 Hoffenheim,6,6,513,7.2,0,0,24,Defender,Netherlands,100.0,85.5,0.0
+2025,Frauen-Bundesliga,1215012,Caitlin Dijkstra,VfL Wolfsburg,9,9,777,6.977777777777778,0,0,26,Defender,Netherlands,100.0,86.3,0.0
+2025,Frauen-Bundesliga,1231068,Jamilla Sofia Rankin,TSG 1899 Hoffenheim,8,8,672,7.1875,1,0,22,Defender,Australia,100.0,84.0,0.134
+2025,Frauen-Bundesliga,1236319,Vanessa Gilles,Bayern München,3,3,270,8.466666666666667,3,0,29,Defender,Canada,100.0,90.0,1.0
+2025,Frauen-Bundesliga,1236376,Laureta Elmazi,SGS Essen,9,9,703,6.4,0,0,22,Forward,Germany,100.0,78.1,0.0
+2025,Frauen-Bundesliga,1238107,Cora Zicai,VfL Wolfsburg,7,7,493,7.114285714285714,1,0,20,Midfielder,Germany,100.0,70.4,0.183
+2025,Frauen-Bundesliga,1238147,Mia Büchele,Hamburger SV,5,5,342,6.7,0,0,21,Unknown,Germany,100.0,68.4,0.0
+2025,Frauen-Bundesliga,1238256,Vivien Endemann,VfL Wolfsburg,3,3,222,7.533333333333334,2,2,24,Midfielder,Germany,100.0,74.0,0.811
+2025,Frauen-Bundesliga,1242155,Ricarda Walkling,Werder Bremen,2,2,136,6.55,0,0,28,Unknown,Germany,100.0,68.0,0.0
+2025,Frauen-Bundesliga,1253870,Nina Räcke,Hamburger SV,9,9,722,6.266666666666667,0,0,23,Defender,Germany,100.0,80.2,0.0
+2025,Frauen-Bundesliga,1254192,Beke Sterner,SGS Essen,1,1,14,5.9,0,0,22,Forward,Germany,100.0,14.0,0.0
+2025,Frauen-Bundesliga,1254235,Ena Mahmutovic,Bayern München,5,5,450,7.38,0,0,21,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1261770,Smilla Vallotto,VfL Wolfsburg,1,1,90,8.0,1,0,21,Unknown,Switzerland,100.0,90.0,1.0
+2025,Frauen-Bundesliga,1290591,Beatrix Fordos,Nürnberg,9,9,766,6.277777777777778,0,0,23,Defender,Hungary,100.0,85.1,0.0
+2025,Frauen-Bundesliga,1301446,Laura-Johanna Dick,TSG 1899 Hoffenheim,10,10,900,6.75,0,0,22,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1301448,Celina Degen,FC Köln,3,3,261,5.866666666666667,0,0,24,Defender,Austria,100.0,87.0,0.0
+2025,Frauen-Bundesliga,1301449,Vanessa Diehm,TSG 1899 Hoffenheim,10,10,900,7.13,0,0,21,Defender,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1302366,Julia Landenberger,RB Leipzig,10,10,900,6.82,1,2,21,Defender,Germany,100.0,90.0,0.1
+2025,Frauen-Bundesliga,1316529,Jarne Teulings,Eintracht Frankfurt,1,1,59,6.3,0,0,23,Unknown,Belgium,100.0,59.0,0.0
+2025,Frauen-Bundesliga,1324053,Clara Fröhlich,Nürnberg,2,2,180,5.75,0,0,21,Defender,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1328520,Nikoline Dudek,RB Leipzig,4,4,334,6.5,1,0,22,Defender,Denmark,100.0,83.5,0.269
+2025,Frauen-Bundesliga,1335079,Maja Sternad,Werder Bremen,5,5,437,6.9,3,1,21,Midfielder,Slovenia,100.0,87.4,0.618
+2025,Frauen-Bundesliga,1341281,Lisa Kolb,Freiburg,7,7,436,6.771428571428571,0,1,24,Midfielder,Austria,100.0,62.3,0.0
+2025,Frauen-Bundesliga,1342775,Anna Aehling,Union Berlin,3,3,270,6.933333333333334,0,0,24,Defender,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1345055,Lisa Gora,FC Carl Zeiss Jena,8,8,497,6.625,1,0,21,Unknown,Germany,100.0,62.1,0.181
+2025,Frauen-Bundesliga,1345144,Sylwia Matysik,FC Köln,2,2,136,6.35,0,0,28,Unknown,Poland,100.0,68.0,0.0
+2025,Frauen-Bundesliga,1345147,Sofie Zdebel,Bayer Leverkusen,10,10,851,6.844444444444445,0,0,21,Midfielder,Germany,100.0,85.1,0.0
+2025,Frauen-Bundesliga,1345154,Franziska Kett,Bayern München,7,7,577,7.457142857142857,0,0,20,Defender,Germany,100.0,82.4,0.0
+2025,Frauen-Bundesliga,1345182,Anja Heuschkel,FC Carl Zeiss Jena,1,1,56,5.5,0,0,28,Unknown,Germany,100.0,56.0,0.0
+2025,Frauen-Bundesliga,1345194,Luca Emily Birkholz,Freiburg,10,10,767,7.159999999999999,4,2,21,Forward,Germany,100.0,76.7,0.469
+2025,Frauen-Bundesliga,1345205,Melina Reuter,FC Carl Zeiss Jena,1,1,46,6.6,0,0,19,Forward,Germany,100.0,46.0,0.0
+2025,Frauen-Bundesliga,1345215,Michelle Weiss,Werder Bremen,10,10,846,6.7,0,0,24,Midfielder,Germany,100.0,84.6,0.0
+2025,Frauen-Bundesliga,1345225,Tuana Shahnis Mahmoud,Werder Bremen,1,1,47,5.8,0,0,22,Forward,Germany,100.0,47.0,0.0
+2025,Frauen-Bundesliga,1345236,Lisann Kaut,TSG 1899 Hoffenheim,5,5,394,6.7,0,0,25,Defender,Germany,100.0,78.8,0.0
+2025,Frauen-Bundesliga,1345241,Laura Pucks,SGS Essen,5,5,438,5.58,0,0,21,Midfielder,Germany,100.0,87.6,0.0
+2025,Frauen-Bundesliga,1345245,Katharina Piljic,Bayer Leverkusen,10,10,846,7.19,1,1,22,Midfielder,Germany,100.0,84.6,0.106
+2025,Frauen-Bundesliga,1346006,Lou-Ann Joly,RB Leipzig,7,7,531,6.742857142857143,0,0,23,Unknown,France,100.0,75.9,0.0
+2025,Frauen-Bundesliga,1346033,Juliette Vidal,Bayer Leverkusen,1,1,46,,0,0,26,Defender,France,100.0,46.0,0.0
+2025,Frauen-Bundesliga,1346720,Nia Szenk,Freiburg,9,9,785,7.133333333333334,0,0,21,Midfielder,Germany,100.0,87.2,0.0
+2025,Frauen-Bundesliga,1351419,Laura Gloning,TSG 1899 Hoffenheim,9,9,750,7.166666666666667,0,0,20,Midfielder,Germany,100.0,83.3,0.0
+2025,Frauen-Bundesliga,1353332,Marie Steiner,TSG 1899 Hoffenheim,5,5,341,6.9,1,0,20,Midfielder,Germany,100.0,68.2,0.264
+2025,Frauen-Bundesliga,1355940,Wielle Douma,TSG 1899 Hoffenheim,3,3,270,6.8999999999999995,0,0,25,Unknown,Netherlands,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1358070,Emilia Ásgeirsdottir,RB Leipzig,5,5,341,7.0,2,1,20,Unknown,Iceland,100.0,68.2,0.528
+2025,Frauen-Bundesliga,1359583,Marleen Schimmer,RB Leipzig,4,4,313,7.0,2,1,24,Midfielder,Germany,100.0,78.2,0.575
+2025,Frauen-Bundesliga,1359593,Dilara Acikgöz,Eintracht Frankfurt,1,1,80,6.8,0,0,21,Defender,Germany,100.0,80.0,0.0
+2025,Frauen-Bundesliga,1375212,Shari Van Belle,SGS Essen,6,6,428,6.433333333333334,1,0,25,Midfielder,Belgium,100.0,71.3,0.21
+2025,Frauen-Bundesliga,1375218,Feli Delacauw,TSG 1899 Hoffenheim,7,7,563,6.8999999999999995,0,1,23,Midfielder,Belgium,100.0,80.4,0.0
+2025,Frauen-Bundesliga,1375220,Jill Janssens,TSG 1899 Hoffenheim,9,9,789,7.411111111111111,0,1,21,Defender,Belgium,100.0,87.7,0.0
+2025,Frauen-Bundesliga,1376150,Mariella El Sherif,Werder Bremen,10,10,900,6.82,0,0,21,Goalkeeper,Austria,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1376151,Julia Magerl,RB Leipzig,2,2,175,7.0,0,0,22,Defender,Austria,100.0,87.5,0.0
+2025,Frauen-Bundesliga,1380227,Nadine Riesen,Eintracht Frankfurt,7,7,576,7.214285714285714,0,1,25,Forward,Switzerland,100.0,82.3,0.0
+2025,Frauen-Bundesliga,1402509,Anne Moll,Bayer Leverkusen,2,2,180,6.25,0,0,20,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1402518,Jonna Brengel,Nürnberg,2,2,136,7.0,0,0,20,Midfielder,Germany,100.0,68.0,0.0
+2025,Frauen-Bundesliga,1402519,Sophie Nachtigall,Freiburg,7,7,471,7.071428571428571,0,1,21,Forward,Germany,100.0,67.3,0.0
+2025,Frauen-Bundesliga,1402524,Alena Bienz,Freiburg,2,2,122,6.6,0,0,22,Unknown,Switzerland,100.0,61.0,0.0
+2025,Frauen-Bundesliga,1402531,Selina Vobian,Freiburg,6,6,508,6.816666666666666,0,1,22,Midfielder,Germany,100.0,84.7,0.0
+2025,Frauen-Bundesliga,1402558,Hannah Etzold,FC Carl Zeiss Jena,6,6,540,5.949999999999999,0,0,20,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1402559,Hanna Nemeth,Werder Bremen,10,10,849,6.45,0,0,26,Defender,Hungary,100.0,84.9,0.0
+2025,Frauen-Bundesliga,1406273,Ramona Maier,SGS Essen,10,10,881,6.24,1,0,29,Defender,Germany,100.0,88.1,0.102
+2025,Frauen-Bundesliga,1406574,Laura Vogt,FC Köln,11,11,990,6.99,1,1,24,Midfielder,Germany,100.0,90.0,0.091
+2025,Frauen-Bundesliga,1406589,Athanasia Moraitou,Union Berlin,2,2,133,6.699999999999999,0,0,28,Unknown,Greece,100.0,66.5,0.0
+2025,Frauen-Bundesliga,1406600,Toma Ihlenburg,FC Carl Zeiss Jena,10,10,900,6.7299999999999995,0,0,22,Defender,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1406649,Paula Flach,SGS Essen,10,10,797,6.279999999999999,0,0,22,Defender,Germany,100.0,79.7,0.0
+2025,Frauen-Bundesliga,1406733,Natasha Kowalski,SGS Essen,4,4,321,6.575,1,0,22,Midfielder,Germany,100.0,80.2,0.28
+2025,Frauen-Bundesliga,1407563,Oliwia Wos,Nürnberg,10,10,890,6.58,1,1,26,Defender,Poland,100.0,89.0,0.101
+2025,Frauen-Bundesliga,1412305,Leela Egli,Freiburg,1,1,61,6.2,0,0,18,Unknown,Switzerland,100.0,61.0,0.0
+2025,Frauen-Bundesliga,1412352,Claudia Wenger,Bayer Leverkusen,8,8,720,6.785714285714286,1,0,24,Defender,Austria,100.0,90.0,0.125
+2025,Frauen-Bundesliga,1412359,Valentina Mädl,Bayer Leverkusen,7,7,494,7.1000000000000005,2,1,19,Forward,Austria,100.0,70.6,0.364
+2025,Frauen-Bundesliga,1412368,Luisa Palmen,SGS Essen,5,5,450,6.26,0,0,23,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1412369,Sophie Hillebrand,Hamburger SV,9,9,612,6.388888888888889,1,0,23,Midfielder,Austria,100.0,68.0,0.147
+2025,Frauen-Bundesliga,1437279,Chiara Hahn,TSG 1899 Hoffenheim,2,2,144,7.15,0,0,23,Midfielder,Germany,100.0,72.0,0.0
+2025,Frauen-Bundesliga,1437280,Selma Licina,Nürnberg,7,7,495,6.885714285714286,0,1,24,Midfielder,Montenegro,100.0,70.7,0.0
+2025,Frauen-Bundesliga,1437709,Aleigh Gambone,Nürnberg,8,8,697,6.8625,0,1,24,Midfielder,USA,100.0,87.1,0.0
+2025,Frauen-Bundesliga,1438602,Judit Pujols,VfL Wolfsburg,1,1,90,7.3,0,0,20,Defender,Spain,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1464823,Tessa Blumenberg,Freiburg,4,4,253,6.775,1,0,20,Midfielder,Germany,100.0,63.2,0.356
+2025,Frauen-Bundesliga,1477328,Nike Andersson,FC Carl Zeiss Jena,3,3,270,7.033333333333334,1,0,23,Unknown,Germany,100.0,90.0,0.333
+2025,Frauen-Bundesliga,1510615,Remina Chiba,Eintracht Frankfurt,1,1,59,6.3,0,0,26,Unknown,Japan,100.0,59.0,0.0
+2025,Frauen-Bundesliga,1536057,Mai Kadowaki,RB Leipzig,3,3,216,6.866666666666667,0,1,24,Defender,Japan,100.0,72.0,0.0
+2025,Frauen-Bundesliga,1541838,Aneta Polaskova,Nürnberg,10,10,708,6.470000000000001,1,1,23,Forward,Czechia,100.0,70.8,0.127
+2025,Frauen-Bundesliga,1544143,Paulina Bartz,Bayer Leverkusen,1,1,63,5.8,0,0,20,Defender,Germany,100.0,63.0,0.0
+2025,Frauen-Bundesliga,1544146,Loreen Bender,Bayer Leverkusen,3,3,242,6.933333333333334,0,1,20,Midfielder,Germany,100.0,80.7,0.0
+2025,Frauen-Bundesliga,1544147,Estrella Merino Gonzalez,Bayer Leverkusen,9,9,770,7.077777777777778,0,2,18,Defender,Germany,100.0,85.6,0.0
+2025,Frauen-Bundesliga,1544148,Delice Boboy,RB Leipzig,8,8,665,6.75,0,2,18,Forward,Germany,100.0,83.1,0.0
+2025,Frauen-Bundesliga,1544185,Alara Sehitler,Bayern München,3,3,228,6.833333333333333,0,0,18,Unknown,Germany,100.0,76.0,0.0
+2025,Frauen-Bundesliga,1544201,Jella Veit,Eintracht Frankfurt,9,9,810,7.2333333333333325,0,0,20,Forward,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1544532,Carlotta Imping,FC Köln,8,8,610,6.9125,1,0,21,Defender,Germany,100.0,76.2,0.148
+2025,Frauen-Bundesliga,1546150,Victoria Krug,RB Leipzig,6,6,489,6.6499999999999995,0,0,27,Midfielder,Germany,100.0,81.5,0.0
+2025,Frauen-Bundesliga,1546152,Korina Janez,Union Berlin,1,1,55,6.0,0,0,21,Unknown,Slovenia,100.0,55.0,0.0
+2025,Frauen-Bundesliga,1546154,Jenny Hipp,Union Berlin,3,3,248,7.266666666666667,0,0,27,Midfielder,Germany,100.0,82.7,0.0
+2025,Frauen-Bundesliga,1546178,Marlene Müller,RB Leipzig,7,7,594,7.414285714285714,2,1,24,Unknown,Germany,100.0,84.9,0.303
+2025,Frauen-Bundesliga,1546214,Lea Paulick,Eintracht Frankfurt,1,1,90,5.3,0,0,26,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1546223,Luisa Guttenberger,Nürnberg,10,10,817,6.55,1,0,26,Midfielder,Germany,100.0,81.7,0.11
+2025,Frauen-Bundesliga,1546242,Elena Muehlemann,FC Carl Zeiss Jena,3,3,224,6.633333333333333,0,0,22,Forward,Switzerland,100.0,74.7,0.0
+2025,Frauen-Bundesliga,1546273,Nastassja Lein,Nürnberg,10,10,900,7.38,4,3,24,Midfielder,Germany,100.0,90.0,0.4
+2025,Frauen-Bundesliga,1546347,Chiara D'Angelo,Werder Bremen,10,10,856,6.81,0,0,21,Defender,Austria,100.0,85.6,0.0
+2025,Frauen-Bundesliga,1549669,Eileen Campbell,Union Berlin,7,7,630,7.085714285714286,1,2,24,Midfielder,Austria,100.0,90.0,0.143
+2025,Frauen-Bundesliga,1553638,Caroline Kehrer,Bayer Leverkusen,4,4,307,6.875,2,0,28,Forward,Canada,100.0,76.8,0.586
+2025,Frauen-Bundesliga,1554607,Emoke Papai,Werder Bremen,1,1,63,6.8,0,0,22,Unknown,Hungary,100.0,63.0,0.0
+2025,Frauen-Bundesliga,1554610,Noemi Ivelj,Eintracht Frankfurt,2,2,180,5.6,0,0,18,Defender,Switzerland,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1554611,Aurelie Csillag,Freiburg,3,3,231,6.366666666666667,0,0,22,Unknown,Switzerland,100.0,77.0,0.0
+2025,Frauen-Bundesliga,1556343,Valesca Ampoorter,TSG 1899 Hoffenheim,10,10,869,7.25,2,0,21,Midfielder,Belgium,100.0,86.9,0.207
+2025,Frauen-Bundesliga,1569906,Laura Miller,Nürnberg,8,8,611,6.775,0,1,23,Forward,Luxembourg,100.0,76.4,0.0
+2025,Frauen-Bundesliga,1604389,Momoko Tanikawa,Bayern München,8,8,587,7.225,2,0,20,Unknown,Japan,100.0,73.4,0.307
+2025,Frauen-Bundesliga,1607776,Kassandra Potsi,SGS Essen,4,4,320,6.625,0,0,17,Unknown,Germany,100.0,80.0,0.0
+2025,Frauen-Bundesliga,1611336,Julia Mickenhagen,Bayer Leverkusen,5,5,450,7.1,0,1,20,Defender,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1637769,Ida Heikkinen,Union Berlin,2,2,162,5.550000000000001,0,0,19,Unknown,Finland,100.0,81.0,0.0
+2025,Frauen-Bundesliga,1638164,Larissa Michelle Mühlhaus,Werder Bremen,10,10,849,7.92,6,3,22,Midfielder,Germany,100.0,84.9,0.636
+2025,Frauen-Bundesliga,1638165,Emilia Angelika Hirche,Hamburger SV,4,4,360,6.575,0,0,22,Defender,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1638167,Lisa Baum,RB Leipzig,9,9,782,6.9,1,0,18,Defender,Germany,100.0,86.9,0.115
+2025,Frauen-Bundesliga,1638291,Pauline Machtens,Hamburger SV,10,10,727,6.62,0,0,23,Midfielder,Germany,100.0,72.7,0.0
+2025,Frauen-Bundesliga,1638292,Victoria Schulz,Hamburger SV,4,4,360,6.6,0,0,27,Unknown,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1644384,Maj Schneider,Freiburg,5,5,354,6.9799999999999995,1,1,18,Unknown,Germany,100.0,70.8,0.254
+2025,Frauen-Bundesliga,1671082,Ida Daedelow,Bayer Leverkusen,1,1,46,6.1,0,0,18,Midfielder,Germany,100.0,46.0,0.0
+2025,Frauen-Bundesliga,1671107,Lina Altenburg,Eintracht Frankfurt,9,9,810,6.944444444444445,0,0,20,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1671108,Emily Reske,FC Carl Zeiss Jena,7,7,447,6.614285714285714,1,0,20,Forward,Germany,100.0,63.9,0.201
+2025,Frauen-Bundesliga,1671109,Josephine Bonsu,FC Carl Zeiss Jena,9,9,786,6.833333333333333,0,1,26,Unknown,Germany,100.0,87.3,0.0
+2025,Frauen-Bundesliga,1671110,Bente Fischer,FC Carl Zeiss Jena,3,3,226,6.566666666666666,0,0,22,Defender,Germany,100.0,75.3,0.0
+2025,Frauen-Bundesliga,1671113,Nelly Juckel,FC Carl Zeiss Jena,8,8,656,6.4375,0,0,23,Defender,Germany,100.0,82.0,0.0
+2025,Frauen-Bundesliga,1671114,Gwen Mummert,FC Carl Zeiss Jena,2,2,168,7.25,0,0,26,Defender,Germany,100.0,84.0,0.0
+2025,Frauen-Bundesliga,1671117,Felicia Straesser,FC Carl Zeiss Jena,8,8,676,6.65,0,1,17,Defender,Germany,100.0,84.5,0.0
+2025,Frauen-Bundesliga,1671119,Jasmin Janning,FC Carl Zeiss Jena,4,4,360,6.225,0,0,20,Goalkeeper,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1671122,Nicole Ojukwu,Freiburg,4,4,315,7.225,1,2,19,Unknown,Austria,100.0,78.8,0.286
+2025,Frauen-Bundesliga,1671123,Leonie Koepp,SGS Essen,2,2,106,6.699999999999999,0,0,18,Unknown,Germany,100.0,53.0,0.0
+2025,Frauen-Bundesliga,1671124,Paulina Platner,SGS Essen,6,6,418,6.633333333333333,1,0,19,Midfielder,Germany,100.0,69.7,0.215
+2025,Frauen-Bundesliga,1671131,Napsugar Sinka,TSG 1899 Hoffenheim,1,1,46,6.8,0,0,19,Midfielder,Hungary,100.0,46.0,0.0
+2025,Frauen-Bundesliga,1679730,Steffi Schmid,FC Carl Zeiss Jena,7,7,615,6.171428571428572,0,0,19,Defender,Germany,100.0,87.9,0.0
+2025,Frauen-Bundesliga,1685492,Tomke Schneider,Union Berlin,10,10,871,6.68,1,1,21,Defender,Germany,100.0,87.1,0.103
+2025,Frauen-Bundesliga,1715836,Nadine Boehi,Union Berlin,1,1,90,5.6,0,0,21,Goalkeeper,Switzerland,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1732697,Jaqueline Donges,Hamburger SV,4,4,313,6.05,0,0,24,Defender,Germany,100.0,78.2,0.0
+2025,Frauen-Bundesliga,1732698,Svea Stoldt,Hamburger SV,10,10,900,6.890000000000001,2,2,19,Midfielder,Germany,100.0,90.0,0.2
+2025,Frauen-Bundesliga,1732707,Annaleen Boehler,Hamburger SV,3,3,207,6.866666666666667,0,0,20,Unknown,Germany,100.0,69.0,0.0
+2025,Frauen-Bundesliga,1734898,Larissa Rusek,Nürnberg,10,10,900,6.42,0,0,20,Goalkeeper,Austria,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1805530,Rieke Tietz,FC Carl Zeiss Jena,9,9,652,6.422222222222222,1,1,23,Unknown,Germany,100.0,72.4,0.138
+2025,Frauen-Bundesliga,1805567,Annalena Wucher,Hamburger SV,3,3,192,6.033333333333334,0,0,26,Unknown,Austria,100.0,64.0,0.0
+2025,Frauen-Bundesliga,1805575,Leni Eggert,Hamburger SV,10,10,895,6.5200000000000005,0,0,17,Midfielder,Germany,100.0,89.5,0.0
+2025,Frauen-Bundesliga,1805577,Lotta Wrede,Hamburger SV,6,6,365,7.05,0,0,17,Forward,Germany,100.0,60.8,0.0
+2025,Frauen-Bundesliga,1805578,Larissa Haidner,Hamburger SV,4,4,360,6.55,0,0,20,Goalkeeper,Austria,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1805595,Sanja Homann,Nürnberg,10,10,833,7.159999999999999,2,0,23,Midfielder,Germany,100.0,83.3,0.216
+2025,Frauen-Bundesliga,1805596,Jacqueline Baumgaertel,Nürnberg,2,2,142,6.6,0,0,23,Forward,Germany,100.0,71.0,0.0
+2025,Frauen-Bundesliga,1805603,Mia-Lena Maas,Freiburg,1,1,74,7.2,0,0,17,Defender,Germany,100.0,74.0,0.0
+2025,Frauen-Bundesliga,1806031,Katja Orschmann,Union Berlin,7,7,542,6.7,1,1,27,Defender,Germany,100.0,77.4,0.166
+2025,Frauen-Bundesliga,1806032,Celine Frank,Union Berlin,2,2,180,6.4,0,0,27,Unknown,Germany,100.0,90.0,0.0
+2025,Frauen-Bundesliga,1806033,Lisa Heiseler,Union Berlin,10,10,721,6.88,3,1,27,Unknown,Germany,100.0,72.1,0.374
+2025,Frauen-Bundesliga,1806048,Naika Reissner,Union Berlin,5,5,332,6.659999999999999,0,0,20,Midfielder,Austria,100.0,66.4,0.0
+2025,Frauen-Bundesliga,1806096,Linda Natter,TSG 1899 Hoffenheim,2,2,90,6.6,0,0,20,Forward,Austria,100.0,45.0,0.0
+2025,Frauen-Bundesliga,1806102,Janna Grimm,TSG 1899 Hoffenheim,3,3,226,6.466666666666666,0,0,20,Midfielder,Germany,100.0,75.3,0.0
+2025,Frauen-Bundesliga,1810245,Irina Fuchs,FC Köln,6,6,540,6.74,0,0,20,Goalkeeper,Switzerland,100.0,90.0,0.0
