@@ -1,0 +1,133 @@
+match_id,home_team,away_team,home_score,away_score,date,league,round,finished
+4561655,Turbine Potsdam,Bayern München,0,2,2024-08-30T15:00:00.000Z,Frauen-Bundesliga,1,True
+4561663,Eintracht Frankfurt,FC Carl Zeiss Jena,2,0,2024-08-31T10:00:00.000Z,Frauen-Bundesliga,1,True
+4561660,SGS Essen,TSG 1899 Hoffenheim,1,2,2024-09-01T12:00:00.000Z,Frauen-Bundesliga,1,True
+4561661,RB Leipzig,FC Köln,2,1,2024-09-01T16:30:00.000Z,Frauen-Bundesliga,1,True
+4561662,VfL Wolfsburg,Werder Bremen,3,3,2024-09-02T16:00:00.000Z,Frauen-Bundesliga,1,True
+4689102,Freiburg,Bayer Leverkusen,1,2,2025-01-26T11:00:00.000Z,Frauen-Bundesliga,1,True
+4561657,Bayern München,RB Leipzig,6,2,2024-09-13T16:30:00.000Z,Frauen-Bundesliga,2,True
+4561659,FC Carl Zeiss Jena,VfL Wolfsburg,0,1,2024-09-14T10:00:00.000Z,Frauen-Bundesliga,2,True
+4561644,Werder Bremen,Turbine Potsdam,2,0,2024-09-14T12:00:00.000Z,Frauen-Bundesliga,2,True
+4561656,Bayer Leverkusen,Eintracht Frankfurt,2,2,2024-09-15T12:00:00.000Z,Frauen-Bundesliga,2,True
+4561654,FC Köln,SGS Essen,2,2,2024-09-15T16:30:00.000Z,Frauen-Bundesliga,2,True
+4561658,TSG 1899 Hoffenheim,Freiburg,2,3,2024-09-16T16:00:00.000Z,Frauen-Bundesliga,2,True
+4561649,RB Leipzig,Werder Bremen,2,0,2024-09-20T16:30:00.000Z,Frauen-Bundesliga,3,True
+4561650,Freiburg,FC Carl Zeiss Jena,1,1,2024-09-21T10:00:00.000Z,Frauen-Bundesliga,3,True
+4561653,SGS Essen,Bayer Leverkusen,0,2,2024-09-21T12:00:00.000Z,Frauen-Bundesliga,3,True
+4561651,Turbine Potsdam,Eintracht Frankfurt,0,6,2024-09-22T12:00:00.000Z,Frauen-Bundesliga,3,True
+4561652,VfL Wolfsburg,FC Köln,5,1,2024-09-22T16:30:00.000Z,Frauen-Bundesliga,3,True
+4561648,Bayern München,TSG 1899 Hoffenheim,5,1,2024-09-23T16:00:00.000Z,Frauen-Bundesliga,3,True
+4561666,Bayer Leverkusen,TSG 1899 Hoffenheim,2,1,2024-09-27T16:30:00.000Z,Frauen-Bundesliga,4,True
+4561667,FC Köln,Freiburg,0,2,2024-09-28T10:00:00.000Z,Frauen-Bundesliga,4,True
+4561646,Turbine Potsdam,RB Leipzig,0,3,2024-09-28T12:00:00.000Z,Frauen-Bundesliga,4,True
+4561665,Werder Bremen,Bayern München,0,4,2024-09-29T12:00:00.000Z,Frauen-Bundesliga,4,True
+4561645,Eintracht Frankfurt,VfL Wolfsburg,3,0,2024-09-29T15:00:00.000Z,Frauen-Bundesliga,4,True
+4561647,FC Carl Zeiss Jena,SGS Essen,0,2,2024-09-30T16:00:00.000Z,Frauen-Bundesliga,4,True
+4561669,VfL Wolfsburg,RB Leipzig,5,0,2024-10-04T16:30:00.000Z,Frauen-Bundesliga,5,True
+4561673,Freiburg,Turbine Potsdam,3,0,2024-10-05T10:00:00.000Z,Frauen-Bundesliga,5,True
+4561670,Bayern München,FC Köln,1,0,2024-10-05T12:00:00.000Z,Frauen-Bundesliga,5,True
+4561668,SGS Essen,Eintracht Frankfurt,1,3,2024-10-06T12:00:00.000Z,Frauen-Bundesliga,5,True
+4561671,TSG 1899 Hoffenheim,Werder Bremen,1,0,2024-10-06T16:30:00.000Z,Frauen-Bundesliga,5,True
+4561672,Bayer Leverkusen,FC Carl Zeiss Jena,1,0,2024-10-07T16:00:00.000Z,Frauen-Bundesliga,5,True
+4561677,Turbine Potsdam,SGS Essen,0,3,2024-10-11T16:30:00.000Z,Frauen-Bundesliga,6,True
+4561674,Werder Bremen,Bayer Leverkusen,1,1,2024-10-12T12:00:00.000Z,Frauen-Bundesliga,6,True
+4561676,VfL Wolfsburg,Bayern München,2,0,2024-10-12T15:45:00.000Z,Frauen-Bundesliga,6,True
+4561675,FC Köln,TSG 1899 Hoffenheim,0,3,2024-10-13T12:00:00.000Z,Frauen-Bundesliga,6,True
+4561679,RB Leipzig,FC Carl Zeiss Jena,2,0,2024-10-13T16:30:00.000Z,Frauen-Bundesliga,6,True
+4561678,Eintracht Frankfurt,Freiburg,6,0,2024-10-14T16:00:00.000Z,Frauen-Bundesliga,6,True
+4561700,TSG 1899 Hoffenheim,Turbine Potsdam,6,0,2024-10-18T16:30:00.000Z,Frauen-Bundesliga,7,True
+4561701,Eintracht Frankfurt,Werder Bremen,0,1,2024-10-19T10:00:00.000Z,Frauen-Bundesliga,7,True
+4561698,FC Carl Zeiss Jena,FC Köln,2,2,2024-10-19T12:00:00.000Z,Frauen-Bundesliga,7,True
+4561699,SGS Essen,VfL Wolfsburg,0,2,2024-10-20T12:00:00.000Z,Frauen-Bundesliga,7,True
+4561706,Freiburg,RB Leipzig,4,1,2024-10-20T14:00:00.000Z,Frauen-Bundesliga,7,True
+4561702,Bayer Leverkusen,Bayern München,2,3,2024-10-20T16:30:00.000Z,Frauen-Bundesliga,7,True
+4561708,FC Köln,Bayer Leverkusen,1,2,2024-11-01T17:30:00.000Z,Frauen-Bundesliga,8,True
+4561707,Werder Bremen,SGS Essen,1,0,2024-11-02T11:00:00.000Z,Frauen-Bundesliga,8,True
+4561697,Turbine Potsdam,FC Carl Zeiss Jena,0,0,2024-11-02T13:00:00.000Z,Frauen-Bundesliga,8,True
+4561704,RB Leipzig,TSG 1899 Hoffenheim,3,1,2024-11-03T13:00:00.000Z,Frauen-Bundesliga,8,True
+4561703,VfL Wolfsburg,Freiburg,3,0,2024-11-03T17:30:00.000Z,Frauen-Bundesliga,8,True
+4561705,Bayern München,Eintracht Frankfurt,1,1,2024-11-04T17:00:00.000Z,Frauen-Bundesliga,8,True
+4561710,Freiburg,Bayern München,2,2,2024-11-08T17:30:00.000Z,Frauen-Bundesliga,9,True
+4561713,TSG 1899 Hoffenheim,VfL Wolfsburg,0,3,2024-11-09T11:00:00.000Z,Frauen-Bundesliga,9,True
+4561689,Eintracht Frankfurt,FC Köln,8,0,2024-11-09T13:00:00.000Z,Frauen-Bundesliga,9,True
+4561712,Bayer Leverkusen,Turbine Potsdam,3,0,2024-11-10T13:00:00.000Z,Frauen-Bundesliga,9,True
+4561709,FC Carl Zeiss Jena,Werder Bremen,0,1,2024-11-10T17:30:00.000Z,Frauen-Bundesliga,9,True
+4561711,SGS Essen,RB Leipzig,0,0,2024-11-11T17:00:00.000Z,Frauen-Bundesliga,9,True
+4561686,Freiburg,SGS Essen,1,0,2024-11-15T17:30:00.000Z,Frauen-Bundesliga,10,True
+4561683,VfL Wolfsburg,Turbine Potsdam,3,1,2024-11-16T13:00:00.000Z,Frauen-Bundesliga,10,True
+4561682,TSG 1899 Hoffenheim,Eintracht Frankfurt,0,1,2024-11-16T16:10:00.000Z,Frauen-Bundesliga,10,True
+4561685,Bayern München,FC Carl Zeiss Jena,5,0,2024-11-17T13:00:00.000Z,Frauen-Bundesliga,10,True
+4561684,RB Leipzig,Bayer Leverkusen,0,1,2024-11-17T17:30:00.000Z,Frauen-Bundesliga,10,True
+4561681,FC Köln,Werder Bremen,1,4,2024-11-18T17:00:00.000Z,Frauen-Bundesliga,10,True
+4561688,Bayer Leverkusen,VfL Wolfsburg,1,0,2024-12-06T17:30:00.000Z,Frauen-Bundesliga,11,True
+4561692,Turbine Potsdam,FC Köln,0,1,2024-12-07T11:00:00.000Z,Frauen-Bundesliga,11,True
+4561680,SGS Essen,Bayern München,0,2,2024-12-07T13:00:00.000Z,Frauen-Bundesliga,11,True
+4561691,Werder Bremen,Freiburg,0,3,2024-12-08T13:00:00.000Z,Frauen-Bundesliga,11,True
+4561687,Eintracht Frankfurt,RB Leipzig,3,0,2024-12-09T17:00:00.000Z,Frauen-Bundesliga,11,True
+4561690,FC Carl Zeiss Jena,TSG 1899 Hoffenheim,0,3,2025-01-26T13:00:00.000Z,Frauen-Bundesliga,11,True
+4561695,FC Carl Zeiss Jena,Eintracht Frankfurt,0,3,2024-12-13T17:30:00.000Z,Frauen-Bundesliga,12,True
+4561714,Bayer Leverkusen,Freiburg,2,0,2024-12-14T11:00:00.000Z,Frauen-Bundesliga,12,True
+4561694,Werder Bremen,VfL Wolfsburg,1,3,2024-12-14T13:00:00.000Z,Frauen-Bundesliga,12,True
+4561715,Bayern München,Turbine Potsdam,2,0,2024-12-15T13:00:00.000Z,Frauen-Bundesliga,12,True
+4561693,TSG 1899 Hoffenheim,SGS Essen,1,0,2024-12-15T17:30:00.000Z,Frauen-Bundesliga,12,True
+4561696,FC Köln,RB Leipzig,1,3,2024-12-16T17:00:00.000Z,Frauen-Bundesliga,12,True
+4561737,Eintracht Frankfurt,Bayer Leverkusen,3,2,2025-01-31T17:30:00.000Z,Frauen-Bundesliga,13,True
+4561743,Turbine Potsdam,Werder Bremen,1,4,2025-02-01T13:00:00.000Z,Frauen-Bundesliga,13,True
+4561735,Freiburg,TSG 1899 Hoffenheim,0,3,2025-02-02T13:00:00.000Z,Frauen-Bundesliga,13,True
+4561738,RB Leipzig,Bayern München,0,1,2025-02-02T17:30:00.000Z,Frauen-Bundesliga,13,True
+4561739,VfL Wolfsburg,FC Carl Zeiss Jena,3,0,2025-02-03T17:00:00.000Z,Frauen-Bundesliga,13,True
+4561736,SGS Essen,FC Köln,0,0,2025-02-11T17:30:00.000Z,Frauen-Bundesliga,13,True
+4561741,FC Köln,VfL Wolfsburg,0,0,2025-02-07T17:30:00.000Z,Frauen-Bundesliga,14,True
+4561742,Bayer Leverkusen,SGS Essen,1,1,2025-02-08T11:00:00.000Z,Frauen-Bundesliga,14,True
+4561745,Werder Bremen,RB Leipzig,1,4,2025-02-08T13:00:00.000Z,Frauen-Bundesliga,14,True
+4561744,TSG 1899 Hoffenheim,Bayern München,1,3,2025-02-09T13:00:00.000Z,Frauen-Bundesliga,14,True
+4561740,Eintracht Frankfurt,Turbine Potsdam,9,0,2025-02-09T17:30:00.000Z,Frauen-Bundesliga,14,True
+4561734,FC Carl Zeiss Jena,Freiburg,0,2,2025-03-05T17:30:00.000Z,Frauen-Bundesliga,14,True
+4561748,RB Leipzig,Turbine Potsdam,4,1,2025-02-14T17:30:00.000Z,Frauen-Bundesliga,15,True
+4561749,Freiburg,FC Köln,2,0,2025-02-15T11:00:00.000Z,Frauen-Bundesliga,15,True
+4561750,SGS Essen,FC Carl Zeiss Jena,4,1,2025-02-15T13:00:00.000Z,Frauen-Bundesliga,15,True
+4561746,TSG 1899 Hoffenheim,Bayer Leverkusen,1,0,2025-02-16T13:00:00.000Z,Frauen-Bundesliga,15,True
+4561747,Bayern München,Werder Bremen,1,0,2025-02-16T14:15:00.000Z,Frauen-Bundesliga,15,True
+4561751,VfL Wolfsburg,Eintracht Frankfurt,6,1,2025-02-16T15:45:00.000Z,Frauen-Bundesliga,15,True
+4561721,Eintracht Frankfurt,SGS Essen,2,1,2025-03-07T17:30:00.000Z,Frauen-Bundesliga,16,True
+4561717,Turbine Potsdam,Freiburg,0,1,2025-03-08T11:00:00.000Z,Frauen-Bundesliga,16,True
+4561720,RB Leipzig,VfL Wolfsburg,0,2,2025-03-08T13:00:00.000Z,Frauen-Bundesliga,16,True
+4561719,FC Köln,Bayern München,0,3,2025-03-09T13:00:00.000Z,Frauen-Bundesliga,16,True
+4561725,FC Carl Zeiss Jena,Bayer Leverkusen,0,2,2025-03-09T17:30:00.000Z,Frauen-Bundesliga,16,True
+4561718,Werder Bremen,TSG 1899 Hoffenheim,1,0,2025-03-10T17:00:00.000Z,Frauen-Bundesliga,16,True
+4561724,Bayern München,VfL Wolfsburg,3,1,2025-03-14T15:55:00.000Z,Frauen-Bundesliga,17,True
+4561716,FC Carl Zeiss Jena,RB Leipzig,1,1,2025-03-15T11:00:00.000Z,Frauen-Bundesliga,17,True
+4561723,TSG 1899 Hoffenheim,FC Köln,5,1,2025-03-15T13:00:00.000Z,Frauen-Bundesliga,17,True
+4561727,Bayer Leverkusen,Werder Bremen,6,0,2025-03-16T13:00:00.000Z,Frauen-Bundesliga,17,True
+4561726,SGS Essen,Turbine Potsdam,2,1,2025-03-16T17:30:00.000Z,Frauen-Bundesliga,17,True
+4561722,Freiburg,Eintracht Frankfurt,3,2,2025-03-17T17:00:00.000Z,Frauen-Bundesliga,17,True
+4561730,FC Köln,FC Carl Zeiss Jena,0,1,2025-03-28T17:30:00.000Z,Frauen-Bundesliga,18,True
+4561729,Werder Bremen,Eintracht Frankfurt,1,4,2025-03-29T11:00:00.000Z,Frauen-Bundesliga,18,True
+4561728,Turbine Potsdam,TSG 1899 Hoffenheim,0,7,2025-03-29T13:00:00.000Z,Frauen-Bundesliga,18,True
+4561732,RB Leipzig,Freiburg,1,1,2025-03-30T12:00:00.000Z,Frauen-Bundesliga,18,True
+4561733,Bayern München,Bayer Leverkusen,2,0,2025-03-30T13:15:00.000Z,Frauen-Bundesliga,18,True
+4561731,VfL Wolfsburg,SGS Essen,5,1,2025-03-30T16:30:00.000Z,Frauen-Bundesliga,18,True
+4561774,SGS Essen,Werder Bremen,0,1,2025-04-11T16:30:00.000Z,Frauen-Bundesliga,19,True
+4561764,FC Carl Zeiss Jena,Turbine Potsdam,1,0,2025-04-12T10:00:00.000Z,Frauen-Bundesliga,19,True
+4561772,Eintracht Frankfurt,Bayern München,0,3,2025-04-12T12:00:00.000Z,Frauen-Bundesliga,19,True
+4561775,Freiburg,VfL Wolfsburg,1,1,2025-04-13T12:00:00.000Z,Frauen-Bundesliga,19,True
+4561773,TSG 1899 Hoffenheim,RB Leipzig,5,2,2025-04-13T16:30:00.000Z,Frauen-Bundesliga,19,True
+4561771,Bayer Leverkusen,FC Köln,1,1,2025-04-14T16:00:00.000Z,Frauen-Bundesliga,19,True
+4561770,Turbine Potsdam,Bayer Leverkusen,1,3,2025-04-25T16:30:00.000Z,Frauen-Bundesliga,20,True
+4561767,RB Leipzig,SGS Essen,0,3,2025-04-26T10:00:00.000Z,Frauen-Bundesliga,20,True
+4561769,Werder Bremen,FC Carl Zeiss Jena,3,0,2025-04-26T12:00:00.000Z,Frauen-Bundesliga,20,True
+4561765,Bayern München,Freiburg,3,1,2025-04-27T12:00:00.000Z,Frauen-Bundesliga,20,True
+4561766,FC Köln,Eintracht Frankfurt,0,4,2025-04-27T16:30:00.000Z,Frauen-Bundesliga,20,True
+4561768,VfL Wolfsburg,TSG 1899 Hoffenheim,2,1,2025-04-28T16:00:00.000Z,Frauen-Bundesliga,20,True
+4561761,SGS Essen,Freiburg,0,0,2025-05-02T16:30:00.000Z,Frauen-Bundesliga,21,True
+4561760,Bayer Leverkusen,RB Leipzig,1,0,2025-05-03T10:00:00.000Z,Frauen-Bundesliga,21,True
+4561762,Turbine Potsdam,VfL Wolfsburg,0,4,2025-05-03T12:00:00.000Z,Frauen-Bundesliga,21,True
+4561752,Eintracht Frankfurt,TSG 1899 Hoffenheim,3,1,2025-05-04T13:00:00.000Z,Frauen-Bundesliga,21,True
+4561763,Werder Bremen,FC Köln,1,2,2025-05-04T16:30:00.000Z,Frauen-Bundesliga,21,True
+4561759,FC Carl Zeiss Jena,Bayern München,0,1,2025-05-05T16:00:00.000Z,Frauen-Bundesliga,21,True
+4561753,Bayern München,SGS Essen,3,0,2025-05-11T12:00:00.000Z,Frauen-Bundesliga,22,True
+4561756,FC Köln,Turbine Potsdam,4,0,2025-05-11T12:00:00.000Z,Frauen-Bundesliga,22,True
+4561758,Freiburg,Werder Bremen,3,2,2025-05-11T12:00:00.000Z,Frauen-Bundesliga,22,True
+4561754,RB Leipzig,Eintracht Frankfurt,0,2,2025-05-11T12:00:00.000Z,Frauen-Bundesliga,22,True
+4561757,TSG 1899 Hoffenheim,FC Carl Zeiss Jena,4,0,2025-05-11T12:00:00.000Z,Frauen-Bundesliga,22,True
+4561755,VfL Wolfsburg,Bayer Leverkusen,3,1,2025-05-11T12:00:00.000Z,Frauen-Bundesliga,22,True
