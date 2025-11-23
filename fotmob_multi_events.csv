@@ -660,3 +660,1548 @@ match_id,season,competition,event_type,time,player_name,player_id,is_home,assist
 4863624,2025,Frauen-Bundesliga,goal,69,Tessa Blumenberg,1464823,True,,1,1
 4863624,2025,Frauen-Bundesliga,goal,87,Tessa Blumenberg,1464823,True,,2,1
 4863624,2025,Frauen-Bundesliga,goal,65,Vanessa Fudalla,1095799,False,,0,1
+4544074,2024,3. Liga,goal,71,Patrick Schmidt,519246,False,Calogero Rizzuto,0,1
+4544082,2024,3. Liga,goal,86,Michael Eberwein,673043,True,Julian Hettwer,1,0
+4544082,2024,3. Liga,goal,90,Michael Eberwein,673043,True,Julian Hettwer,2,0
+4544082,2024,3. Liga,goal,90,Abdoulaye Kamara,1173789,True,Ayman Azhil,3,0
+4544084,2024,3. Liga,goal,9,Marvin Stefaniak,458615,True,,1,0
+4544084,2024,3. Liga,goal,22,Marcel Bär,614959,True,Kilian Jakob,2,1
+4544084,2024,3. Liga,goal,15,Tom Sanne,1400759,False,Kolja Oudenne,1,1
+4544086,2024,3. Liga,goal,36,Leonardo Vonic,1313374,True,,1,1
+4544086,2024,3. Liga,goal,28,Anton Heinz,939163,False,Soufian El-Faouzi,0,1
+4544086,2024,3. Liga,goal,74,Anton Heinz,939163,False,Kevin Goden,1,2
+4544078,2024,3. Liga,goal,90,Emmanuel Iwe,1348298,True,,1,0
+4544081,2024,3. Liga,goal,29,Marcel Benger,865970,True,Berkan Taz,1,1
+4544081,2024,3. Liga,goal,53,Berkan Taz,872402,True,,2,1
+4544081,2024,3. Liga,goal,9,Moritz Flotho,1294751,False,,0,1
+4544081,2024,3. Liga,goal,87,Lars Lokotsch,865973,False,,2,2
+4544083,2024,3. Liga,goal,36,Adrien Lebeau,1073145,True,,1,0
+4544083,2024,3. Liga,goal,70,Benjamin Boakye,1644174,False,Jarzinho Malanga,1,1
+4544085,2024,3. Liga,goal,82,Serhat-Semih Güler,1087772,True,Niklas May,1,2
+4544085,2024,3. Liga,goal,47,Christoph Daferner,773519,False,,0,1
+4544085,2024,3. Liga,goal,78,Stefan Kutschke,469705,False,Tony Menzel,0,2
+4544079,2024,3. Liga,goal,42,Philipp Halbauer,1306031,True,Tolcay Cigerci,1,0
+4544079,2024,3. Liga,goal,68,Louis Oppie,1463266,False,Christopher Lannert,1,1
+4544079,2024,3. Liga,goal,90,Maximilian Grosser,1140917,False,Louis Oppie,1,2
+4544080,2024,3. Liga,goal,8,Felix Keidel,1366338,True,Moritz Seiffert,1,0
+4544080,2024,3. Liga,goal,70,Sebastian Grønning,759096,True,Maximilian Dittgen,2,0
+4544080,2024,3. Liga,goal,72,Felix Lohkemper,416121,False,,2,1
+4544072,2024,3. Liga,goal,27,Stefan Kutschke,469705,True,,1,2
+4544072,2024,3. Liga,goal,31,Tony Menzel,1524023,True,Jakob Lemmer,2,2
+4544072,2024,3. Liga,goal,78,Robin Meißner,964599,True,,3,2
+4544072,2024,3. Liga,goal,90,Philip Heise,276700,True,,4,2
+4544072,2024,3. Liga,goal,8,Philipp Halbauer,1306031,False,,0,1
+4544072,2024,3. Liga,goal,12,Tolcay Cigerci,555654,False,,0,2
+4544068,2024,3. Liga,goal,52,Lukas Scepanik,833523,True,Anton Heinz,1,1
+4544068,2024,3. Liga,goal,45,Michel Stöcker,1082286,False,,0,1
+4544069,2024,3. Liga,goal,57,Mika Clausen,1474178,False,Marcel Bär,0,1
+4544069,2024,3. Liga,goal,87,Boris Tashchy,273185,False,Pascal Fallmann,0,2
+4544077,2024,3. Liga,goal,38,Tim Knipping,335422,True,Simon Skarlatidis,1,0
+4544077,2024,3. Liga,goal,65,Manuel Stiefler,208218,True,Julian Kügel,2,1
+4544077,2024,3. Liga,goal,45,Pascal Testroet,141119,False,Max Plath,1,1
+4544070,2024,3. Liga,goal,41,Nicklas Shipnoski,764470,True,Kennedy Okpala,1,0
+4544070,2024,3. Liga,goal,53,Lex-Tyger Lobinger,979511,False,Enrique Lofolomo,1,1
+4544070,2024,3. Liga,goal,67,Said El Mala,1613676,False,,1,2
+4544073,2024,3. Liga,goal,31,Moritz Flotho,1294751,True,Nick Bätzner,1,0
+4544071,2024,3. Liga,goal,88,Kaito Mizuta,1072117,True,Christopher Lannert,1,0
+4544061,2024,3. Liga,goal,38,Husseyn Chakroun,1561242,True,Kolja Oudenne,1,1
+4544061,2024,3. Liga,goal,27,Lucas Brumme,959283,False,Jimmy Kaparos,0,1
+4544061,2024,3. Liga,goal,47,Lucas Brumme,959283,False,,1,2
+4544061,2024,3. Liga,goal,53,Leonardo Vonic,1313374,False,Ahmet Metin Arslan,1,3
+4544075,2024,3. Liga,goal,37,Jarzinho Malanga,1487914,True,Moussa Cisse,1,0
+4544075,2024,3. Liga,goal,53,Thomas Kastanaras,1251305,True,,2,0
+4544075,2024,3. Liga,goal,57,Dominik Nothnagel,458813,True,,3,0
+4544075,2024,3. Liga,goal,83,Fabian Schubert,655691,False,Julian Guttau,3,1
+4544076,2024,3. Liga,goal,64,Dominic Baumann,560386,False,Jeremias Lorch,0,1
+4544067,2024,3. Liga,goal,6,Mirnes Pepic,458647,True,Marvin Stefaniak,1,0
+4544067,2024,3. Liga,goal,9,Marvin Stefaniak,458615,True,Mika Clausen,2,0
+4544064,2024,3. Liga,goal,17,Kjell Wätjen,1482728,True,,1,0
+4544064,2024,3. Liga,goal,90,Julian Hettwer,1206523,False,Michael Eberwein,1,1
+4544065,2024,3. Liga,goal,10,Ba-Muaka Simakala,821390,True,Lion Semic,1,0
+4544065,2024,3. Liga,goal,56,Erik Engelhardt,862686,True,Ba-Muaka Simakala,2,2
+4544065,2024,3. Liga,goal,90,Dave Gnaase,658439,True,,3,2
+4544065,2024,3. Liga,goal,90,Joel Zwarts,999083,True,Erik Engelhardt,4,2
+4544065,2024,3. Liga,goal,13,Luc Ihorst,1080985,False,Maximilian Hennig,1,1
+4544065,2024,3. Liga,goal,47,Luc Ihorst,1080985,False,Julian Kügel,1,2
+4544088,2024,3. Liga,goal,26,Kai Brünker,748861,True,Simon Stehle,1,2
+4544088,2024,3. Liga,goal,45,Tim Civeja,1214053,True,Amine Naifi,2,2
+4544088,2024,3. Liga,goal,11,Sebastian Grønning,759096,False,Ryan Malone,0,1
+4544088,2024,3. Liga,goal,20,Marcel Costly,556540,False,Sebastian Grønning,0,2
+4544088,2024,3. Liga,goal,84,Lukas Fröde,620578,False,Felix Keidel,2,3
+4544090,2024,3. Liga,goal,21,Lukas Wallner,1235968,False,Robin Kalem,0,1
+4544089,2024,3. Liga,goal,19,Henry Rorig,1106859,True,Yannick Möker,1,0
+4544089,2024,3. Liga,goal,90,Axel Borgmann,488297,True,,2,1
+4544089,2024,3. Liga,goal,52,Anton Heinz,939163,False,,1,1
+4544062,2024,3. Liga,goal,68,Raphael Ott,1663127,True,Florian Bahr,1,2
+4544062,2024,3. Liga,goal,26,Bryan Henning,618923,False,Niklas May,0,1
+4544062,2024,3. Liga,goal,49,Said El Mala,1613676,False,Sidny Lopes Cabral,0,2
+4544062,2024,3. Liga,goal,81,Serhat-Semih Güler,1087772,False,,1,3
+4544087,2024,3. Liga,goal,80,Chilohem Onuoha,1659369,True,Patrick Kammerbauer,1,1
+4544087,2024,3. Liga,goal,15,Felix Lohkemper,416121,False,Kennedy Okpala,0,1
+4544066,2024,3. Liga,goal,18,Florian Carstens,884542,True,,1,0
+4544066,2024,3. Liga,goal,23,Thomas Kastanaras,1251305,True,Jarzinho Malanga,2,0
+4544066,2024,3. Liga,goal,41,Ivan Franjic,874002,False,,2,1
+4544066,2024,3. Liga,goal,59,Maximilian Herwerth,1663160,False,,2,2
+4544128,2024,3. Liga,goal,6,Lex-Tyger Lobinger,979511,True,Sidny Lopes Cabral,1,0
+4544128,2024,3. Liga,goal,65,Lex-Tyger Lobinger,979511,True,,2,0
+4544128,2024,3. Liga,goal,68,Serhat-Semih Güler,1087772,True,,3,0
+4544091,2024,3. Liga,goal,1,Soufian El-Faouzi,1249185,True,,1,0
+4544091,2024,3. Liga,goal,58,Marcel Bär,614959,False,,1,1
+4544091,2024,3. Liga,goal,84,Marcel Bär,614959,False,Boris Tashchy,1,2
+4544097,2024,3. Liga,goal,90,Isaiah Young,862292,True,,1,1
+4544097,2024,3. Liga,goal,76,Jeremias Lorch,613158,False,Dominic Baumann,0,1
+4544094,2024,3. Liga,goal,15,Christoph Daferner,773519,True,Vinko Sapina,1,0
+4544094,2024,3. Liga,goal,72,Tony Menzel,1524023,True,Vinko Sapina,2,0
+4544098,2024,3. Liga,goal,86,Pascal Testroet,141119,True,,1,2
+4544098,2024,3. Liga,goal,5,Maximilian Wolfram,664908,False,David Philipp,0,1
+4544098,2024,3. Liga,goal,64,Julian Guttau,931614,False,Maximilian Wolfram,0,2
+4544092,2024,3. Liga,goal,41,Sebastian Vasiliadis,672677,False,,0,1
+4544095,2024,3. Liga,goal,5,Julian Hettwer,1206523,True,Franz Roggow,1,0
+4544095,2024,3. Liga,goal,47,Ba-Muaka Simakala,821390,False,,1,1
+4544093,2024,3. Liga,goal,42,Thijmen Goppel,890398,True,Sascha Mockenhaupt,1,0
+4544093,2024,3. Liga,goal,77,Fatih Kaya,938537,True,Florian Carstens,2,1
+4544093,2024,3. Liga,goal,64,Tolcay Cigerci,555654,False,,1,1
+4544096,2024,3. Liga,goal,47,Nils Ortel,1520561,True,Luc Ihorst,1,0
+4544096,2024,3. Liga,goal,81,Julian Kügel,879641,True,Sebastian Maier,2,0
+4544119,2024,3. Liga,goal,82,Sean Busch,1524007,True,Noah Engelbreth,1,2
+4544119,2024,3. Liga,goal,30,Timur Gayret,978381,False,Chilohem Onuoha,0,1
+4544119,2024,3. Liga,goal,34,Jonas Arweiler,795376,False,Berkan Taz,0,2
+4544126,2024,3. Liga,goal,2,Jakob Lewald,1045830,True,Sebastian Stolze,1,0
+4544126,2024,3. Liga,goal,58,Dominic Baumann,560386,True,Emmanuel Iwe,2,0
+4544126,2024,3. Liga,goal,84,Dominic Baumann,560386,True,David Otto,3,0
+4544126,2024,3. Liga,goal,90,Franz Roggow,1275289,False,,3,1
+4544124,2024,3. Liga,goal,40,Tunay Deniz,622415,True,Fabian Schubert,1,1
+4544124,2024,3. Liga,goal,71,Julian Guttau,931614,True,,2,3
+4544124,2024,3. Liga,goal,30,Tony Menzel,1524023,False,,0,1
+4544124,2024,3. Liga,goal,68,Tony Menzel,1524023,False,Niklas Hauptmann,1,3
+4544124,2024,3. Liga,goal,51,Robin Meißner,964599,False,,1,2
+4544120,2024,3. Liga,goal,86,Damian Rossbach,556515,True,Marco Schuster,1,1
+4544120,2024,3. Liga,goal,64,Terrence Boyd,293560,False,Nicklas Shipnoski,0,1
+4544123,2024,3. Liga,goal,19,Fatih Kaya,938537,False,Nick Bätzner,0,1
+4544123,2024,3. Liga,goal,47,Fatih Kaya,938537,False,Ivan Franjic,0,2
+4544123,2024,3. Liga,goal,79,Tarik Gözüsirin,1188856,False,Ryan Johansson,0,3
+4544127,2024,3. Liga,goal,38,Sven Sonnenberg,978197,True,Simon Stehle,1,1
+4544127,2024,3. Liga,goal,29,Julian Kügel,879641,False,Luc Ihorst,0,1
+4544121,2024,3. Liga,goal,10,Leonhard Münst,1250794,True,,1,0
+4544121,2024,3. Liga,goal,19,Frederik Schumann,1663144,True,Benjamin Boakye,2,0
+4544121,2024,3. Liga,goal,43,Wahid Faghir,1136392,True,,3,1
+4544121,2024,3. Liga,goal,29,Simon Lorenz,776085,False,Ryan Malone,2,1
+4544121,2024,3. Liga,goal,62,Ryan Malone,659081,False,,3,2
+4544129,2024,3. Liga,goal,2,Timo Beermann,276762,True,Niklas Niehoff,1,0
+4544129,2024,3. Liga,goal,52,Kolja Oudenne,1436271,False,,1,1
+4544118,2024,3. Liga,goal,27,Marvin Stefaniak,458615,True,,1,0
+4544118,2024,3. Liga,goal,55,Stefano Russo,1052360,False,,1,1
+4544118,2024,3. Liga,goal,61,Mael Corboz,754621,False,,1,2
+4544118,2024,3. Liga,goal,78,Marius Wörl,1385154,False,Mika Schroers,1,3
+4544125,2024,3. Liga,goal,19,Maximilian Krauss,753799,False,Yannick Möker,0,1
+4544125,2024,3. Liga,goal,72,Maximilian Krauss,753799,False,Timmy Thiele,0,3
+4544125,2024,3. Liga,goal,55,Tolcay Cigerci,555654,False,Philipp Halbauer,0,2
+4544122,2024,3. Liga,goal,45,Sasa Strujic,424625,True,Soufian El-Faouzi,1,0
+4544135,2024,3. Liga,goal,61,Sebastian Maier,275317,True,Lenn Jastremski,1,1
+4544135,2024,3. Liga,goal,64,Lenn Jastremski,1189795,True,Markus Schwabl,2,1
+4544135,2024,3. Liga,goal,42,Marcel Bär,614959,False,Mika Clausen,0,1
+4544135,2024,3. Liga,goal,90,Steffen Nkansah,837862,False,,2,2
+4544101,2024,3. Liga,goal,9,Christoph Daferner,773519,True,,1,0
+4544101,2024,3. Liga,goal,74,Ryan Don Naderi,1404384,False,Nico Neidhart,1,1
+4544132,2024,3. Liga,goal,29,Tolcay Cigerci,555654,True,Philipp Halbauer,1,0
+4544132,2024,3. Liga,goal,45,Tolcay Cigerci,555654,True,,2,0
+4544132,2024,3. Liga,goal,51,Maximilian Pronichev,560855,True,Timmy Thiele,3,0
+4544132,2024,3. Liga,goal,75,Maximilian Pronichev,560855,True,,4,0
+4544131,2024,3. Liga,goal,39,Simon Lorenz,776085,True,Ryan Malone,1,1
+4544131,2024,3. Liga,goal,78,Max Besuschkow,659093,True,Marcel Costly,2,2
+4544131,2024,3. Liga,goal,15,Torben Müsel,864436,False,,0,1
+4544131,2024,3. Liga,goal,60,Ahmet Metin Arslan,566241,False,,1,2
+4544130,2024,3. Liga,goal,22,Felix Lohkemper,416121,True,Sascha Voelcke,1,0
+4544130,2024,3. Liga,goal,76,Maximilian Thalhammer,773933,True,Samuel Abifade,2,2
+4544130,2024,3. Liga,goal,90,Terrence Boyd,293560,True,,3,2
+4544130,2024,3. Liga,goal,25,Joel Zwarts,999083,False,Niklas Niehoff,1,1
+4544130,2024,3. Liga,goal,55,Lars Kehl,1281097,False,Erik Engelhardt,1,2
+4544133,2024,3. Liga,goal,27,Fatih Kaya,938537,True,Tarik Gözüsirin,1,0
+4544133,2024,3. Liga,goal,79,David Otto,906921,False,Besar Halimi,1,1
+4544133,2024,3. Liga,goal,82,Richard Meier,1520504,False,Christoph Ehlich,1,2
+4544133,2024,3. Liga,goal,90,Richard Meier,1520504,False,David Otto,1,3
+4544136,2024,3. Liga,goal,88,Thore Jacobsen,658797,False,,0,1
+4544100,2024,3. Liga,goal,90,Tom Sanne,1400759,True,,1,3
+4544100,2024,3. Liga,goal,4,Kai Brünker,748861,False,Simon Stehle,0,1
+4544100,2024,3. Liga,goal,37,Kai Brünker,748861,False,Simon Stehle,0,2
+4544100,2024,3. Liga,goal,67,Richard Neudecker,560959,False,Till Schumacher,0,3
+4544109,2024,3. Liga,goal,90,Serhat-Semih Güler,1087772,True,Lex-Tyger Lobinger,1,1
+4544109,2024,3. Liga,goal,90,Serhat-Semih Güler,1087772,True,Simon Handle,2,1
+4544109,2024,3. Liga,goal,22,Tom Baack,658444,False,Jonas Arweiler,0,1
+4544134,2024,3. Liga,goal,57,Charalampos Drakas,1404461,True,Ayman Azhil,1,0
+4544134,2024,3. Liga,goal,79,Julian Hettwer,1206523,True,,2,0
+4544134,2024,3. Liga,goal,83,Cole Campbell,1288195,True,Julian Hettwer,3,0
+4544106,2024,3. Liga,goal,11,Marvin Stefaniak,458615,True,Pascal Fallmann,1,0
+4544106,2024,3. Liga,goal,33,Mika Clausen,1474178,True,Marcel Bär,2,0
+4544106,2024,3. Liga,goal,89,Moritz Flotho,1294751,False,Ivan Franjic,2,1
+4544102,2024,3. Liga,goal,28,Felix Ruschke,1382738,True,Adrien Lebeau,1,0
+4544102,2024,3. Liga,goal,34,Marco Schuster,554531,True,Damian Rossbach,2,0
+4544102,2024,3. Liga,goal,66,Sigurd Haugen,631761,True,Nico Neidhart,3,1
+4544102,2024,3. Liga,goal,90,Nils Fröling,854069,True,Cedric Harenbrock,4,1
+4544102,2024,3. Liga,goal,44,Lenn Jastremski,1189795,False,Tim Knipping,2,1
+4544111,2024,3. Liga,goal,23,Ba-Muaka Simakala,821390,True,Dave Gnaase,1,1
+4544111,2024,3. Liga,goal,67,Erik Engelhardt,862686,True,,2,2
+4544111,2024,3. Liga,goal,17,Timmy Thiele,208235,False,Tobias Hasse,0,1
+4544111,2024,3. Liga,goal,81,Timmy Thiele,208235,False,Dominik Pelivan,2,4
+4544111,2024,3. Liga,goal,30,Lucas Copado,1276194,False,Maximilian Krauss,1,2
+4544111,2024,3. Liga,goal,71,Maximilian Pronichev,560855,False,Yannick Möker,2,3
+4544111,2024,3. Liga,goal,90,Philipp Halbauer,1306031,False,,2,5
+4544099,2024,3. Liga,goal,16,Besar Halimi,466681,True,Sebastian Stolze,1,0
+4544099,2024,3. Liga,goal,60,Dominic Baumann,560386,True,Richard Meier,2,2
+4544099,2024,3. Liga,goal,65,Jeremias Lorch,613158,True,Richard Meier,3,2
+4544099,2024,3. Liga,goal,78,David Otto,906921,True,Timo Königsmann,4,2
+4544099,2024,3. Liga,goal,19,Dennis Borkowski,1163203,False,Ryan Malone,1,1
+4544099,2024,3. Liga,goal,53,Lukas Fröde,620578,False,Max Besuschkow,1,2
+4544099,2024,3. Liga,goal,90,Benjamin Kanuric,1185207,False,Sebastian Grønning,4,3
+4544105,2024,3. Liga,goal,13,Wahid Faghir,1136392,True,,1,0
+4544105,2024,3. Liga,goal,31,Benjamin Boakye,1644174,True,Luca Raimund,2,0
+4544105,2024,3. Liga,goal,68,Jarzinho Malanga,1487914,True,Thomas Kastanaras,3,0
+4544103,2024,3. Liga,goal,41,Patrick Hobsch,636477,True,Tunay Deniz,1,0
+4544108,2024,3. Liga,goal,19,Torben Müsel,864436,True,Ahmet Metin Arslan,1,0
+4544108,2024,3. Liga,goal,33,Torben Müsel,864436,True,Lucas Brumme,3,0
+4544108,2024,3. Liga,goal,25,Ramien Safi,1388062,True,,2,0
+4544108,2024,3. Liga,goal,65,Julian Hettwer,1206523,False,,3,1
+4544110,2024,3. Liga,goal,76,Kasim Rabihic,631149,True,Tim Civeja,1,0
+4544104,2024,3. Liga,goal,13,Robin Meißner,964599,False,Oliver Batista Meier,0,1
+4544104,2024,3. Liga,goal,45,Christoph Daferner,773519,False,Robin Meißner,0,2
+4544104,2024,3. Liga,goal,62,Christoph Daferner,773519,False,,0,3
+4544116,2024,3. Liga,goal,34,Ayman Azhil,1069841,True,Rodney Elongo-Yombo,1,0
+4544116,2024,3. Liga,goal,55,Maximilian Wolfram,664908,False,Julian Guttau,1,1
+4544116,2024,3. Liga,goal,61,Tunay Deniz,622415,False,Maximilian Wolfram,1,2
+4544158,2024,3. Liga,goal,8,Eric Uhlmann,1382721,True,Robin Kalem,1,0
+4544158,2024,3. Liga,goal,58,Husseyn Chakroun,1561242,True,Robin Kalem,2,0
+4544158,2024,3. Liga,goal,90,Jayson Videira,1492152,True,Tom Sanne,3,1
+4544158,2024,3. Liga,goal,70,Wahid Faghir,1136392,False,,2,1
+4544113,2024,3. Liga,goal,42,Enrique Lofolomo,1334818,True,,1,0
+4544113,2024,3. Liga,goal,90,Malek El Mala,1640790,True,Niklas May,2,0
+4544112,2024,3. Liga,goal,69,Terrence Boyd,293560,True,,1,0
+4544115,2024,3. Liga,goal,82,Thijmen Goppel,890398,True,Sascha Mockenhaupt,1,1
+4544115,2024,3. Liga,goal,85,Moritz Flotho,1294751,True,Tarik Gözüsirin,2,1
+4544115,2024,3. Liga,goal,34,Ba-Muaka Simakala,821390,False,Erik Engelhardt,0,1
+4544114,2024,3. Liga,goal,17,Timmy Thiele,208235,True,,1,0
+4544114,2024,3. Liga,goal,44,Timmy Thiele,208235,True,,2,0
+4544114,2024,3. Liga,goal,80,Timmy Thiele,208235,True,Tolcay Cigerci,3,1
+4544114,2024,3. Liga,goal,87,Timmy Thiele,208235,True,Henry Rorig,4,1
+4544114,2024,3. Liga,goal,45,Tim Civeja,1214053,False,Richard Neudecker,2,1
+4544157,2024,3. Liga,goal,33,Pascal Testroet,141119,True,,1,0
+4544157,2024,3. Liga,goal,70,Sebastian Grønning,759096,True,Ryan Malone,2,1
+4544157,2024,3. Liga,goal,60,Felix Ruschke,1382738,False,,1,1
+4544166,2024,3. Liga,goal,45,Julian Kania,1515970,True,Isaiah Young,1,1
+4544166,2024,3. Liga,goal,90,Joel Felix,733965,True,Stefano Russo,2,1
+4544166,2024,3. Liga,goal,7,Jonas Arweiler,795376,False,Tom Baack,0,1
+4544163,2024,3. Liga,goal,46,Jordi Paulina,1606589,True,,1,0
+4544163,2024,3. Liga,goal,77,Antonio Foti,1328615,True,Baran Mogultay,2,1
+4544163,2024,3. Liga,goal,66,Christoph Daferner,773519,False,Tony Menzel,1,1
+4544165,2024,3. Liga,goal,45,Julian Guttau,931614,True,Patrick Hobsch,1,2
+4544165,2024,3. Liga,goal,72,Patrick Hobsch,636477,True,,2,3
+4544165,2024,3. Liga,goal,37,Moritz Flotho,1294751,False,Orestis Kiomourtzoglou,0,1
+4544165,2024,3. Liga,goal,42,Nick Bätzner,1140919,False,Thijmen Goppel,0,2
+4544165,2024,3. Liga,goal,54,Florian Carstens,884542,False,Orestis Kiomourtzoglou,1,3
+4544160,2024,3. Liga,goal,12,Kilian Jakob,767802,True,Pascal Fallmann,1,0
+4544160,2024,3. Liga,goal,32,Sigurd Haugen,631761,False,Nico Neidhart,1,1
+4544160,2024,3. Liga,goal,90,Ahmet Gürleyen,962306,False,Adrien Lebeau,1,2
+4544168,2024,3. Liga,goal,84,Ahmet Metin Arslan,566241,True,,1,1
+4544168,2024,3. Liga,goal,90,Ahmet Metin Arslan,566241,True,,2,1
+4544168,2024,3. Liga,goal,73,Simon Handle,289486,False,Christoph Greger,0,1
+4544156,2024,3. Liga,goal,24,Christoph Ehlich,965835,True,Stanislav Fehler,1,0
+4544156,2024,3. Liga,goal,61,Dominic Baumann,560386,True,Stanislav Fehler,2,1
+4544156,2024,3. Liga,goal,28,Julian Rieckmann,1002665,False,,1,1
+4544169,2024,3. Liga,goal,62,Berkan Taz,872402,True,Chilohem Onuoha,1,0
+4544169,2024,3. Liga,goal,90,Eduard Probst,1385815,True,Gabriel Kyeremateng,2,0
+4544164,2024,3. Liga,goal,3,Bentley Bahn,560943,True,,1,0
+4544164,2024,3. Liga,goal,76,Lukas Fröde,620578,False,,1,1
+4544162,2024,3. Liga,goal,13,Maxwell Gyamfi,1073476,True,Bashkim Ajdini,1,0
+4544139,2024,3. Liga,goal,32,Terrence Boyd,293560,True,Martin Kobylanski,1,0
+4544139,2024,3. Liga,goal,77,Kelvin Arase,794855,True,Sascha Voelcke,2,0
+4544139,2024,3. Liga,goal,90,Kennedy Okpala,1455252,True,Maximilian Thalhammer,3,0
+4544141,2024,3. Liga,goal,39,Maximilian Krauss,753799,True,Timmy Thiele,1,0
+4544141,2024,3. Liga,goal,71,Emmanuel Iwe,1348298,False,Christoph Ehlich,1,1
+4544170,2024,3. Liga,goal,43,Sigurd Haugen,631761,True,Marco Schuster,1,1
+4544170,2024,3. Liga,goal,16,Sasa Strujic,424625,False,Bentley Bahn,0,1
+4544170,2024,3. Liga,goal,89,Sasa Strujic,424625,False,Jan-Luca Rumpf,1,2
+4544171,2024,3. Liga,goal,64,Sebastian Grønning,759096,True,Yannick Deichmann,1,1
+4544171,2024,3. Liga,goal,11,Marcel Benger,865970,False,Michel Stöcker,0,1
+4544172,2024,3. Liga,goal,25,Lex-Tyger Lobinger,979511,True,,1,2
+4544172,2024,3. Liga,goal,44,Lex-Tyger Lobinger,979511,True,Said El Mala,3,2
+4544172,2024,3. Liga,goal,42,Albion Vrenezi,668430,True,,2,2
+4544172,2024,3. Liga,goal,3,Franz Roggow,1275289,False,David Lelle,0,1
+4544172,2024,3. Liga,goal,17,Antonio Foti,1328615,False,Julian Hettwer,0,2
+4544172,2024,3. Liga,goal,55,Ayman Azhil,1069841,False,,3,3
+4544172,2024,3. Liga,goal,82,Michael Eberwein,673043,False,Charalampos Drakas,3,4
+4544172,2024,3. Liga,goal,90,Charalampos Drakas,1404461,False,Rodney Elongo-Yombo,3,5
+4544173,2024,3. Liga,goal,17,Fatih Kaya,938537,True,Moritz Flotho,1,1
+4544173,2024,3. Liga,goal,2,Robin Kalem,1204798,False,Hayate Matsuda,0,1
+4544173,2024,3. Liga,goal,29,Robin Kalem,1204798,False,Hayate Matsuda,1,2
+4544173,2024,3. Liga,goal,31,Husseyn Chakroun,1561242,False,Stefano Marino,1,3
+4544173,2024,3. Liga,goal,43,Nick Stepantsev,1412927,False,,1,4
+4544173,2024,3. Liga,goal,66,Stefano Marino,1321553,False,Robin Kalem,1,5
+4544140,2024,3. Liga,goal,2,Christopher Olivier,1663161,True,,1,0
+4544140,2024,3. Liga,goal,19,Benjamin Boakye,1644174,True,Jarzinho Malanga,2,0
+4544140,2024,3. Liga,goal,31,Sebastian Vasiliadis,672677,False,,2,1
+4544140,2024,3. Liga,goal,50,Lasse Wilhelm,1426063,False,,2,2
+4544140,2024,3. Liga,goal,57,Richard Neudecker,560959,False,,2,3
+4544174,2024,3. Liga,goal,47,Niklas Hauptmann,659047,True,,1,1
+4544174,2024,3. Liga,goal,78,Jonas Sterner,1140913,True,,2,2
+4544174,2024,3. Liga,goal,90,Stefan Kutschke,469705,True,Jonas Sterner,3,3
+4544174,2024,3. Liga,goal,37,Manuel Wintzheimer,767794,False,Ramien Safi,0,1
+4544174,2024,3. Liga,goal,48,Julian Eitschberger,1355216,False,Ramien Safi,1,2
+4544174,2024,3. Liga,goal,80,Kelsey Meisel,1624084,False,Tobias Kraulich,2,3
+4544138,2024,3. Liga,goal,52,Noah-Joel Sarenren-Bazee,692973,True,Isaiah Young,1,0
+4544138,2024,3. Liga,goal,81,Louis Oppie,1463266,True,,2,1
+4544138,2024,3. Liga,goal,85,Mika Schroers,1174731,True,Lukas Kunze,3,1
+4544138,2024,3. Liga,goal,78,Ba-Muaka Simakala,821390,False,Joel Zwarts,1,1
+4544147,2024,3. Liga,goal,49,Simon Skarlatidis,560579,True,,1,1
+4544147,2024,3. Liga,goal,59,Jesper Verlaat,658799,True,,2,2
+4544147,2024,3. Liga,goal,33,Patrick Hobsch,636477,False,Soichiro Kozuki,0,1
+4544147,2024,3. Liga,goal,54,Soichiro Kozuki,941494,False,Maximilian Wolfram,1,2
+4544150,2024,3. Liga,goal,83,Sascha Voelcke,1321148,False,Kelvin Arase,0,1
+4544149,2024,3. Liga,goal,44,Erik Majetschak,846008,True,Marvin Stefaniak,1,1
+4544149,2024,3. Liga,goal,30,Timmy Thiele,208235,False,Maximilian Krauss,0,1
+4544149,2024,3. Liga,goal,90,Timmy Thiele,208235,False,Dominik Pelivan,1,3
+4544149,2024,3. Liga,goal,81,Tolcay Cigerci,555654,False,Timmy Thiele,1,2
+4544137,2024,3. Liga,goal,33,Joel Bichsel,1450813,True,Richard Neudecker,1,0
+4544137,2024,3. Liga,goal,80,Tim Civeja,1214053,True,Simon Stehle,2,0
+4544151,2024,3. Liga,goal,13,Emmanuel Iwe,1348298,True,,1,1
+4544151,2024,3. Liga,goal,7,Michael Glück,1385152,False,Samuele Di Benedetto,0,1
+4544148,2024,3. Liga,goal,20,Bryan Henning,618923,True,Jonah Sticker,1,1
+4544148,2024,3. Liga,goal,24,Said El Mala,1613676,True,,2,1
+4544148,2024,3. Liga,goal,51,Lex-Tyger Lobinger,979511,True,Florian Engelhardt,3,2
+4544148,2024,3. Liga,goal,71,Serhat-Semih Güler,1087772,True,Bryan Henning,4,3
+4544148,2024,3. Liga,goal,6,David Kopacz,860597,False,Pascal Testroet,0,1
+4544148,2024,3. Liga,goal,49,Sebastian Grønning,759096,False,Marcel Costly,2,2
+4544148,2024,3. Liga,goal,54,Sebastian Grønning,759096,False,David Kopacz,3,3
+4544148,2024,3. Liga,goal,87,Benjamin Kanuric,1185207,False,Lukas Fröde,4,4
+4544146,2024,3. Liga,goal,41,Patrick Hobsch,636477,True,Morris Schröter,1,0
+4544146,2024,3. Liga,goal,76,Maximilian Wolfram,664908,True,Thore Jacobsen,2,1
+4544146,2024,3. Liga,goal,43,Joel Zwarts,999083,False,Ba-Muaka Simakala,1,1
+4544146,2024,3. Liga,goal,79,Ba-Muaka Simakala,821390,False,,2,2
+4544144,2024,3. Liga,goal,29,Charlison Benschop,112119,True,,1,1
+4544144,2024,3. Liga,goal,71,Sasa Strujic,424625,True,Jan-Luca Rumpf,2,1
+4544144,2024,3. Liga,goal,84,Thilo Töpken,1085964,True,,3,1
+4544144,2024,3. Liga,goal,15,Lenn Jastremski,1189795,False,,0,1
+4544142,2024,3. Liga,goal,64,Nick Elias Meier,1663175,True,Husseyn Chakroun,1,2
+4544142,2024,3. Liga,goal,2,Julian Kania,1515970,False,Louis Oppie,0,1
+4544142,2024,3. Liga,goal,42,Julian Kania,1515970,False,,0,2
+4544142,2024,3. Liga,goal,82,Julian Kania,1515970,False,Mael Corboz,1,3
+4544142,2024,3. Liga,goal,88,Merveille Biankadi,622213,False,Marius Wörl,1,4
+4544145,2024,3. Liga,goal,71,Manuel Wintzheimer,767794,True,,1,2
+4544145,2024,3. Liga,goal,46,Chilohem Onuoha,1659369,False,,0,1
+4544145,2024,3. Liga,goal,57,Jonas Arweiler,795376,False,Chilohem Onuoha,0,2
+4544145,2024,3. Liga,goal,89,Timur Gayret,978381,False,Dominik Steczyk,1,3
+4544143,2024,3. Liga,goal,21,Fatih Kaya,938537,True,Nick Bätzner,1,0
+4544178,2024,3. Liga,goal,28,Deniz Zeitler,1580112,True,,1,2
+4544178,2024,3. Liga,goal,45,Yannick Deichmann,641188,True,Deniz Zeitler,2,2
+4544178,2024,3. Liga,goal,74,Yannick Deichmann,641188,True,Marcel Costly,3,2
+4544178,2024,3. Liga,goal,79,Max Besuschkow,659093,True,,4,2
+4544178,2024,3. Liga,goal,90,David Kopacz,860597,True,Dennis Borkowski,5,3
+4544178,2024,3. Liga,goal,19,Rodney Elongo-Yombo,1282946,False,Michael Eberwein,0,1
+4544178,2024,3. Liga,goal,25,Charalampos Drakas,1404461,False,,0,2
+4544178,2024,3. Liga,goal,85,Michael Eberwein,673043,False,Baran Mogultay,4,3
+4544152,2024,3. Liga,goal,3,Jan-Luca Rumpf,1074001,True,,1,0
+4544152,2024,3. Liga,goal,53,Lukas Scepanik,833523,False,Thilo Töpken,1,1
+4544180,2024,3. Liga,goal,79,Robin Meißner,964599,True,Philip Heise,1,1
+4544180,2024,3. Liga,goal,90,Oliver Batista Meier,950822,True,Philip Heise,2,1
+4544180,2024,3. Liga,goal,17,Lukas Wallner,1235968,False,Fynn Arkenberg,0,1
+4544175,2024,3. Liga,goal,37,Kevin Schumacher,786131,True,Nils Fröling,1,0
+4544175,2024,3. Liga,goal,77,Dario Gebuhr,1421823,True,Adrien Lebeau,2,0
+4544175,2024,3. Liga,goal,81,Tim Krohn,1557059,True,,3,0
+4544175,2024,3. Liga,goal,90,Ryan Don Naderi,1404384,True,Jan Mejdr,4,0
+4544155,2024,3. Liga,goal,57,Bastien Conus,1166004,True,Lars Kehl,1,1
+4544155,2024,3. Liga,goal,41,Sebastian Vasiliadis,672677,False,Kai Brünker,0,1
+4544176,2024,3. Liga,goal,11,Andy Breuer,1387974,True,Simon Skarlatidis,1,0
+4544176,2024,3. Liga,goal,66,Lex-Tyger Lobinger,979511,False,Bryan Henning,1,1
+4544177,2024,3. Liga,goal,9,Lars Lokotsch,865973,True,Yari Otto,1,0
+4544177,2024,3. Liga,goal,44,Besar Halimi,466681,False,,1,1
+4544179,2024,3. Liga,goal,3,Yannick Möker,1002667,True,Tobias Hasse,1,0
+4544179,2024,3. Liga,goal,21,Lucas Copado,1276194,True,Philipp Halbauer,2,0
+4544179,2024,3. Liga,goal,30,Lucas Copado,1276194,True,,3,1
+4544179,2024,3. Liga,goal,45,Tolcay Cigerci,555654,True,Timmy Thiele,4,1
+4544179,2024,3. Liga,goal,61,Timmy Thiele,208235,True,,5,1
+4544179,2024,3. Liga,goal,26,Morris Schröter,634854,False,,2,1
+4544154,2024,3. Liga,goal,15,Marcel Bär,614959,False,Marvin Stefaniak,0,1
+4544153,2024,3. Liga,goal,37,Nicklas Shipnoski,764470,True,Adrian Fein,1,1
+4544153,2024,3. Liga,goal,90,Terrence Boyd,293560,True,Rico Benatelli,2,2
+4544153,2024,3. Liga,goal,7,Fatih Kaya,938537,False,Nick Bätzner,0,1
+4544153,2024,3. Liga,goal,62,Moritz Flotho,1294751,False,Nick Bätzner,1,2
+4544188,2024,3. Liga,goal,13,Said El Mala,1613676,True,,1,0
+4544188,2024,3. Liga,goal,90,Serhat-Semih Güler,1087772,True,,2,0
+4544181,2024,3. Liga,goal,18,Marcel Bär,614959,True,Linus Rosenlöcher,1,0
+4544181,2024,3. Liga,goal,81,Kai Brünker,748861,False,Philip Fahrner,1,1
+4544201,2024,3. Liga,goal,10,Sigurd Haugen,631761,True,,1,0
+4544201,2024,3. Liga,goal,90,Ryan Don Naderi,1404384,True,Christian Kinsombi,2,0
+4544182,2024,3. Liga,goal,43,Max Besuschkow,659093,True,,1,0
+4544182,2024,3. Liga,goal,58,Jonas Oehmichen,1386683,False,,1,1
+4544186,2024,3. Liga,goal,10,Ramien Safi,1388062,True,Ahmet Metin Arslan,1,0
+4544186,2024,3. Liga,goal,72,Ramien Safi,1388062,True,,3,0
+4544186,2024,3. Liga,goal,24,Leonardo Vonic,1313374,True,Eric Voufack,2,0
+4544186,2024,3. Liga,goal,89,Thomas Eisfeld,304735,True,Joseph Boyamba,4,0
+4544187,2024,3. Liga,goal,10,Max Reinthaler,402169,False,Florian Bahr,0,1
+4544187,2024,3. Liga,goal,33,Soichiro Kozuki,941494,False,Tunay Deniz,0,2
+4544187,2024,3. Liga,goal,90,David Philipp,1052911,False,,0,3
+4544185,2024,3. Liga,goal,43,Marcel Seegert,623633,True,,1,1
+4544185,2024,3. Liga,goal,12,Terrence Boyd,293560,False,Maximilian Thalhammer,0,1
+4544184,2024,3. Liga,goal,28,Jordi Paulina,1606589,True,Rodney Elongo-Yombo,1,0
+4544184,2024,3. Liga,goal,45,Jordi Paulina,1606589,True,,3,0
+4544184,2024,3. Liga,goal,42,Julian Hettwer,1206523,True,Felix Paschke,2,0
+4544184,2024,3. Liga,goal,69,Marcel Lotka,1257828,False,,3,1
+4544202,2024,3. Liga,goal,80,Patrick Kammerbauer,775691,True,,1,0
+4544203,2024,3. Liga,goal,51,Julian Guttau,931614,True,,1,0
+4544203,2024,3. Liga,goal,66,Tunay Deniz,622415,True,Patrick Hobsch,2,0
+4544203,2024,3. Liga,goal,83,Maximilian Wolfram,664908,True,Tunay Deniz,3,0
+4544207,2024,3. Liga,goal,17,Timmy Thiele,208235,True,,1,1
+4544207,2024,3. Liga,goal,31,Tolcay Cigerci,555654,True,,2,1
+4544207,2024,3. Liga,goal,90,Jonas Hofmann,793609,True,Tolcay Cigerci,3,3
+4544207,2024,3. Liga,goal,15,Julian Hettwer,1206523,False,Antonio Foti,0,1
+4544207,2024,3. Liga,goal,80,Julian Hettwer,1206523,False,,2,3
+4544207,2024,3. Liga,goal,32,Henry Rorig,1106859,False,,2,2
+4544208,2024,3. Liga,goal,42,Christoph Daferner,773519,False,Jonas Sterner,0,1
+4544208,2024,3. Liga,goal,67,Christoph Daferner,773519,False,Lars Bünning,0,3
+4544208,2024,3. Liga,goal,45,Jakob Lemmer,1097375,False,Christoph Daferner,0,2
+4544204,2024,3. Liga,goal,42,Amine Naifi,1442533,True,Patrick Sontheimer,1,0
+4544204,2024,3. Liga,goal,48,Kai Brünker,748861,True,Amine Naifi,2,0
+4544204,2024,3. Liga,goal,88,Patrick Schmidt,519246,True,,3,1
+4544204,2024,3. Liga,goal,64,Fatih Kaya,938537,False,Nick Bätzner,2,1
+4544205,2024,3. Liga,goal,39,Lucas Wolf,1187387,True,Emmanuel Iwe,1,0
+4544205,2024,3. Liga,goal,62,David Otto,906921,True,Sebastian Stolze,2,0
+4544205,2024,3. Liga,goal,64,Stanislav Fehler,1344281,True,,3,0
+4544205,2024,3. Liga,goal,85,Dominic Baumann,560386,True,,4,0
+4544206,2024,3. Liga,goal,18,Isaiah Young,862292,True,Stefano Russo,1,0
+4544206,2024,3. Liga,goal,75,Julian Kania,1515970,True,,2,0
+4544209,2024,3. Liga,goal,14,Benjamin Kanuric,1185207,False,Lukas Fröde,0,1
+4544209,2024,3. Liga,goal,24,Simon Lorenz,776085,False,Felix Keidel,0,2
+4544209,2024,3. Liga,goal,39,Sebastian Grønning,759096,False,Lukas Fröde,0,3
+4544209,2024,3. Liga,goal,57,Deniz Zeitler,1580112,False,Lukas Fröde,0,4
+4544211,2024,3. Liga,goal,13,Pascal Fallmann,1185204,True,Marcel Bär,1,0
+4544211,2024,3. Liga,goal,44,Marvin Stefaniak,458615,True,Pascal Fallmann,2,0
+4544211,2024,3. Liga,goal,90,Ahmet Metin Arslan,566241,False,,2,1
+4544210,2024,3. Liga,goal,10,Dominik Nothnagel,458813,True,Samuele Di Benedetto,1,0
+4544210,2024,3. Liga,goal,58,Benjamin Boakye,1644174,True,David Tritschler,2,1
+4544210,2024,3. Liga,goal,80,Leonhard Münst,1250794,True,Jarzinho Malanga,3,2
+4544210,2024,3. Liga,goal,55,Simon Skarlatidis,560579,False,,1,1
+4544210,2024,3. Liga,goal,60,Simon Skarlatidis,560579,False,Tim Knipping,2,2
+4544199,2024,3. Liga,goal,44,Maximilian Pronichev,560855,False,,0,1
+4544193,2024,3. Liga,goal,11,Bentley Bahn,560943,True,,1,0
+4544193,2024,3. Liga,goal,87,Patrick Hobsch,636477,False,Maximilian Wolfram,1,1
+4544198,2024,3. Liga,goal,90,David Kubatta,1323005,True,Dmytro Bogdanov,1,1
+4544198,2024,3. Liga,goal,60,Kai Brünker,748861,False,Simon Stehle,0,1
+4544189,2024,3. Liga,goal,34,Marco Schuster,554531,True,,1,0
+4544189,2024,3. Liga,goal,49,Felix Ruschke,1382738,True,Nils Fröling,2,0
+4544189,2024,3. Liga,goal,86,Julian Kania,1515970,False,,2,1
+4544195,2024,3. Liga,goal,57,Leonardo Vonic,1313374,True,Julian Eitschberger,1,1
+4544195,2024,3. Liga,goal,1,Lucas Wolf,1187387,False,,0,1
+4544192,2024,3. Liga,goal,42,Tom Baack,658444,True,Berkan Taz,1,1
+4544192,2024,3. Liga,goal,74,Lars Lokotsch,865973,True,,2,2
+4544192,2024,3. Liga,goal,13,Leny Meyer,1383372,False,,0,1
+4544192,2024,3. Liga,goal,57,Wahid Faghir,1136392,False,,1,2
+4544196,2024,3. Liga,goal,16,Julian Kügel,879641,True,Markus Schwabl,1,0
+4544196,2024,3. Liga,goal,35,Fabian Greilinger,1072223,False,,1,1
+4544194,2024,3. Liga,goal,31,Julian Rieckmann,1002665,True,,1,0
+4544194,2024,3. Liga,goal,74,Rico Benatelli,331539,True,,2,1
+4544194,2024,3. Liga,goal,33,Tom Sanne,1400759,False,Brooklyn Ezeh,1,1
+4544200,2024,3. Liga,goal,20,Sebastian Grønning,759096,True,David Kopacz,1,0
+4544200,2024,3. Liga,goal,34,Sebastian Grønning,759096,True,Deniz Zeitler,2,0
+4544200,2024,3. Liga,goal,48,Sebastian Grønning,759096,True,Deniz Zeitler,3,0
+4544200,2024,3. Liga,goal,56,David Kopacz,860597,True,Marcel Costly,4,0
+4544200,2024,3. Liga,goal,74,Ba-Muaka Simakala,821390,False,Bashkim Ajdini,4,1
+4544200,2024,3. Liga,goal,74,Dave Gnaase,658439,False,Bashkim Ajdini,4,2
+4544197,2024,3. Liga,goal,11,Cole Campbell,1288195,True,Michael Eberwein,1,1
+4544197,2024,3. Liga,goal,27,Julian Hettwer,1206523,True,Antonio Foti,2,1
+4544197,2024,3. Liga,goal,73,Julian Hettwer,1206523,True,Michael Eberwein,3,1
+4544197,2024,3. Liga,goal,6,Kilian Jakob,767802,False,Anthony Barylla,0,1
+4544234,2024,3. Liga,goal,76,Louis Oppie,1463266,True,Stefano Russo,1,0
+4544238,2024,3. Liga,goal,6,Marlon Frey,667787,True,Tunay Deniz,1,0
+4544238,2024,3. Liga,goal,52,Alexander Rossipal,791614,False,Marco Schuster,1,1
+4544238,2024,3. Liga,goal,81,Sigurd Haugen,631761,False,,1,2
+4544232,2024,3. Liga,goal,25,Maximilian Krauss,753799,True,,1,0
+4544232,2024,3. Liga,goal,49,Tim Hoops,1523999,True,,2,0
+4544237,2024,3. Liga,goal,16,Omar Sijaric,1192056,True,Boris Tashchy,1,1
+4544237,2024,3. Liga,goal,42,Marcel Bär,614959,True,Boris Tashchy,2,2
+4544237,2024,3. Liga,goal,7,Yari Otto,747764,False,Niko Kijewski,0,1
+4544237,2024,3. Liga,goal,24,Dominik Steczyk,949666,False,Patrick Kammerbauer,1,2
+4544237,2024,3. Liga,goal,44,Timur Gayret,978381,False,Berkan Taz,2,3
+4544237,2024,3. Liga,goal,45,Fabio Gruber,1362417,False,,2,4
+4544237,2024,3. Liga,goal,90,Chilohem Onuoha,1659369,False,Patrick Kammerbauer,2,5
+4544236,2024,3. Liga,goal,17,Eric Uhlmann,1382721,True,,1,0
+4544236,2024,3. Liga,goal,80,Ben Westermeier,1347712,True,Kolja Oudenne,2,0
+4544235,2024,3. Liga,goal,24,Dominic Baumann,560386,True,,1,0
+4544235,2024,3. Liga,goal,41,David Otto,906921,True,Jeremias Lorch,2,1
+4544235,2024,3. Liga,goal,29,Christoph Daferner,773519,False,,1,1
+4544235,2024,3. Liga,goal,53,Christoph Daferner,773519,False,Niklas Hauptmann,2,2
+4544235,2024,3. Liga,goal,59,Vinko Sapina,634142,False,Sascha Risch,2,3
+4544235,2024,3. Liga,goal,61,Jonas Oehmichen,1386683,False,,2,4
+4544190,2024,3. Liga,goal,12,Thomas Kastanaras,1251305,True,,1,0
+4544190,2024,3. Liga,goal,34,Leonhard Münst,1250794,True,Samuele Di Benedetto,2,0
+4544240,2024,3. Liga,goal,20,Niklas Wiemann,1052358,True,,1,0
+4544240,2024,3. Liga,goal,30,Sasa Strujic,424625,False,,1,1
+4544191,2024,3. Liga,goal,41,Calogero Rizzuto,659055,True,,1,0
+4544233,2024,3. Liga,goal,43,Nick Bätzner,1140919,True,,1,0
+4544233,2024,3. Liga,goal,54,Moritz Flotho,1294751,True,Fatih Kaya,2,0
+4544233,2024,3. Liga,goal,77,Enrique Lofolomo,1334818,True,,3,0
+4544233,2024,3. Liga,goal,79,Serhat-Semih Güler,1087772,False,Lex-Tyger Lobinger,3,1
+4544248,2024,3. Liga,goal,23,Dominik Steczyk,949666,True,Berkan Taz,1,0
+4544248,2024,3. Liga,goal,37,Richard Neudecker,560959,False,Patrick Sontheimer,1,1
+4544243,2024,3. Liga,goal,16,Jordi Paulina,1606589,True,Cole Campbell,1,1
+4544243,2024,3. Liga,goal,90,Antonio Foti,1328615,True,Rodney Elongo-Yombo,2,2
+4544243,2024,3. Liga,goal,8,Orestis Kiomourtzoglou,657848,False,Bjarke Jacobsen,0,1
+4544243,2024,3. Liga,goal,72,Fatih Kaya,938537,False,Sascha Mockenhaupt,1,2
+4544241,2024,3. Liga,goal,41,Nils Fröling,854069,True,,1,0
+4544231,2024,3. Liga,goal,48,Max Besuschkow,659093,True,Benjamin Kanuric,1,0
+4544244,2024,3. Liga,goal,77,Julian Kügel,879641,True,Maximilian Hennig,1,2
+4544244,2024,3. Liga,goal,64,Robin Kalem,1204798,False,Melkamu Frauendorf,0,1
+4544244,2024,3. Liga,goal,66,Robin Kalem,1204798,False,,0,2
+4544246,2024,3. Liga,goal,11,Dominik Pelivan,700075,False,Lucas Copado,0,1
+4544245,2024,3. Liga,goal,57,Bentley Bahn,560943,True,,1,1
+4544245,2024,3. Liga,goal,80,Anas Bakhat,1129220,True,Florian Heister,2,1
+4544245,2024,3. Liga,goal,8,Eliot Bujupi,1676500,False,Leonhard Münst,0,1
+4544239,2024,3. Liga,goal,38,Thore Jacobsen,658797,False,,0,1
+4544239,2024,3. Liga,goal,49,Julian Guttau,931614,False,Thore Jacobsen,0,2
+4544239,2024,3. Liga,goal,82,Fabian Schubert,655691,False,David Philipp,0,3
+4544242,2024,3. Liga,goal,19,Jonas Oehmichen,1386683,True,,1,0
+4544242,2024,3. Liga,goal,41,Christoph Daferner,773519,True,Sascha Risch,2,0
+4544242,2024,3. Liga,goal,64,Robin Meißner,964599,True,,3,0
+4544247,2024,3. Liga,goal,24,Lex-Tyger Lobinger,979511,True,,1,0
+4544247,2024,3. Liga,goal,54,Dave Gnaase,658439,True,,2,0
+4544217,2024,3. Liga,goal,10,Niklas Hauptmann,659047,True,Jakob Lemmer,1,0
+4544217,2024,3. Liga,goal,65,Jakob Lemmer,1097375,True,Christoph Daferner,2,1
+4544217,2024,3. Liga,goal,51,Sascha Voelcke,1321148,False,,1,1
+4544218,2024,3. Liga,goal,34,Marius Wörl,1385154,True,Isaiah Young,1,1
+4544218,2024,3. Liga,goal,79,Mael Corboz,754621,True,Stefano Russo,2,2
+4544218,2024,3. Liga,goal,90,Merveille Biankadi,622213,True,Daniel Nsumbu,3,3
+4544218,2024,3. Liga,goal,32,Manuel Stiefler,208218,False,Simon Skarlatidis,0,1
+4544218,2024,3. Liga,goal,65,Julian Kügel,879641,False,,1,2
+4544218,2024,3. Liga,goal,84,Johannes Geis,237542,False,Lenn Jastremski,2,3
+4544215,2024,3. Liga,goal,90,Eric Uhlmann,1382721,True,Montell Ndikom,1,2
+4544215,2024,3. Liga,goal,67,Said El Mala,1613676,False,Niklas May,0,1
+4544215,2024,3. Liga,goal,71,Serhat-Semih Güler,1087772,False,,0,2
+4544219,2024,3. Liga,goal,10,Jakob Lewald,1045830,True,Sebastian Stolze,1,0
+4544219,2024,3. Liga,goal,57,Sebastian Stolze,357808,True,Lucas Wolf,2,3
+4544219,2024,3. Liga,goal,76,Dominic Baumann,560386,True,Jeremias Lorch,3,5
+4544219,2024,3. Liga,goal,90,Jeremias Lorch,613158,True,,4,6
+4544219,2024,3. Liga,goal,26,Omar Sijaric,1192056,False,Pascal Fallmann,1,1
+4544219,2024,3. Liga,goal,41,Omar Sijaric,1192056,False,,1,3
+4544219,2024,3. Liga,goal,58,Omar Sijaric,1192056,False,Marcel Bär,2,4
+4544219,2024,3. Liga,goal,31,Kilian Jakob,767802,False,Niko Vukancic,1,2
+4544219,2024,3. Liga,goal,70,Ali Loune,1293021,False,Pascal Fallmann,2,5
+4544219,2024,3. Liga,goal,77,Sean Seitz,1311927,False,Mirnes Pepic,3,6
+4544214,2024,3. Liga,goal,3,Jordi Paulina,1606589,False,,0,1
+4544214,2024,3. Liga,goal,38,Julian Hettwer,1206523,False,Franz Roggow,0,2
+4544214,2024,3. Liga,goal,50,Julian Hettwer,1206523,False,,0,3
+4544221,2024,3. Liga,goal,59,Fatih Kaya,938537,True,Tarik Gözüsirin,1,3
+4544221,2024,3. Liga,goal,79,Fatih Kaya,938537,True,Thijmen Goppel,2,5
+4544221,2024,3. Liga,goal,25,Benjamin Kanuric,1185207,False,,0,1
+4544221,2024,3. Liga,goal,33,Deniz Zeitler,1580112,False,Benjamin Kanuric,0,2
+4544221,2024,3. Liga,goal,57,Deniz Zeitler,1580112,False,Felix Keidel,0,3
+4544221,2024,3. Liga,goal,74,Sebastian Grønning,759096,False,Yannick Deichmann,1,4
+4544221,2024,3. Liga,goal,77,Sebastian Grønning,759096,False,,1,5
+4544213,2024,3. Liga,goal,43,Dominik Steczyk,949666,False,,0,1
+4544213,2024,3. Liga,goal,76,Lars Lokotsch,865973,False,Berkan Taz,0,2
+4544213,2024,3. Liga,goal,77,Julian Stark,1140914,False,Berkan Taz,0,3
+4544213,2024,3. Liga,goal,86,Leroy Kwadwo,1072433,False,,0,4
+4544216,2024,3. Liga,goal,45,Tim Campulka,846291,True,Philipp Halbauer,1,0
+4544216,2024,3. Liga,goal,65,Maximilian Krauss,753799,True,,2,0
+4544216,2024,3. Liga,goal,69,Lucas Copado,1276194,True,Tolcay Cigerci,3,0
+4544216,2024,3. Liga,goal,87,Ryan Don Naderi,1404384,False,Jan Mejdr,3,1
+4544220,2024,3. Liga,goal,16,Dave Gnaase,658439,True,Niklas Niehoff,1,0
+4544220,2024,3. Liga,goal,90,Bashkim Ajdini,537996,True,,2,0
+4544222,2024,3. Liga,goal,74,Richard Neudecker,560959,True,,1,1
+4544222,2024,3. Liga,goal,41,Soufian El-Faouzi,1249185,False,Florian Heister,0,1
+4544225,2024,3. Liga,goal,59,Sebastian Grønning,759096,True,David Kopacz,1,1
+4544225,2024,3. Liga,goal,23,Philipp Halbauer,1306031,False,Tolcay Cigerci,0,1
+4544223,2024,3. Liga,goal,7,Kilian Jakob,767802,True,Omar Sijaric,1,0
+4544223,2024,3. Liga,goal,88,Marcel Bär,614959,True,,2,1
+4544223,2024,3. Liga,goal,90,Marcel Bär,614959,True,Mirnes Pepic,3,1
+4544223,2024,3. Liga,goal,40,Maximilian Wolfram,664908,False,Morris Schröter,1,1
+4544229,2024,3. Liga,goal,19,Leonardo Vonic,1313374,True,,1,0
+4544229,2024,3. Liga,goal,78,Gianluca Swajkowski,1614437,True,Leonardo Vonic,2,1
+4544229,2024,3. Liga,goal,74,Eliot Bujupi,1676500,False,Thomas Kastanaras,1,1
+4544229,2024,3. Liga,goal,81,Luan Simnica,1530794,False,Dominik Nothnagel,2,2
+4544249,2024,3. Liga,goal,8,Aljaz Casar,1073303,False,Jonas Sterner,0,1
+4544249,2024,3. Liga,goal,68,David Kubatta,1323005,False,Jonas Sterner,0,2
+4544249,2024,3. Liga,goal,74,Stefan Kutschke,469705,False,,0,3
+4544230,2024,3. Liga,goal,59,Serhat-Semih Güler,1087772,True,Jonah Sticker,1,0
+4544230,2024,3. Liga,goal,90,Serhat-Semih Güler,1087772,True,Kwabe Schulz,2,0
+4544224,2024,3. Liga,goal,60,Kelvin Arase,794855,True,Nicklas Shipnoski,1,0
+4544224,2024,3. Liga,goal,79,Daniel Nsumbu,1688938,False,Louis Oppie,1,1
+4544250,2024,3. Liga,goal,15,Niklas Wiemann,1052358,True,,1,0
+4544250,2024,3. Liga,goal,60,Joel Zwarts,999083,False,,1,1
+4544226,2024,3. Liga,goal,90,Christian Kinsombi,956863,True,Nico Neidhart,1,0
+4544275,2024,3. Liga,goal,32,Stefano Marino,1321553,True,Mustafa Abdullatif,1,1
+4544275,2024,3. Liga,goal,70,Keanu Brandt,1626721,True,,2,1
+4544275,2024,3. Liga,goal,10,Marcel Bär,614959,False,Linus Rosenlöcher,0,1
+4544272,2024,3. Liga,goal,2,Lucas Copado,1276194,False,Axel Borgmann,0,1
+4544272,2024,3. Liga,goal,47,Maximilian Krauss,753799,False,Lucas Copado,0,2
+4544276,2024,3. Liga,goal,23,Lars Kehl,1281097,True,Niklas Niehoff,1,1
+4544276,2024,3. Liga,goal,45,Lars Kehl,1281097,True,Niklas Niehoff,2,1
+4544276,2024,3. Liga,goal,66,Robert Tesche,71017,True,,3,1
+4544276,2024,3. Liga,goal,8,Dominic Baumann,560386,False,Emmanuel Iwe,0,1
+4544276,2024,3. Liga,goal,90,Jeremias Lorch,613158,False,David Otto,3,2
+4544273,2024,3. Liga,goal,28,Sebastian Vasiliadis,672677,True,Kai Brünker,1,0
+4544273,2024,3. Liga,goal,45,Tim Civeja,1214053,True,Sebastian Vasiliadis,2,0
+4544273,2024,3. Liga,goal,54,Kasim Rabihic,631149,True,Sebastian Vasiliadis,3,0
+4544273,2024,3. Liga,goal,75,Maurice Multhaup,602524,True,,4,0
+4544278,2024,3. Liga,goal,35,Alexander Leuthard,1523998,True,,1,1
+4544278,2024,3. Liga,goal,29,Kjell Wätjen,1482728,False,Jordi Paulina,0,1
+4544278,2024,3. Liga,goal,86,Antonio Foti,1328615,False,,1,2
+4544274,2024,3. Liga,goal,25,Sigurd Haugen,631761,False,Adrien Lebeau,0,1
+4544274,2024,3. Liga,goal,59,Sigurd Haugen,631761,False,Cedric Harenbrock,0,2
+4544274,2024,3. Liga,goal,87,Christian Kinsombi,956863,False,Ryan Don Naderi,0,3
+4544271,2024,3. Liga,goal,35,Fabio Gruber,1362417,False,Timur Gayret,0,1
+4544277,2024,3. Liga,goal,40,Jakob Lemmer,1097375,True,Dominik Kother,1,2
+4544277,2024,3. Liga,goal,86,Stefan Kutschke,469705,True,,2,3
+4544277,2024,3. Liga,goal,20,Serhat-Semih Güler,1087772,False,Said El Mala,0,1
+4544277,2024,3. Liga,goal,25,Said El Mala,1613676,False,Donny Bogicevic,0,2
+4544277,2024,3. Liga,goal,76,Lex-Tyger Lobinger,979511,False,Florian Engelhardt,1,3
+4544279,2024,3. Liga,goal,58,Anas Bakhat,1129220,True,Lukas Scepanik,1,0
+4544279,2024,3. Liga,goal,85,Anton Heinz,939163,True,Niklas Castelle,2,0
+4544281,2024,3. Liga,goal,37,Serhat-Semih Güler,1087772,True,,1,0
+4544286,2024,3. Liga,goal,68,Thore Jacobsen,658797,True,Patrick Hobsch,1,1
+4544286,2024,3. Liga,goal,57,Laurin Ulrich,1367587,False,Anrie Chase,0,1
+4544288,2024,3. Liga,goal,86,Timmy Thiele,208235,True,Erik Tallig,1,1
+4544288,2024,3. Liga,goal,60,Stefan Kutschke,469705,False,Tony Menzel,0,1
+4544284,2024,3. Liga,goal,79,Christian Kinsombi,956863,True,Cedric Harenbrock,1,3
+4544284,2024,3. Liga,goal,52,Fatih Kaya,938537,False,Fabian Greilinger,0,1
+4544284,2024,3. Liga,goal,62,Thijmen Goppel,890398,False,Nick Bätzner,0,2
+4544284,2024,3. Liga,goal,73,Moritz Flotho,1294751,False,Thijmen Goppel,0,3
+4544284,2024,3. Liga,goal,89,Nikolas Agrafiotis,1180316,False,Thijmen Goppel,1,4
+4544280,2024,3. Liga,goal,55,Niko Kijewski,657655,True,Berkan Taz,1,0
+4544280,2024,3. Liga,goal,74,Niko Kijewski,657655,True,Berkan Taz,2,0
+4544280,2024,3. Liga,goal,84,Soufian El-Faouzi,1249185,False,Anas Bakhat,2,1
+4544287,2024,3. Liga,goal,45,Patrick Greil,951250,True,,1,1
+4544287,2024,3. Liga,goal,56,Jeremias Lorch,613158,True,Edvinas Girdvainis,2,1
+4544287,2024,3. Liga,goal,87,Luca-Milan Zander,536440,True,Stanislav Fehler,3,3
+4544287,2024,3. Liga,goal,2,Kai Brünker,748861,False,Kasim Rabihic,0,1
+4544287,2024,3. Liga,goal,67,Kasim Rabihic,631149,False,,2,2
+4544287,2024,3. Liga,goal,74,Sebastian Vasiliadis,672677,False,,2,3
+4544287,2024,3. Liga,goal,90,Maurice Multhaup,602524,False,Patrick Schmidt,3,4
+4544260,2024,3. Liga,goal,9,Jose-Enrique Rios Alonso,1001334,True,Michael Schultz,1,0
+4544260,2024,3. Liga,goal,15,Lukas Dominke,1592164,True,,2,0
+4544260,2024,3. Liga,goal,30,Lucas Brumme,959283,True,,3,0
+4544260,2024,3. Liga,goal,43,Tobias Kraulich,770567,True,Lucas Brumme,4,0
+4544260,2024,3. Liga,goal,90,Tobias Kraulich,770567,True,Matti Wagner,5,1
+4544260,2024,3. Liga,goal,44,Lars Gindorf,1263675,False,,4,1
+4544282,2024,3. Liga,goal,31,Benjamin Kanuric,1185207,True,,1,0
+4544282,2024,3. Liga,goal,41,David Kopacz,860597,True,Deniz Zeitler,2,0
+4544282,2024,3. Liga,goal,90,Tim Heike,1290430,True,,3,1
+4544282,2024,3. Liga,goal,51,Lukas Fröde,620578,False,,2,1
+4544285,2024,3. Liga,goal,33,Franz Roggow,1275289,False,,0,1
+4544285,2024,3. Liga,goal,46,Isaiah Young,862292,False,Noah-Joel Sarenren-Bazee,0,2
+4544285,2024,3. Liga,goal,74,Marius Wörl,1385154,False,Noah-Joel Sarenren-Bazee,0,3
+4544285,2024,3. Liga,goal,84,Marius Wörl,1385154,False,Felix Hagmann,0,4
+4544256,2024,3. Liga,goal,66,Christian Kinsombi,956863,False,Benno Dietze,0,1
+4544256,2024,3. Liga,goal,89,Nils Fröling,854069,False,Benno Dietze,0,2
+4544261,2024,3. Liga,goal,2,Christoph Daferner,773519,True,Dominik Kother,1,0
+4544261,2024,3. Liga,goal,63,Dominik Kother,1072817,True,Jakob Lemmer,2,1
+4544261,2024,3. Liga,goal,13,Omar Sijaric,1192056,False,Erik Majetschak,1,1
+4544254,2024,3. Liga,goal,43,Calogero Rizzuto,659055,True,,1,0
+4544253,2024,3. Liga,goal,35,Marcel Benger,865970,True,,1,0
+4544253,2024,3. Liga,goal,45,Andre Becker,738061,True,,2,2
+4544253,2024,3. Liga,goal,42,Henning Matriciani,1242110,False,,1,1
+4544253,2024,3. Liga,goal,45,Dominik Steczyk,949666,False,Fynn Otto,1,2
+4544255,2024,3. Liga,goal,6,Thijmen Goppel,890398,True,,1,0
+4544255,2024,3. Liga,goal,45,Fatih Kaya,938537,True,Thijmen Goppel,2,0
+4544259,2024,3. Liga,goal,28,Said El Mala,1613676,True,Donny Bogicevic,1,0
+4544259,2024,3. Liga,goal,73,Patrick Hobsch,636477,False,David Philipp,1,1
+4544259,2024,3. Liga,goal,76,Maximilian Wolfram,664908,False,,1,2
+4544252,2024,3. Liga,goal,79,Noah-Joel Sarenren-Bazee,692973,True,,1,2
+4544252,2024,3. Liga,goal,20,Torben Müsel,864436,False,Dominik Martinovic,0,1
+4544252,2024,3. Liga,goal,63,Ahmet Metin Arslan,566241,False,Dominik Martinovic,0,2
+4544257,2024,3. Liga,goal,69,Timon Obermeier,1282991,True,,1,3
+4544257,2024,3. Liga,goal,80,Luc Ihorst,1080985,True,Sebastian Maier,2,3
+4544257,2024,3. Liga,goal,17,Bryang Kayo,1187362,False,,0,1
+4544257,2024,3. Liga,goal,38,Lars Kehl,1281097,False,,0,2
+4544257,2024,3. Liga,goal,66,Niklas Niehoff,1357426,False,Lars Kehl,0,3
+4544251,2024,3. Liga,goal,64,Hayate Matsuda,1337351,True,Stefano Marino,1,2
+4544251,2024,3. Liga,goal,90,Lukas Wallner,1235968,True,Kolja Oudenne,2,2
+4544251,2024,3. Liga,goal,54,David Otto,906921,False,Emmanuel Iwe,0,1
+4544251,2024,3. Liga,goal,59,Patrick Greil,951250,False,David Otto,0,2
+4544268,2024,3. Liga,goal,27,Marco Schikora,773951,True,Niklas Kreuzer,1,0
+4544265,2024,3. Liga,goal,32,Tolcay Cigerci,555654,True,Timmy Thiele,1,0
+4544265,2024,3. Liga,goal,71,Maximilian Krauss,753799,True,,2,1
+4544265,2024,3. Liga,goal,64,Thijmen Goppel,890398,False,Moritz Flotho,1,1
+4544264,2024,3. Liga,goal,89,Mika Clausen,1474178,True,Ali Loune,1,1
+4544264,2024,3. Liga,goal,10,Pingdwinde Beleme,1195416,False,Lukas Scepanik,0,1
+4544267,2024,3. Liga,goal,78,Torben Müsel,864436,True,Lucas Brumme,1,1
+4544267,2024,3. Liga,goal,18,Fabio Torsiello,1387724,False,,0,1
+4544262,2024,3. Liga,goal,1,Stefan Feiertag,1073576,True,Maurice Multhaup,1,0
+4544262,2024,3. Liga,goal,6,Stefan Feiertag,1073576,True,Elijah Krahn,2,0
+4544262,2024,3. Liga,goal,41,Arianit Ferati,660897,False,,2,1
+4544269,2024,3. Liga,goal,38,Jarzinho Malanga,1487914,True,,1,0
+4544269,2024,3. Liga,goal,48,Samuele Di Benedetto,1596360,True,Laurin Ulrich,2,0
+4544269,2024,3. Liga,goal,87,Stefan Kutschke,469705,False,,2,1
+4544289,2024,3. Liga,goal,64,Maximilian Wolfram,664908,True,Tim Danhof,1,0
+4544289,2024,3. Liga,goal,69,Sebastian Grønning,759096,False,Felix Keidel,1,1
+4544266,2024,3. Liga,goal,3,Said El Mala,1613676,True,,1,0
+4544266,2024,3. Liga,goal,26,Lex-Tyger Lobinger,979511,False,Said El Mala,1,1
+4544318,2024,3. Liga,goal,65,Eduard Probst,1385815,True,,1,0
+4544263,2024,3. Liga,goal,61,Niklas Wiemann,1052358,True,Dave Gnaase,1,0
+4544312,2024,3. Liga,goal,45,Said El Mala,1613676,True,Florian Engelhardt,1,1
+4544312,2024,3. Liga,goal,59,Lex-Tyger Lobinger,979511,True,,2,1
+4544312,2024,3. Liga,goal,83,Malek El Mala,1640790,True,Sidny Lopes Cabral,3,1
+4544312,2024,3. Liga,goal,41,Kevin Goden,910510,False,Anas Bakhat,0,1
+4544319,2024,3. Liga,goal,82,Mael Corboz,754621,True,,1,0
+4544319,2024,3. Liga,goal,86,Julian Kania,1515970,True,Louis Oppie,2,0
+4544319,2024,3. Liga,goal,90,Maxim Burghardt,1661180,False,Marcel Bär,2,1
+4544313,2024,3. Liga,goal,53,Husseyn Chakroun,1561242,True,,1,2
+4544313,2024,3. Liga,goal,29,Niklas Niehoff,1357426,False,Lars Kehl,0,1
+4544313,2024,3. Liga,goal,38,Bryang Kayo,1187362,False,Kofi Amoako,0,2
+4544313,2024,3. Liga,goal,88,Bryang Kayo,1187362,False,Braydon Manu,1,5
+4544313,2024,3. Liga,goal,75,Nikky Goguadze,1086000,False,Bryan Henning,1,3
+4544313,2024,3. Liga,goal,83,Nikky Goguadze,1086000,False,Bryan Henning,1,4
+4544311,2024,3. Liga,goal,1,Deniz Zeitler,1580112,True,,1,0
+4544311,2024,3. Liga,goal,79,Thomas Kastanaras,1251305,False,Nicolas Sessa,1,1
+4544310,2024,3. Liga,goal,7,Felix Lohkemper,416121,True,Janne Sietan,1,0
+4544310,2024,3. Liga,goal,12,Andre Becker,738061,True,Arianit Ferati,2,0
+4544310,2024,3. Liga,goal,25,Arianit Ferati,660897,True,,3,0
+4544310,2024,3. Liga,goal,80,Julian Rieckmann,1002665,True,,4,0
+4544310,2024,3. Liga,goal,88,Niklas Hoffmann,687869,True,Nicklas Shipnoski,5,0
+4544317,2024,3. Liga,goal,45,Tarik Gözüsirin,1188856,True,,1,0
+4544317,2024,3. Liga,goal,50,Ahmet Metin Arslan,566241,False,Dominik Martinovic,1,1
+4544317,2024,3. Liga,goal,62,Tobias Kraulich,770567,False,Ahmet Metin Arslan,1,2
+4544317,2024,3. Liga,goal,71,Julian Eitschberger,1355216,False,Lucas Brumme,1,3
+4544316,2024,3. Liga,goal,17,Franz Roggow,1275289,True,Jordi Paulina,1,0
+4544309,2024,3. Liga,goal,11,Luc Ihorst,1080985,True,,1,0
+4544309,2024,3. Liga,goal,42,Fabio Torsiello,1387724,True,Simon Skarlatidis,2,0
+4544314,2024,3. Liga,goal,59,Maximilian Krauss,753799,True,Tolcay Cigerci,1,0
+4544315,2024,3. Liga,goal,6,Christoph Daferner,773519,True,Jakob Lemmer,1,0
+4544315,2024,3. Liga,goal,32,Christoph Daferner,773519,True,Niklas Hauptmann,2,1
+4544315,2024,3. Liga,goal,39,Andi Hoti,1276507,True,Jonas Sterner,3,1
+4544315,2024,3. Liga,goal,63,Tony Menzel,1524023,True,,4,1
+4544315,2024,3. Liga,goal,71,Jakob Lemmer,1097375,True,Tony Menzel,5,1
+4544315,2024,3. Liga,goal,9,Leroy Kwadwo,1072433,False,,1,1
+4544315,2024,3. Liga,goal,90,Maximilian Wolfram,664908,False,,5,2
+4544300,2024,3. Liga,goal,36,Joel Grodowski,865066,False,Roberts Uldrikis,0,1
+4544300,2024,3. Liga,goal,83,Roberts Uldrikis,690207,False,Lukas Kunze,0,2
+4544300,2024,3. Liga,goal,90,Julian Kania,1515970,False,Louis Oppie,0,3
+4544325,2024,3. Liga,goal,36,Bentley Bahn,560943,True,Soufian El-Faouzi,1,0
+4544325,2024,3. Liga,goal,53,Anas Bakhat,1129220,True,Bentley Bahn,2,0
+4544325,2024,3. Liga,goal,72,Ayman Azhil,1069841,False,Danylo Krevsun,2,1
+4544325,2024,3. Liga,goal,86,Antonio Foti,1328615,False,Michael Eberwein,2,2
+4544323,2024,3. Liga,goal,38,Marvin Stefaniak,458615,True,Mirnes Pepic,1,0
+4544320,2024,3. Liga,goal,11,Nils Fröling,854069,True,Alexander Rossipal,1,0
+4544326,2024,3. Liga,goal,21,Ahmet Metin Arslan,566241,True,,1,0
+4544326,2024,3. Liga,goal,50,Julian Eitschberger,1355216,True,Dominik Martinovic,2,0
+4544291,2024,3. Liga,goal,3,Berkan Taz,872402,True,,1,0
+4544291,2024,3. Liga,goal,79,Niklas May,1189797,False,,1,1
+4544321,2024,3. Liga,goal,17,Calogero Rizzuto,659055,True,Maurice Multhaup,1,0
+4544321,2024,3. Liga,goal,48,Stefan Feiertag,1073576,True,Sebastian Vasiliadis,2,1
+4544321,2024,3. Liga,goal,67,Kasim Rabihic,631149,True,Elijah Krahn,3,1
+4544321,2024,3. Liga,goal,80,Florian Krüger,988082,True,Maurice Multhaup,4,1
+4544321,2024,3. Liga,goal,34,Sven Sonnenberg,978197,False,,1,1
+4544322,2024,3. Liga,goal,74,Wahid Faghir,1136392,True,Laurin Ulrich,1,0
+4544322,2024,3. Liga,goal,90,Wahid Faghir,1136392,True,Laurin Ulrich,2,0
+4544324,2024,3. Liga,goal,39,Lars Kehl,1281097,True,Bryang Kayo,1,1
+4544324,2024,3. Liga,goal,15,Felix Lohkemper,416121,False,Lukas Klünter,0,1
+4544292,2024,3. Liga,goal,28,Moritz Flotho,1294751,False,Nikolas Agrafiotis,0,1
+4544301,2024,3. Liga,goal,49,Donny Bogicevic,1273493,True,,1,1
+4544301,2024,3. Liga,goal,42,Elijah Krahn,1317322,False,Kasim Rabihic,0,1
+4544301,2024,3. Liga,goal,65,Kasim Rabihic,631149,False,Elijah Krahn,1,2
+4544302,2024,3. Liga,goal,86,Kaito Mizuta,1072117,False,Klaus Gjasula,0,1
+4544293,2024,3. Liga,goal,9,Tolcay Cigerci,555654,True,,1,1
+4544293,2024,3. Liga,goal,6,Marcus Müller,1281521,False,,0,1
+4544293,2024,3. Liga,goal,64,Marcus Müller,1281521,False,,1,2
+4544295,2024,3. Liga,goal,27,Valmir Sulejmani,501569,True,Fynn Arkenberg,1,0
+4544295,2024,3. Liga,goal,66,Tunay Deniz,622415,False,,1,1
+4544295,2024,3. Liga,goal,70,Julian Guttau,931614,False,,1,2
+4544295,2024,3. Liga,goal,76,Patrick Hobsch,636477,False,Tunay Deniz,1,3
+4544294,2024,3. Liga,goal,71,Pascal Testroet,141119,True,Felix Keidel,1,1
+4544294,2024,3. Liga,goal,87,Sebastian Grønning,759096,True,,2,1
+4544294,2024,3. Liga,goal,25,Viktor Granath,1268805,False,David Otto,0,1
+4544296,2024,3. Liga,goal,43,Mika Clausen,1474178,False,Marcel Bär,0,1
+4544296,2024,3. Liga,goal,62,Marvin Stefaniak,458615,False,Mika Clausen,0,2
+4544297,2024,3. Liga,goal,8,Christoph Daferner,773519,True,Sascha Risch,1,0
+4544297,2024,3. Liga,goal,57,Niklas Hauptmann,659047,True,Jakob Lemmer,2,0
+4544297,2024,3. Liga,goal,72,Dominik Kother,1072817,True,Jakob Lemmer,3,0
+4544290,2024,3. Liga,goal,18,Andre Becker,738061,True,Adrian Fein,1,0
+4544290,2024,3. Liga,goal,68,Julian Rieckmann,1002665,True,Andre Becker,2,0
+4544290,2024,3. Liga,goal,76,Sasa Strujic,424625,False,Anton Heinz,2,1
+4544299,2024,3. Liga,goal,14,Julian Kania,1515970,True,,1,0
+4544299,2024,3. Liga,goal,30,Joel Grodowski,865066,True,,2,0
+4544299,2024,3. Liga,goal,39,Joel Grodowski,865066,True,Marius Wörl,3,0
+4544299,2024,3. Liga,goal,78,Mael Corboz,754621,True,Joel Grodowski,4,1
+4544299,2024,3. Liga,goal,78,Mael Corboz,754621,True,Joel Grodowski,5,1
+4544299,2024,3. Liga,goal,72,Samuele Di Benedetto,1596360,False,Benjamin Boakye,3,1
+4544298,2024,3. Liga,goal,4,Sigurd Haugen,631761,False,Jan Mejdr,0,1
+4544298,2024,3. Liga,goal,74,Nils Fröling,854069,False,Felix Ruschke,0,2
+4544307,2024,3. Liga,goal,56,Thijmen Goppel,890398,False,Ben Nink,0,1
+4544342,2024,3. Liga,goal,45,Niklas Hauptmann,659047,False,Jonas Sterner,0,1
+4544327,2024,3. Liga,goal,28,Adrien Lebeau,1073145,True,Ryan Don Naderi,1,0
+4544327,2024,3. Liga,goal,42,Sigurd Haugen,631761,True,Benno Dietze,2,0
+4544304,2024,3. Liga,goal,22,Sebastian Vasiliadis,672677,True,Maurice Multhaup,1,0
+4544304,2024,3. Liga,goal,38,Kasim Rabihic,631149,True,Philip Fahrner,2,0
+4544304,2024,3. Liga,goal,56,Timmy Thiele,208235,False,Tolcay Cigerci,2,1
+4544341,2024,3. Liga,goal,47,Sebastian Stolze,357808,True,,1,1
+4544341,2024,3. Liga,goal,50,Besar Halimi,466681,True,Christoph Ehlich,2,1
+4544341,2024,3. Liga,goal,12,Leander Popp,1604388,False,Markus Schwabl,0,1
+4544341,2024,3. Liga,goal,56,Fabio Torsiello,1387724,False,Lenn Jastremski,2,2
+4544305,2024,3. Liga,goal,13,Thomas Kastanaras,1251305,True,Nicolas Sessa,1,0
+4544305,2024,3. Liga,goal,85,Mohamed Sankoh,1116945,True,,2,1
+4544305,2024,3. Liga,goal,33,Eric Uhlmann,1382721,False,Robin Kalem,1,1
+4544308,2024,3. Liga,goal,36,Berkan Taz,872402,True,Marcel Benger,1,0
+4544308,2024,3. Liga,goal,45,Timur Gayret,978381,True,,2,0
+4544308,2024,3. Liga,goal,90,Maximilian Grosser,1140917,False,Leon Schneider,2,1
+4544343,2024,3. Liga,goal,8,Tim Danhof,787077,True,Tunay Deniz,1,0
+4544306,2024,3. Liga,goal,11,Anthony Barylla,817819,True,Mika Clausen,1,0
+4544306,2024,3. Liga,goal,72,Omar Sijaric,1192056,True,Maximilian Schmid,2,0
+4544306,2024,3. Liga,goal,90,Lex-Tyger Lobinger,979511,False,,2,1
+4544303,2024,3. Liga,goal,24,Ahmet Metin Arslan,566241,True,,1,0
+4544348,2024,3. Liga,goal,8,Julian Kania,1515970,True,Isaiah Young,1,1
+4544348,2024,3. Liga,goal,26,Julian Kania,1515970,True,Joel Grodowski,2,1
+4544348,2024,3. Liga,goal,85,Felix Hagmann,1460416,True,Sam Schreck,3,1
+4544348,2024,3. Liga,goal,5,Tim Civeja,1214053,False,Maurice Multhaup,0,1
+4544339,2024,3. Liga,goal,20,Erik Engelhardt,862686,True,Lucas Copado,1,0
+4544339,2024,3. Liga,goal,35,Lucas Copado,1276194,True,Philipp Halbauer,2,1
+4544339,2024,3. Liga,goal,32,Valmir Sulejmani,501569,False,Mustafa Abdullatif,1,1
+4544339,2024,3. Liga,goal,54,Eric Uhlmann,1382721,False,,2,2
+4544349,2024,3. Liga,goal,29,Anton Heinz,939163,False,Florian Heister,0,1
+4544349,2024,3. Liga,goal,50,Danilo Wiebe,658792,False,Niklas Castelle,0,2
+4544349,2024,3. Liga,goal,77,Sasa Strujic,424625,False,Charlison Benschop,0,3
+4544347,2024,3. Liga,goal,29,Manuel Stiefler,208218,True,Johannes Geis,1,2
+4544347,2024,3. Liga,goal,3,Berkan Taz,872402,False,Konstantin Gerhardt,0,1
+4544347,2024,3. Liga,goal,10,Dominik Steczyk,949666,False,Patrick Kammerbauer,0,2
+4544346,2024,3. Liga,goal,13,Maximilian Herwerth,1663160,True,,1,0
+4544346,2024,3. Liga,goal,53,Lars Kehl,1281097,False,Dave Gnaase,1,1
+4544346,2024,3. Liga,goal,84,Bryan Henning,618923,False,Lars Kehl,1,2
+4544340,2024,3. Liga,goal,3,Adrien Lebeau,1073145,True,Jan Mejdr,1,0
+4544340,2024,3. Liga,goal,15,Ryan Don Naderi,1404384,True,Benjamin Uphoff,2,0
+4544340,2024,3. Liga,goal,35,Nils Fröling,854069,True,Adrien Lebeau,3,1
+4544340,2024,3. Liga,goal,86,Christian Kinsombi,956863,True,,4,1
+4544340,2024,3. Liga,goal,17,Marcel Bär,614959,False,Mika Clausen,2,1
+4544345,2024,3. Liga,goal,83,Malek El Mala,1640790,True,Enrique Lofolomo,1,0
+4544344,2024,3. Liga,goal,14,Felix Lohkemper,416121,True,Lukas Klünter,1,0
+4544344,2024,3. Liga,goal,32,Andre Becker,738061,True,Felix Lohkemper,2,0
+4544344,2024,3. Liga,goal,38,Andre Becker,738061,True,Lukas Klünter,3,0
+4544344,2024,3. Liga,goal,43,Marco Schikora,773951,False,,3,1
+4544344,2024,3. Liga,goal,61,Taylan Duman,775269,False,Marco Schikora,3,2
+4544334,2024,3. Liga,goal,35,Mirza Catovic,1700267,False,Laurin Ulrich,0,1
+4544334,2024,3. Liga,goal,43,Mohamed Sankoh,1116945,False,Nicolas Sessa,0,2
+4544329,2024,3. Liga,goal,80,Kjell Wätjen,1482728,True,Tony Reitz,1,1
+4544329,2024,3. Liga,goal,51,Lex-Tyger Lobinger,979511,False,Sidny Lopes Cabral,0,1
+4544330,2024,3. Liga,goal,53,Keanu Brandt,1626721,True,,1,0
+4544330,2024,3. Liga,goal,58,Felix Luckeneder,557801,True,,2,0
+4544330,2024,3. Liga,goal,64,Kolja Oudenne,1436271,True,,3,0
+4544330,2024,3. Liga,goal,66,Moritz Flotho,1294751,False,,3,1
+4544330,2024,3. Liga,goal,86,Nikolas Agrafiotis,1180316,False,Moritz Flotho,3,2
+4544331,2024,3. Liga,goal,14,Stefano Russo,1052360,False,,0,1
+4544332,2024,3. Liga,goal,50,Ahmet Metin Arslan,566241,True,Dominik Martinovic,1,0
+4544332,2024,3. Liga,goal,65,Lukas Boeder,585268,False,,1,1
+4544336,2024,3. Liga,goal,8,Berkan Taz,872402,True,,1,0
+4544336,2024,3. Liga,goal,16,Simon Lorenz,776085,False,Benjamin Kanuric,1,1
+4544336,2024,3. Liga,goal,23,Sebastian Grønning,759096,False,Yannick Deichmann,1,2
+4544336,2024,3. Liga,goal,64,Timur Gayret,978381,False,,1,3
+4544336,2024,3. Liga,goal,70,Deniz Zeitler,1580112,False,,1,4
+4544364,2024,3. Liga,goal,44,Lukas Reich,1641040,True,Leroy Kwadwo,1,1
+4544364,2024,3. Liga,goal,59,Tunay Deniz,622415,True,,2,1
+4544364,2024,3. Liga,goal,8,Lenn Jastremski,1189795,False,Leander Popp,0,1
+4544335,2024,3. Liga,goal,70,Tolcay Cigerci,555654,False,,0,1
+4544333,2024,3. Liga,goal,38,Felix Lohkemper,416121,False,Henning Matriciani,0,1
+4544328,2024,3. Liga,goal,62,Niklas Castelle,1330880,True,Soufian El-Faouzi,1,0
+4544328,2024,3. Liga,goal,83,Bentley Bahn,560943,True,Gianluca Gaudino,2,1
+4544328,2024,3. Liga,goal,74,Cedric Harenbrock,860598,False,Christian Kinsombi,1,1
+4544357,2024,3. Liga,goal,24,Berkan Taz,872402,True,Lars Lokotsch,1,0
+4544357,2024,3. Liga,goal,35,Tobias Kraulich,770567,True,,2,0
+4544357,2024,3. Liga,goal,66,Timur Gayret,978381,True,Berkan Taz,3,0
+4544354,2024,3. Liga,goal,89,Tolcay Cigerci,555654,True,,1,0
+4544363,2024,3. Liga,goal,6,Ba-Muaka Simakala,821390,True,,1,0
+4544359,2024,3. Liga,goal,40,Lukas Scepanik,833523,False,Anton Heinz,0,1
+4544359,2024,3. Liga,goal,62,Gianluca Gaudino,566785,False,,0,2
+4544358,2024,3. Liga,goal,7,Julian Kania,1515970,True,,1,0
+4544358,2024,3. Liga,goal,86,Mael Corboz,754621,True,Louis Oppie,2,2
+4544358,2024,3. Liga,goal,44,Kolja Oudenne,1436271,False,Jeremie Niklaus,1,1
+4544358,2024,3. Liga,goal,80,Kolja Oudenne,1436271,False,Keanu Brandt,1,2
+4544356,2024,3. Liga,goal,5,Simon Lorenz,776085,True,Tim Heike,1,0
+4544356,2024,3. Liga,goal,46,Benjamin Kanuric,1185207,True,Gustav Christensen,2,0
+4544356,2024,3. Liga,goal,56,Benjamin Kanuric,1185207,True,,3,0
+4544356,2024,3. Liga,goal,81,Mladen Cvjetinovic,1280567,False,,3,1
+4544360,2024,3. Liga,goal,11,Moritz Flotho,1294751,True,,1,0
+4544360,2024,3. Liga,goal,57,Christoph Daferner,773519,True,Niklas Hauptmann,2,0
+4544355,2024,3. Liga,goal,68,Wahid Faghir,1136392,True,Mohamed Sankoh,1,1
+4544355,2024,3. Liga,goal,86,Mohamed Sankoh,1116945,True,Laurin Ulrich,2,1
+4544355,2024,3. Liga,goal,66,Lucas Wolf,1187387,False,Jonas Weik,0,1
+4544388,2024,3. Liga,goal,40,Valmir Sulejmani,501569,True,Robin Kalem,1,2
+4544388,2024,3. Liga,goal,87,Eric Uhlmann,1382721,True,,2,3
+4544388,2024,3. Liga,goal,20,Dominik Kother,1072817,False,Niklas Hauptmann,0,1
+4544388,2024,3. Liga,goal,28,Dominik Kother,1072817,False,Mika Baur,0,2
+4544388,2024,3. Liga,goal,55,Christoph Daferner,773519,False,,1,3
+4544385,2024,3. Liga,goal,15,Dickson Abiama,1185266,True,Julian Guttau,1,0
+4544385,2024,3. Liga,goal,18,Tunay Deniz,622415,True,,2,0
+4544385,2024,3. Liga,goal,37,Patrick Hobsch,636477,True,Sean Dulic,3,0
+4544385,2024,3. Liga,goal,50,Patrick Hobsch,636477,True,Soichiro Kozuki,4,0
+4544385,2024,3. Liga,goal,89,Joshua Putze,458614,True,,5,1
+4544385,2024,3. Liga,goal,71,Timmy Thiele,208235,False,Tobias Hasse,4,1
+4544351,2024,3. Liga,goal,32,Mirnes Pepic,458647,True,,1,0
+4544351,2024,3. Liga,goal,82,Maxim Burghardt,1661180,True,Linus Rosenlöcher,2,1
+4544351,2024,3. Liga,goal,72,Wahid Faghir,1136392,False,Laurin Ulrich,1,1
+4544387,2024,3. Liga,goal,29,Maurice Multhaup,602524,True,,1,0
+4544387,2024,3. Liga,goal,65,Jannik Müller,458620,False,Lars Kehl,1,1
+4544352,2024,3. Liga,goal,28,Lex-Tyger Lobinger,979511,True,,1,1
+4544352,2024,3. Liga,goal,52,Johannes Geis,237542,True,,2,1
+4544352,2024,3. Liga,goal,60,Said El Mala,1613676,True,Lex-Tyger Lobinger,3,1
+4544352,2024,3. Liga,goal,2,Leander Popp,1604388,False,Dennis Waidner,0,1
+4544350,2024,3. Liga,goal,44,Nick Bätzner,1140919,True,Thijmen Goppel,1,0
+4544350,2024,3. Liga,goal,73,Ryan Johansson,950831,True,Emanuel Taffertshofer,2,1
+4544350,2024,3. Liga,goal,45,Felix Lohkemper,416121,False,Lukas Klünter,1,1
+4544350,2024,3. Liga,goal,86,Sascha Voelcke,1321148,False,Felix Lohkemper,2,2
+4544394,2024,3. Liga,goal,55,Merveille Biankadi,622213,False,Lukas Kunze,0,1
+4544389,2024,3. Liga,goal,31,Kjell Wätjen,1482728,True,,1,1
+4544389,2024,3. Liga,goal,35,Michael Eberwein,673043,True,Ben Huning,2,1
+4544389,2024,3. Liga,goal,68,Tony Reitz,1415371,True,Franz Roggow,3,2
+4544389,2024,3. Liga,goal,14,Pascal Testroet,141119,False,Yannick Deichmann,0,1
+4544389,2024,3. Liga,goal,81,Pascal Testroet,141119,False,,3,3
+4544389,2024,3. Liga,goal,56,Tim Heike,1290430,False,Pascal Testroet,2,2
+4544386,2024,3. Liga,goal,28,Dominic Baumann,560386,True,Luca-Milan Zander,1,1
+4544386,2024,3. Liga,goal,23,Berkan Taz,872402,False,,0,1
+4544386,2024,3. Liga,goal,69,Eduard Probst,1385815,False,Berkan Taz,1,2
+4544386,2024,3. Liga,goal,86,Lars Lokotsch,865973,False,,1,3
+4544353,2024,3. Liga,goal,22,Ahmet Metin Arslan,566241,True,,1,1
+4544353,2024,3. Liga,goal,81,Ahmet Metin Arslan,566241,True,,2,1
+4544353,2024,3. Liga,goal,9,Cedric Harenbrock,860598,False,Alexander Rossipal,0,1
+4544384,2024,3. Liga,goal,2,Thijmen Goppel,890398,True,,1,0
+4544384,2024,3. Liga,goal,7,Marius Wörl,1385154,True,Noah-Joel Sarenren-Bazee,2,0
+4544384,2024,3. Liga,goal,68,Noah-Joel Sarenren-Bazee,692973,True,Joel Grodowski,3,1
+4544384,2024,3. Liga,goal,72,Merveille Biankadi,622213,True,Mael Corboz,4,1
+4544384,2024,3. Liga,goal,15,Nikolas Agrafiotis,1180316,False,,2,1
+4544384,2024,3. Liga,goal,86,Ole Wohlers,1098343,False,Ryan Johansson,4,2
+4544396,2024,3. Liga,goal,76,Eric Uhlmann,1382721,True,,1,1
+4544396,2024,3. Liga,goal,51,Charlison Benschop,112119,False,Niklas Castelle,0,1
+4544395,2024,3. Liga,goal,39,Kasim Rabihic,631149,True,Tim Civeja,1,0
+4544395,2024,3. Liga,goal,50,Florian Krüger,988082,True,,2,0
+4544391,2024,3. Liga,goal,9,Laurin Ulrich,1367587,True,,1,0
+4544391,2024,3. Liga,goal,13,Said El Mala,1613676,False,Serhat-Semih Güler,1,1
+4544391,2024,3. Liga,goal,64,Serhat-Semih Güler,1087772,False,Niklas May,1,2
+4544390,2024,3. Liga,goal,22,Lenn Jastremski,1189795,False,Markus Schwabl,0,1
+4544390,2024,3. Liga,goal,43,Manuel Stiefler,208218,False,Markus Schwabl,0,2
+4544393,2024,3. Liga,goal,1,Patrick Hobsch,636477,True,Tunay Deniz,1,0
+4544393,2024,3. Liga,goal,12,Julian Guttau,931614,True,Dickson Abiama,2,0
+4544398,2024,3. Liga,goal,42,Jonas Sterner,1140913,True,,1,1
+4544398,2024,3. Liga,goal,74,Lars Bünning,862285,True,Sascha Risch,2,2
+4544398,2024,3. Liga,goal,35,Tim Heike,1290430,False,Benjamin Kanuric,0,1
+4544398,2024,3. Liga,goal,48,Pascal Testroet,141119,False,Simon Lorenz,1,2
+4544392,2024,3. Liga,goal,3,Ramien Safi,1388062,False,,0,1
+4544397,2024,3. Liga,goal,50,Sigurd Haugen,631761,False,Benno Dietze,0,1
+4544399,2024,3. Liga,goal,60,Julian Hettwer,1206523,False,Michael Eberwein,0,1
+4544375,2024,3. Liga,goal,38,Emanuel Taffertshofer,658462,True,,1,0
+4544375,2024,3. Liga,goal,58,Florian Krüger,988082,False,Maurice Multhaup,1,1
+4544370,2024,3. Liga,goal,88,Niklas Wiemann,1052358,False,Braydon Manu,0,1
+4544369,2024,3. Liga,goal,4,Christian Kinsombi,956863,True,,1,0
+4544369,2024,3. Liga,goal,52,Christian Kinsombi,956863,True,Sigurd Haugen,3,0
+4544369,2024,3. Liga,goal,45,Adrien Lebeau,1073145,True,Jan Mejdr,2,0
+4544369,2024,3. Liga,goal,63,Tim Köhler,1552926,True,,4,0
+4544401,2024,3. Liga,goal,72,Deniz Zeitler,1580112,True,Elias Decker,1,2
+4544401,2024,3. Liga,goal,81,Ryan Malone,659081,True,Gustav Christensen,2,2
+4544401,2024,3. Liga,goal,90,Ryan Malone,659081,True,Marcel Costly,3,3
+4544401,2024,3. Liga,goal,11,Valmir Sulejmani,501569,False,Mustafa Abdullatif,0,1
+4544401,2024,3. Liga,goal,59,Robin Kalem,1204798,False,Hayate Matsuda,0,2
+4544401,2024,3. Liga,goal,82,Sean Busch,1524007,False,Melkamu Frauendorf,2,3
+4544368,2024,3. Liga,goal,21,Tom Moustier,1356804,True,Klaus Gjasula,1,0
+4544368,2024,3. Liga,goal,45,Ahmet Metin Arslan,566241,True,,2,1
+4544368,2024,3. Liga,goal,65,Ahmet Metin Arslan,566241,True,Tobias Kraulich,3,1
+4544368,2024,3. Liga,goal,88,Eric Voufack,1161286,True,Dominik Martinovic,4,2
+4544368,2024,3. Liga,goal,30,Ali Loune,1293021,False,,1,1
+4544368,2024,3. Liga,goal,79,Steffen Nkansah,837862,False,Marvin Stefaniak,3,2
+4544367,2024,3. Liga,goal,27,Luc Ihorst,1080985,True,Fabio Torsiello,1,1
+4544367,2024,3. Liga,goal,90,Lenn Jastremski,1189795,True,Simon Skarlatidis,2,2
+4544367,2024,3. Liga,goal,8,Benjamin Boakye,1644174,False,Laurin Ulrich,0,1
+4544367,2024,3. Liga,goal,77,Thomas Kastanaras,1251305,False,Laurin Ulrich,1,2
+4544371,2024,3. Liga,goal,3,Luan Simnica,1530794,True,,1,0
+4544371,2024,3. Liga,goal,45,Lamar Yarbrough,1082342,True,,2,1
+4544371,2024,3. Liga,goal,20,Dominic Baumann,560386,False,Jonas Weik,1,1
+4544400,2024,3. Liga,goal,43,Thore Jacobsen,658797,False,,0,1
+4544400,2024,3. Liga,goal,61,Patrick Hobsch,636477,False,Dickson Abiama,0,2
+4544400,2024,3. Liga,goal,84,David Philipp,1052911,False,Julian Guttau,0,3
+4544366,2024,3. Liga,goal,14,Kjell Wätjen,1482728,True,,1,0
+4544366,2024,3. Liga,goal,39,Yannik Lührs,1438496,True,Tony Reitz,2,0
+4544366,2024,3. Liga,goal,42,Paul-Philipp Besong,1073484,True,,3,0
+4544366,2024,3. Liga,goal,54,Paul-Philipp Besong,1073484,True,Julian Hettwer,4,0
+4544366,2024,3. Liga,goal,70,Tolcay Cigerci,555654,False,,4,1
+4544402,2024,3. Liga,goal,19,Mael Corboz,754621,False,Lukas Kunze,0,1
+4544402,2024,3. Liga,goal,90,Julian Kania,1515970,False,,0,2
+4544377,2024,3. Liga,goal,39,Dickson Abiama,1185266,True,,1,0
+4544377,2024,3. Liga,goal,89,David Philipp,1052911,True,,2,1
+4544377,2024,3. Liga,goal,49,Anas Bakhat,1129220,False,,1,1
+4544381,2024,3. Liga,goal,23,Joel Grodowski,865066,True,,1,0
+4544381,2024,3. Liga,goal,44,Joel Grodowski,865066,True,Mael Corboz,3,0
+4544381,2024,3. Liga,goal,36,Mael Corboz,754621,True,,2,0
+4544381,2024,3. Liga,goal,88,Julian Kania,1515970,True,Sam Schreck,4,0
+4544379,2024,3. Liga,goal,47,Timmy Thiele,208235,True,Yannick Möker,1,0
+4544378,2024,3. Liga,goal,18,Ramien Safi,1388062,False,Tom Moustier,0,1
+4544378,2024,3. Liga,goal,34,Julian Eitschberger,1355216,False,,0,2
+4544380,2024,3. Liga,goal,18,Fatih Kaya,938537,True,,1,0
+4544380,2024,3. Liga,goal,33,Nikolas Agrafiotis,1180316,True,,2,0
+4544380,2024,3. Liga,goal,51,Nikolas Agrafiotis,1180316,True,,3,0
+4544376,2024,3. Liga,goal,18,Ismail Badjie,1663016,True,,1,0
+4544373,2024,3. Liga,goal,83,Alexander Groiss,748503,True,,1,0
+4544373,2024,3. Liga,goal,87,Oualid Mhamdi,1352636,False,,1,1
+4544372,2024,3. Liga,goal,21,Sven Sonnenberg,978197,True,Florian Krüger,1,2
+4544372,2024,3. Liga,goal,3,Christoph Daferner,773519,False,Jakob Lemmer,0,1
+4544372,2024,3. Liga,goal,11,Bjarne Thoelke,291620,False,,0,2
+4544372,2024,3. Liga,goal,56,Niklas Hauptmann,659047,False,Vinko Sapina,1,3
+4544372,2024,3. Liga,goal,67,Dominik Kother,1072817,False,,1,4
+4544374,2024,3. Liga,goal,45,Valmir Sulejmani,501569,True,,1,1
+4544374,2024,3. Liga,goal,19,Felix Lohkemper,416121,False,Julian Rieckmann,0,1
+4544365,2024,3. Liga,goal,17,Boris Tashchy,273185,True,,1,0
+4544365,2024,3. Liga,goal,54,Mika Clausen,1474178,True,Omar Sijaric,2,1
+4544365,2024,3. Liga,goal,29,Paul-Philipp Besong,1073484,False,Julian Hettwer,1,1
+4544382,2024,3. Liga,goal,48,Felix Ruschke,1382738,True,Benno Dietze,1,0
+4544424,2024,3. Liga,goal,37,Eric Uhlmann,1382721,False,,0,1
+4544424,2024,3. Liga,goal,38,Robin Kalem,1204798,False,,0,2
+4544424,2024,3. Liga,goal,52,Robin Kalem,1204798,False,Mustafa Abdullatif,0,3
+4544424,2024,3. Liga,goal,79,Sean Busch,1524007,False,Husseyn Chakroun,0,4
+4544433,2024,3. Liga,goal,6,Dominik Kother,1072817,True,Christoph Daferner,1,0
+4544433,2024,3. Liga,goal,9,Niklas Hauptmann,659047,True,Vinko Sapina,2,0
+4544433,2024,3. Liga,goal,38,Patrick Greil,951250,False,,2,1
+4544426,2024,3. Liga,goal,7,Patrick Sontheimer,822016,False,Sebastian Vasiliadis,0,1
+4544426,2024,3. Liga,goal,45,Calogero Rizzuto,659055,False,Philip Fahrner,0,2
+4544426,2024,3. Liga,goal,51,Maurice Multhaup,602524,False,Florian Krüger,0,3
+4544425,2024,3. Liga,goal,2,Lenn Jastremski,1189795,True,Manuel Stiefler,1,0
+4544425,2024,3. Liga,goal,90,Tolcay Cigerci,555654,False,,1,1
+4544383,2024,3. Liga,goal,65,Albion Vrenezi,668430,True,Lars Dietz,1,0
+4544383,2024,3. Liga,goal,86,Said El Mala,1613676,True,Serhat-Semih Güler,2,0
+4544427,2024,3. Liga,goal,15,Lars Lokotsch,865973,True,Dominik Steczyk,1,0
+4544427,2024,3. Liga,goal,30,Berkan Taz,872402,True,,2,0
+4544427,2024,3. Liga,goal,40,Berkan Taz,872402,True,,4,0
+4544427,2024,3. Liga,goal,38,Dominik Steczyk,949666,True,Tom Baack,3,0
+4544427,2024,3. Liga,goal,71,Anthony Barylla,817819,True,,5,1
+4544427,2024,3. Liga,goal,70,Marvin Stefaniak,458615,False,Erik Majetschak,4,1
+4544429,2024,3. Liga,goal,3,Mael Corboz,754621,False,Joel Grodowski,0,1
+4544429,2024,3. Liga,goal,44,Noah-Joel Sarenren-Bazee,692973,False,Louis Oppie,0,2
+4544429,2024,3. Liga,goal,65,Isaiah Young,862292,False,Julian Kania,0,3
+4544430,2024,3. Liga,goal,30,Mika Hanraths,956034,True,Bentley Bahn,1,0
+4544439,2024,3. Liga,goal,24,Maxwell Gyamfi,1073476,True,,1,0
+4544439,2024,3. Liga,goal,32,Marcus Müller,1281521,True,,2,0
+4544431,2024,3. Liga,goal,78,Jesper Verlaat,658799,True,Julian Guttau,1,2
+4544431,2024,3. Liga,goal,65,Torben Müsel,864436,False,Julian Eitschberger,0,1
+4544431,2024,3. Liga,goal,69,Kaito Mizuta,1072117,False,,0,2
+4544431,2024,3. Liga,goal,82,Ramien Safi,1388062,False,Felix Wienand,1,3
+4544432,2024,3. Liga,goal,18,Patrick Sontheimer,822016,True,Philip Fahrner,1,0
+4544432,2024,3. Liga,goal,34,Florian Krüger,988082,True,Philip Fahrner,2,0
+4544432,2024,3. Liga,goal,51,Florian Krüger,988082,True,,3,1
+4544432,2024,3. Liga,goal,65,Florian Krüger,988082,True,Kai Brünker,4,1
+4544432,2024,3. Liga,goal,45,Dominik Steczyk,949666,False,Niko Kijewski,2,1
+4544432,2024,3. Liga,goal,67,Berkan Taz,872402,False,Lars Lokotsch,4,2
+4544432,2024,3. Liga,goal,86,Niko Kijewski,657655,False,,4,3
+4544437,2024,3. Liga,goal,52,Adrien Lebeau,1073145,False,,0,1
+4544437,2024,3. Liga,goal,61,Tim Krohn,1557059,False,Sigurd Haugen,0,2
+4544437,2024,3. Liga,goal,87,Jan Mejdr,688712,False,Nils Fröling,0,3
+4544423,2024,3. Liga,goal,6,Thomas Kastanaras,1251305,True,Mohamed Sankoh,1,0
+4544423,2024,3. Liga,goal,27,Nikolas Nartey,869298,True,Thomas Kastanaras,2,0
+4544423,2024,3. Liga,goal,50,Mika Hanraths,956034,False,,2,1
+4544435,2024,3. Liga,goal,41,Ryan Johansson,950831,True,Thijmen Goppel,1,0
+4544435,2024,3. Liga,goal,57,Tarik Gözüsirin,1188856,True,Fabian Greilinger,2,2
+4544435,2024,3. Liga,goal,81,Fatih Kaya,938537,True,,3,2
+4544435,2024,3. Liga,goal,90,Fatih Kaya,938537,True,,4,2
+4544435,2024,3. Liga,goal,47,Ben Huning,1585495,False,,1,1
+4544435,2024,3. Liga,goal,49,Kjell Wätjen,1482728,False,,1,2
+4544436,2024,3. Liga,goal,90,David Kubatta,1323005,True,,1,1
+4544436,2024,3. Liga,goal,62,Jakob Lemmer,1097375,False,,0,1
+4544440,2024,3. Liga,goal,7,Henry Rorig,1106859,True,Axel Borgmann,1,0
+4544440,2024,3. Liga,goal,66,Tolcay Cigerci,555654,True,,2,4
+4544440,2024,3. Liga,goal,8,Felix Lohkemper,416121,False,Julian Rieckmann,1,1
+4544440,2024,3. Liga,goal,29,Kennedy Okpala,1455252,False,Arianit Ferati,1,2
+4544440,2024,3. Liga,goal,52,Kennedy Okpala,1455252,False,,1,3
+4544440,2024,3. Liga,goal,62,Henning Matriciani,1242110,False,Niklas Hoffmann,1,4
+4544434,2024,3. Liga,goal,38,Ali Loune,1293021,True,Anthony Barylla,1,0
+4544412,2024,3. Liga,goal,84,Dominik Nothnagel,458813,False,,0,1
+4544441,2024,3. Liga,goal,33,Danilo Wiebe,658792,True,Soufian El-Faouzi,1,0
+4544441,2024,3. Liga,goal,52,Gianluca Gaudino,566785,True,,2,0
+4544441,2024,3. Liga,goal,69,Bentley Bahn,560943,True,,3,0
+4544441,2024,3. Liga,goal,85,Anton Heinz,939163,True,,4,1
+4544441,2024,3. Liga,goal,75,Florian Krüger,988082,False,Kai Brünker,3,1
+4544441,2024,3. Liga,goal,90,Kasim Rabihic,631149,False,Philip Fahrner,4,2
+4544411,2024,3. Liga,goal,62,Boris Tashchy,273185,True,,1,1
+4544411,2024,3. Liga,goal,84,Marvin Stefaniak,458615,True,,2,2
+4544411,2024,3. Liga,goal,10,Besar Halimi,466681,False,,0,1
+4544411,2024,3. Liga,goal,75,Luca-Milan Zander,536440,False,Niklas Kreuzer,1,2
+4544411,2024,3. Liga,goal,90,Dominic Baumann,560386,False,Luca-Milan Zander,2,3
+4544406,2024,3. Liga,goal,55,Alexander Rossipal,791614,True,,1,3
+4544406,2024,3. Liga,goal,9,Erik Engelhardt,862686,False,Jonas Hofmann,0,1
+4544406,2024,3. Liga,goal,19,Timmy Thiele,208235,False,Dominik Pelivan,0,2
+4544406,2024,3. Liga,goal,50,Lucas Copado,1276194,False,,0,3
+4544409,2024,3. Liga,goal,48,Yari Otto,747764,True,,1,1
+4544409,2024,3. Liga,goal,77,Lars Lokotsch,865973,True,Patrick Kammerbauer,2,1
+4544409,2024,3. Liga,goal,14,Julian Guttau,931614,False,Dickson Abiama,0,1
+4544409,2024,3. Liga,goal,90,Soichiro Kozuki,941494,False,Tim Danhof,2,2
+4544410,2024,3. Liga,goal,62,Kennedy Okpala,1455252,True,Felix Lohkemper,1,0
+4544414,2024,3. Liga,goal,5,Pascal Testroet,141119,True,David Kopacz,1,0
+4544414,2024,3. Liga,goal,22,Benjamin Kanuric,1185207,True,Elias Decker,2,1
+4544414,2024,3. Liga,goal,15,Fatih Kaya,938537,False,Nick Bätzner,1,1
+4544414,2024,3. Liga,goal,65,Fatih Kaya,938537,False,Moritz Flotho,2,2
+4544414,2024,3. Liga,goal,74,Emanuel Taffertshofer,658462,False,Nick Bätzner,2,3
+4544407,2024,3. Liga,goal,49,Manuel Stiefler,208218,True,Markus Schwabl,1,1
+4544407,2024,3. Liga,goal,42,Sam Schreck,747765,False,,0,1
+4544407,2024,3. Liga,goal,51,Marius Wörl,1385154,False,Mael Corboz,1,2
+4544408,2024,3. Liga,goal,15,Kelsey Meisel,1624084,True,Ramien Safi,1,0
+4544408,2024,3. Liga,goal,50,Kelsey Meisel,1624084,True,Julian Eitschberger,2,0
+4544408,2024,3. Liga,goal,85,Ahmet Metin Arslan,566241,True,,3,0
+4544408,2024,3. Liga,goal,87,Lars Kehl,1281097,False,,3,1
+4544404,2024,3. Liga,goal,61,Lex-Tyger Lobinger,979511,True,Simon Handle,1,0
+4544404,2024,3. Liga,goal,74,Said El Mala,1613676,True,,2,0
+4544420,2024,3. Liga,goal,52,Thore Jacobsen,658797,True,,1,1
+4544420,2024,3. Liga,goal,2,Sean Seitz,1311927,False,Kilian Jakob,0,1
+4544421,2024,3. Liga,goal,57,Noah-Joel Sarenren-Bazee,692973,True,Louis Oppie,1,0
+4544419,2024,3. Liga,goal,61,Mika Baur,1329169,True,Lukas Boeder,1,0
+4544419,2024,3. Liga,goal,66,Jakob Lemmer,1097375,True,Niklas Hauptmann,2,0
+4544419,2024,3. Liga,goal,68,Claudio Kammerknecht,1188661,True,Jonas Oehmichen,3,0
+4544417,2024,3. Liga,goal,36,Felix Keidel,1366338,True,,1,1
+4544417,2024,3. Liga,goal,26,Ryan Malone,659081,False,Lukas Fröde,0,1
+4544417,2024,3. Liga,goal,66,Sebastian Grønning,759096,False,Marcel Costly,1,2
+4544417,2024,3. Liga,goal,90,Yannick Deichmann,641188,False,Benjamin Kanuric,1,3
+4544417,2024,3. Liga,goal,90,Deniz Zeitler,1580112,False,Pascal Testroet,1,4
+4544415,2024,3. Liga,goal,62,Noah Engelbreth,1573559,True,Mustafa Abdullatif,1,0
+4544415,2024,3. Liga,goal,75,Alexander Rossipal,791614,True,,2,1
+4544415,2024,3. Liga,goal,64,Christian Kinsombi,956863,False,Benno Dietze,1,1
+4544416,2024,3. Liga,goal,24,Julian Stark,1140914,False,,0,1
+4544416,2024,3. Liga,goal,44,Dominik Steczyk,949666,False,Berkan Taz,0,2
+4544416,2024,3. Liga,goal,58,Berkan Taz,872402,False,,0,3
+4544413,2024,3. Liga,goal,67,Kai Brünker,748861,True,,1,1
+4544413,2024,3. Liga,goal,86,Patrick Schmidt,519246,True,Florian Krüger,2,1
+4544413,2024,3. Liga,goal,35,Julian Hettwer,1206523,False,Patrick Göbel,0,1
+4544422,2024,3. Liga,goal,17,Florian Engelhardt,1330855,False,,0,1
+4544422,2024,3. Liga,goal,19,Sidny Lopes Cabral,1441786,False,Florian Engelhardt,0,2
+4544422,2024,3. Liga,goal,34,Said El Mala,1613676,False,Enrique Lofolomo,0,3
+4544422,2024,3. Liga,goal,49,Enrique Lofolomo,1334818,False,Malek El Mala,0,4
+4544403,2024,3. Liga,goal,4,Justin Diehl,1434478,True,,1,0
+4544403,2024,3. Liga,goal,18,Torben Müsel,864436,False,,1,1
+4544418,2024,3. Liga,goal,61,Fatih Kaya,938537,True,Thijmen Goppel,1,1
+4544418,2024,3. Liga,goal,67,Fatih Kaya,938537,True,Nikolas Agrafiotis,2,1
+4544418,2024,3. Liga,goal,51,Niklas Castelle,1330880,False,Anton Heinz,0,1
+4846642,2025,3. Liga,goal,6,Jose-Enrique Rios Alonso,1001334,True,,1,0
+4846642,2025,3. Liga,goal,68,Florian Niederlechner,276760,False,Sean Dulic,1,1
+4846644,2025,3. Liga,goal,14,Tolcay Cigerci,555654,True,Henry Rorig,1,0
+4846644,2025,3. Liga,goal,22,Tolcay Cigerci,555654,True,Leon Guwara,2,0
+4846644,2025,3. Liga,goal,57,Erik Engelhardt,862686,True,Justin Butler,3,1
+4846644,2025,3. Liga,goal,26,Tim Civeja,1214053,False,Lasse Wilhelm,2,1
+4846644,2025,3. Liga,goal,61,Florian Pick,620154,False,,3,2
+4846644,2025,3. Liga,goal,90,Tim Campulka,846291,False,,3,3
+4846647,2025,3. Liga,goal,35,Max Besuschkow,659093,True,,1,0
+4846647,2025,3. Liga,goal,90,Noel Eichinger,1385841,False,Fabian Ziegler,1,1
+4846648,2025,3. Liga,goal,33,Felix Lohkemper,416121,True,Tim Sechelmann,1,1
+4846648,2025,3. Liga,goal,58,Felix Lohkemper,416121,True,Arianit Ferati,2,2
+4846648,2025,3. Liga,goal,13,Berkan Taz,872402,False,Alessio Besio,0,1
+4846648,2025,3. Liga,goal,52,Berkan Taz,872402,False,Timur Gayret,1,2
+4846645,2025,3. Liga,goal,51,Patrick Sussek,840926,True,Steffen Meuer,1,0
+4846645,2025,3. Liga,goal,74,Maximilian Herwerth,1663160,True,,2,1
+4846645,2025,3. Liga,goal,65,Dominik Nothnagel,458813,False,Nicolas Sessa,1,1
+4846650,2025,3. Liga,goal,62,Lex-Tyger Lobinger,979511,True,,1,0
+4846650,2025,3. Liga,goal,72,Simon Handle,289486,True,David Otto,2,0
+4846651,2025,3. Liga,goal,32,Ryan Johansson,950831,True,,1,0
+4846651,2025,3. Liga,goal,46,Fatih Kaya,938537,True,Lukas Schleimer,2,0
+4846651,2025,3. Liga,goal,90,Nikolas Agrafiotis,1180316,True,Ole Wohlers,3,1
+4846651,2025,3. Liga,goal,84,Orestis Kiomourtzoglou,657848,False,,2,1
+4846657,2025,3. Liga,goal,90,Tim Campulka,846291,False,Ted Tattermusch,0,1
+4846657,2025,3. Liga,goal,90,Can Moustfa,1663143,False,Romario Hajrulla,0,2
+4846654,2025,3. Liga,goal,11,Kevin Volland,212893,True,Tunay Deniz,1,0
+4846654,2025,3. Liga,goal,41,Florian Niederlechner,276760,True,,2,0
+4846654,2025,3. Liga,goal,52,Sigurd Haugen,631761,True,Florian Niederlechner,3,0
+4846654,2025,3. Liga,goal,75,Patrick Kammerbauer,775691,False,Kevin Schumacher,3,1
+4846652,2025,3. Liga,goal,43,Lukas Scepanik,833523,True,Kwasi Okyere Wriedt,1,2
+4846652,2025,3. Liga,goal,64,Gianluca Gaudino,566785,True,,2,3
+4846652,2025,3. Liga,goal,5,Kelven Frees,1695875,False,Luka Djuric,0,1
+4846652,2025,3. Liga,goal,14,Paul Hennrich,1688937,False,Luka Djuric,0,2
+4846652,2025,3. Liga,goal,57,Deniz Zeitler,1580112,False,Luca Erlein,1,3
+4846652,2025,3. Liga,goal,90,Tiago Poller,1789418,False,Luca Erlein,2,4
+4846656,2025,3. Liga,goal,7,Kai Brünker,748861,True,Tim Civeja,1,0
+4846656,2025,3. Liga,goal,39,Kai Brünker,748861,True,Calogero Rizzuto,2,0
+4846656,2025,3. Liga,goal,90,David Otto,906921,False,,2,1
+4846659,2025,3. Liga,goal,90,Lorenzo Paldino,970598,True,Julius Duker,1,1
+4846659,2025,3. Liga,goal,89,Tobias Kraulich,770567,False,Kaito Mizuta,0,1
+4846660,2025,3. Liga,goal,44,Max Scholze,1413926,True,Niklas Kölle,1,0
+4846661,2025,3. Liga,goal,34,Fynn Otto,1288516,True,Berkan Taz,1,2
+4846661,2025,3. Liga,goal,75,Berkan Taz,872402,True,Timur Gayret,2,2
+4846661,2025,3. Liga,goal,1,Lukas Schleimer,971582,False,Moritz Flotho,0,1
+4846661,2025,3. Liga,goal,18,Moritz Flotho,1294751,False,Niklas May,0,2
+4846655,2025,3. Liga,goal,8,Patrick Sussek,840926,False,Steffen Meuer,0,1
+4846655,2025,3. Liga,goal,67,Patrick Sussek,840926,False,Alexander Hahn,0,4
+4846655,2025,3. Liga,goal,23,Jan-Simon Symalla,1623772,False,Christian Viet,0,2
+4846655,2025,3. Liga,goal,63,Thilo Töpken,1085964,False,Patrick Sussek,0,3
+4846653,2025,3. Liga,goal,78,Marco Schuster,554531,True,Viktor Bergh,1,0
+4846658,2025,3. Liga,goal,27,Mohamed Sankoh,1116945,True,Christopher Olivier,1,0
+4846658,2025,3. Liga,goal,30,Efe Korkut,1698682,True,Mohamed Sankoh,2,0
+4846658,2025,3. Liga,goal,47,Mads Borchers,1255795,False,Linus Rosenlöcher,2,1
+4846671,2025,3. Liga,goal,24,Jordy Gillekens,866148,True,Tarik Gözüsirin,1,0
+4846671,2025,3. Liga,goal,74,Fatih Kaya,938537,True,,2,3
+4846671,2025,3. Liga,goal,87,Nikolas Agrafiotis,1180316,True,Fatih Kaya,3,3
+4846671,2025,3. Liga,goal,55,Jose-Enrique Rios Alonso,1001334,False,,1,1
+4846671,2025,3. Liga,goal,63,Kaito Mizuta,1072117,False,Ramien Safi,1,2
+4846671,2025,3. Liga,goal,71,Ahmet Metin Arslan,566241,False,,1,3
+4846671,2025,3. Liga,goal,90,Torben Müsel,864436,False,Kaito Mizuta,3,4
+4846662,2025,3. Liga,goal,90,Patrick Hobsch,636477,False,,0,1
+4846662,2025,3. Liga,goal,90,David Philipp,1052911,False,Kevin Volland,0,2
+4846665,2025,3. Liga,goal,8,Luka Djuric,1586401,True,Arian Llugiqi,1,0
+4846665,2025,3. Liga,goal,17,Luka Djuric,1586401,True,,2,0
+4846665,2025,3. Liga,goal,39,Paul Hennrich,1688937,True,Ruben Reisig,3,0
+4846665,2025,3. Liga,goal,52,Deniz Zeitler,1580112,True,Luca Erlein,4,0
+4846665,2025,3. Liga,goal,70,Tolcay Cigerci,555654,False,,4,1
+4846668,2025,3. Liga,goal,45,Phil Beckhoff,1185570,True,,1,0
+4846668,2025,3. Liga,goal,63,Noel Eichinger,1385841,True,,2,0
+4846668,2025,3. Liga,goal,74,Lucas Hermes,1083802,True,Benedikt Bauer,3,0
+4846670,2025,3. Liga,goal,78,Bjarke Jacobsen,391679,True,Frederik Christensen,1,0
+4846670,2025,3. Liga,goal,84,Frederik Christensen,1183634,True,Lars Kehl,2,0
+4846669,2025,3. Liga,goal,5,Mohamed Sankoh,1116945,True,,1,1
+4846669,2025,3. Liga,goal,3,Alessio Besio,1250259,False,Oualid Mhamdi,0,1
+4846664,2025,3. Liga,goal,23,Alexander Hahn,276786,True,Christian Viet,1,0
+4846664,2025,3. Liga,goal,90,Thilo Töpken,1085964,True,Jan-Simon Symalla,2,1
+4846664,2025,3. Liga,goal,75,Elias Löder,951778,False,Paul-Philipp Besong,1,1
+4846666,2025,3. Liga,goal,57,Dennis Kaygin,1512703,True,Lukas Fröde,1,0
+4846666,2025,3. Liga,goal,59,Nico Neidhart,335404,False,Franz Pfanne,1,1
+4846663,2025,3. Liga,goal,66,Luan Simnica,1530794,True,Pascal Fallmann,1,1
+4846663,2025,3. Liga,goal,85,Eric Uhlmann,1382721,True,Pascal Fallmann,2,1
+4846663,2025,3. Liga,goal,6,John Posselt,1396332,False,Besfort Kolgeci,0,1
+4846667,2025,3. Liga,goal,29,Adama Diakhaby,783618,True,,1,0
+4846667,2025,3. Liga,goal,43,Kennedy Okpala,1455252,True,,2,0
+4846681,2025,3. Liga,goal,40,Tim Kloss,1517121,True,,1,0
+4846674,2025,3. Liga,goal,90,Sigurd Haugen,631761,True,Patrick Hobsch,1,1
+4846674,2025,3. Liga,goal,25,Mirza Catovic,1700267,False,Leny Meyer,0,1
+4846672,2025,3. Liga,goal,35,Tolcay Cigerci,555654,True,,1,0
+4846672,2025,3. Liga,goal,61,Fredrik Carlsen,1246508,False,,1,1
+4846676,2025,3. Liga,goal,33,Kai Brünker,748861,True,Florian Pick,1,0
+4846676,2025,3. Liga,goal,34,Florian Pick,620154,True,Rodney Elongo-Yombo,2,0
+4846676,2025,3. Liga,goal,86,Florian Pick,620154,True,Rodney Elongo-Yombo,3,1
+4846676,2025,3. Liga,goal,89,Rodney Elongo-Yombo,1282946,True,Florian Pick,4,1
+4846676,2025,3. Liga,goal,77,Julian Günther-Schmidt,571545,False,Eric Uhlmann,2,1
+4846680,2025,3. Liga,goal,20,Berkan Taz,872402,True,Oualid Mhamdi,1,0
+4846680,2025,3. Liga,goal,77,Timur Gayret,978381,True,Berkan Taz,2,0
+4846680,2025,3. Liga,goal,81,Jan-Simon Symalla,1623772,False,,2,1
+4846680,2025,3. Liga,goal,84,Thilo Töpken,1085964,False,Jesse Edem Tugbenyo,2,2
+4846680,2025,3. Liga,goal,90,Conor Noss,1099298,False,Thilo Töpken,2,3
+4846678,2025,3. Liga,goal,32,Robin Meißner,964599,False,,0,1
+4846678,2025,3. Liga,goal,61,Bjarke Jacobsen,391679,False,Frederik Christensen,0,2
+4846673,2025,3. Liga,goal,13,Ayoube Amaimouni-Echghouyab,1680173,False,Kelven Frees,0,1
+4846679,2025,3. Liga,goal,17,Elias Löder,951778,True,,1,1
+4846679,2025,3. Liga,goal,2,Felix Lohkemper,416121,False,,0,1
+4846679,2025,3. Liga,goal,33,Kennedy Okpala,1455252,False,Felix Lohkemper,1,2
+4846677,2025,3. Liga,goal,90,Nikolas Agrafiotis,1180316,False,,0,1
+4846675,2025,3. Liga,goal,63,Kaito Mizuta,1072117,True,Ahmet Metin Arslan,1,3
+4846675,2025,3. Liga,goal,90,Jaka Cuber Potocnik,1633419,True,,2,3
+4846675,2025,3. Liga,goal,17,Lars Gindorf,1263675,False,,0,1
+4846675,2025,3. Liga,goal,27,Lars Gindorf,1263675,False,,0,2
+4846675,2025,3. Liga,goal,61,Lars Gindorf,1263675,False,,0,3
+4846689,2025,3. Liga,goal,71,Noel Eichinger,1385841,True,,1,1
+4846689,2025,3. Liga,goal,35,Tom Moustier,1356804,False,Lucas Brumme,0,1
+4846689,2025,3. Liga,goal,75,Kaito Mizuta,1072117,False,Ramien Safi,1,2
+4846689,2025,3. Liga,goal,90,Kelsey Meisel,1624084,False,Nils Kaiser,1,3
+4846683,2025,3. Liga,goal,20,Leonhard Münst,1250794,False,David Otto,0,1
+4846683,2025,3. Liga,goal,44,Tim Kloss,1517121,False,,0,2
+4846683,2025,3. Liga,goal,86,Benjamin Zank,1531528,False,Meiko Sponsel,0,3
+4846685,2025,3. Liga,goal,15,Ayoube Amaimouni-Echghouyab,1680173,True,Deniz Zeitler,1,0
+4846685,2025,3. Liga,goal,56,Paul Hennrich,1688937,True,,2,1
+4846685,2025,3. Liga,goal,44,Oualid Mhamdi,1352636,False,,1,1
+4846685,2025,3. Liga,goal,81,Oualid Mhamdi,1352636,False,Alessio Besio,2,3
+4846685,2025,3. Liga,goal,80,Jonas Arweiler,795376,False,Alessio Besio,2,2
+4846685,2025,3. Liga,goal,90,Dominik Steczyk,949666,False,Timur Gayret,2,4
+4846686,2025,3. Liga,goal,35,Yann Sturm,1520061,True,Marcel Costly,1,1
+4846686,2025,3. Liga,goal,38,Yannick Deichmann,641188,True,Marcel Costly,2,1
+4846686,2025,3. Liga,goal,3,Elias Decker,1552963,False,,0,1
+4846686,2025,3. Liga,goal,55,Manuel Wintzheimer,767794,False,Johannes Geis,2,2
+4846686,2025,3. Liga,goal,87,Kristian Böhnlein,638096,False,,2,3
+4846684,2025,3. Liga,goal,28,Christian Viet,848670,True,Jan-Simon Symalla,1,0
+4846684,2025,3. Liga,goal,30,Can Coskun,988143,True,Tim Heike,2,0
+4846684,2025,3. Liga,goal,72,Conor Noss,1099298,True,Jan-Simon Symalla,3,1
+4846684,2025,3. Liga,goal,50,Nikolas Agrafiotis,1180316,False,Niklas May,2,1
+4846690,2025,3. Liga,goal,9,Noah Darvich,1479921,True,Nicolas Sessa,1,1
+4846690,2025,3. Liga,goal,4,Elijah Krahn,1317322,False,Rodney Elongo-Yombo,0,1
+4846690,2025,3. Liga,goal,12,Florian Pick,620154,False,Kasim Rabihic,1,2
+4846690,2025,3. Liga,goal,90,Calogero Rizzuto,659055,False,Tim Civeja,1,3
+4846682,2025,3. Liga,goal,72,Gianluca Gaudino,566785,True,,1,3
+4846682,2025,3. Liga,goal,43,Dominik Martinovic,782365,False,Andre Becker,0,1
+4846682,2025,3. Liga,goal,45,Andre Becker,738061,False,Dominik Martinovic,0,2
+4846682,2025,3. Liga,goal,49,Leon Dajaku,942374,False,Andre Becker,0,3
+4846687,2025,3. Liga,goal,7,Axel Borgmann,488297,False,Henry Rorig,0,1
+4846687,2025,3. Liga,goal,44,Jannis Boziaris,1400168,False,,0,2
+4846687,2025,3. Liga,goal,75,Justin Butler,1162510,False,Lukas Michelbrink,0,3
+4846688,2025,3. Liga,goal,39,Kevin Volland,212893,True,,1,0
+4846688,2025,3. Liga,goal,45,Sigurd Haugen,631761,True,Florian Niederlechner,2,0
+4846688,2025,3. Liga,goal,90,Patrick Hobsch,636477,True,,3,2
+4846688,2025,3. Liga,goal,58,Florian Niederlechner,276760,False,,2,1
+4846688,2025,3. Liga,goal,88,John Posselt,1396332,False,Robin Müller,2,2
+4846697,2025,3. Liga,goal,15,Rasim Bulic,1080482,False,,0,1
+4846697,2025,3. Liga,goal,61,Tobias Fleckstein,951925,False,Joshua Bitter,0,2
+4846697,2025,3. Liga,goal,75,Can Coskun,988143,False,Conor Noss,0,3
+4846692,2025,3. Liga,goal,5,Florian Pick,620154,True,Joel Bichsel,1,0
+4846692,2025,3. Liga,goal,69,Florian Pick,620154,True,Tim Civeja,2,1
+4846692,2025,3. Liga,goal,87,Patrick Schmidt,519246,True,Tim Civeja,3,1
+4846692,2025,3. Liga,goal,55,Marcel Seegert,623633,False,Leon Dajaku,1,1
+4846699,2025,3. Liga,goal,60,Berkan Taz,872402,True,,1,0
+4846699,2025,3. Liga,goal,89,Julian Stark,1140914,True,,2,1
+4846699,2025,3. Liga,goal,70,Lars Gindorf,1263675,False,Kwasi Okyere Wriedt,1,1
+4846700,2025,3. Liga,goal,28,Tim Kloss,1517121,True,,1,0
+4846700,2025,3. Liga,goal,90,Lex-Tyger Lobinger,979511,True,,2,1
+4846700,2025,3. Liga,goal,70,Ayoube Amaimouni-Echghouyab,1680173,False,Ben Opoku,1,1
+4846701,2025,3. Liga,goal,70,Tarik Gözüsirin,1188856,True,Lukas Schleimer,1,0
+4846701,2025,3. Liga,goal,84,Moritz Flotho,1294751,True,Lukas Schleimer,2,0
+4846693,2025,3. Liga,goal,2,Moritz Hannemann,978378,True,Tolcay Cigerci,1,0
+4846693,2025,3. Liga,goal,67,Tolcay Cigerci,555654,True,,2,1
+4846693,2025,3. Liga,goal,15,Julian Guttau,931614,False,Marvin Stefaniak,1,1
+4846694,2025,3. Liga,goal,31,Benno Dietze,1382739,True,Maximilian Krauss,1,0
+4846694,2025,3. Liga,goal,34,Maximilian Krauss,753799,True,Benno Dietze,2,0
+4846694,2025,3. Liga,goal,89,Sean Dulic,1663128,False,David Philipp,2,1
+4846696,2025,3. Liga,goal,68,Tom Moustier,1356804,True,,1,1
+4846696,2025,3. Liga,goal,66,Lars Kehl,1281097,False,,0,1
+4846698,2025,3. Liga,goal,15,Besfort Kolgeci,855128,True,,1,0
+4846698,2025,3. Liga,goal,19,Johann Berger,885332,True,Nassim Boujellab,2,0
+4846698,2025,3. Liga,goal,40,Max Besuschkow,659093,False,,2,1
+4846698,2025,3. Liga,goal,45,Fredrik Carlsen,1246508,False,,2,2
+4846698,2025,3. Liga,goal,53,Marcel Costly,556540,False,Yannick Deichmann,2,3
+4846698,2025,3. Liga,goal,82,Marcel Costly,556540,False,Julian Kügel,2,5
+4846698,2025,3. Liga,goal,63,Yann Sturm,1520061,False,,2,4
+4846698,2025,3. Liga,goal,87,Yann Sturm,1520061,False,Max Besuschkow,2,6
+4846695,2025,3. Liga,goal,90,Julian Lueers,1689724,False,Alexander Groiss,0,1
+4846706,2025,3. Liga,goal,22,Kai Brünker,748861,True,Rodney Elongo-Yombo,1,0
+4846706,2025,3. Liga,goal,30,Kai Brünker,748861,True,Calogero Rizzuto,2,0
+4846706,2025,3. Liga,goal,52,Lauris Bausenwein,1666101,False,,2,1
+4846702,2025,3. Liga,goal,38,Niklas Castelle,1330880,True,Marius Wegmann,1,0
+4846702,2025,3. Liga,goal,83,Emmanuel Elekwa,1680068,True,Lars Gindorf,2,2
+4846702,2025,3. Liga,goal,90,Lars Gindorf,1263675,True,Mika Schroers,3,2
+4846702,2025,3. Liga,goal,55,Kennedy Okpala,1455252,False,Julian Rieckmann,1,1
+4846702,2025,3. Liga,goal,56,Masca,1431263,False,Sascha Voelcke,1,2
+4846711,2025,3. Liga,goal,49,Bjarke Jacobsen,391679,True,Patrick Kammerbauer,1,0
+4846711,2025,3. Liga,goal,63,Lars Kehl,1281097,True,,2,0
+4846711,2025,3. Liga,goal,90,Ismail Badjie,1663016,True,Bernd Riesselman,3,1
+4846711,2025,3. Liga,goal,70,Mika Clausen,1474178,False,Pascal Fallmann,2,1
+4846705,2025,3. Liga,goal,5,Ramien Safi,1388062,True,,1,0
+4846705,2025,3. Liga,goal,22,Ahmet Metin Arslan,566241,True,,2,0
+4846705,2025,3. Liga,goal,30,Lucas Brumme,959283,True,,3,0
+4846707,2025,3. Liga,goal,22,Nicolas Sessa,693728,True,,1,0
+4846707,2025,3. Liga,goal,52,Jordan Majchrzak,1429906,True,Nicolas Sessa,2,0
+4846707,2025,3. Liga,goal,79,David Otto,906921,False,,2,1
+4846704,2025,3. Liga,goal,72,David Philipp,1052911,True,Tunay Deniz,1,4
+4846704,2025,3. Liga,goal,39,Ayoube Amaimouni-Echghouyab,1680173,False,Arian Llugiqi,0,1
+4846704,2025,3. Liga,goal,45,Ayoube Amaimouni-Echghouyab,1680173,False,,0,2
+4846704,2025,3. Liga,goal,56,Paul Hennrich,1688937,False,Luka Djuric,0,3
+4846704,2025,3. Liga,goal,69,Paul Hennrich,1688937,False,Diren Dagdeviren,0,4
+4846704,2025,3. Liga,goal,80,Ben Opoku,1583680,False,Valentin Lässig,1,5
+4846708,2025,3. Liga,goal,90,John Posselt,1396332,True,,1,1
+4846708,2025,3. Liga,goal,90,Conor Noss,1099298,False,,0,1
+4846710,2025,3. Liga,goal,79,Chilohem Onuoha,1659369,True,,1,1
+4846710,2025,3. Liga,goal,81,Chilohem Onuoha,1659369,True,,2,1
+4846710,2025,3. Liga,goal,58,Erik Engelhardt,862686,False,,0,1
+4846709,2025,3. Liga,goal,49,Elias Löder,951778,True,Paul-Philipp Besong,1,1
+4846709,2025,3. Liga,goal,63,Andre Becker,738061,True,Niklas Kölle,2,1
+4846709,2025,3. Liga,goal,4,Benedikt Bauer,1520556,False,,0,1
+4846713,2025,3. Liga,goal,4,Erik Engelhardt,862686,True,Jannis Boziaris,1,0
+4846713,2025,3. Liga,goal,54,Erik Engelhardt,862686,True,Tolcay Cigerci,3,0
+4846713,2025,3. Liga,goal,40,Henry Rorig,1106859,True,,2,0
+4846713,2025,3. Liga,goal,67,Tim Campulka,846291,True,Tolcay Cigerci,4,0
+4846713,2025,3. Liga,goal,90,Moritz Hannemann,978378,True,Tolcay Cigerci,5,0
+4846712,2025,3. Liga,goal,20,Marvin Stefaniak,458615,True,Eric Uhlmann,1,0
+4846712,2025,3. Liga,goal,83,Eric Uhlmann,1382721,True,Erik Majetschak,2,0
+4846719,2025,3. Liga,goal,21,Jakob Tranziska,1399589,True,,1,0
+4846719,2025,3. Liga,goal,33,Lukas Scepanik,833523,False,,1,1
+4846719,2025,3. Liga,goal,48,Mika Schroers,1174731,False,Niklas Castelle,1,2
+4846719,2025,3. Liga,goal,64,Mika Schroers,1174731,False,Felix Meyer,1,3
+4846719,2025,3. Liga,goal,67,Mika Schroers,1174731,False,Lars Gindorf,1,4
+4846719,2025,3. Liga,goal,82,Lars Gindorf,1263675,False,,1,5
+4846715,2025,3. Liga,goal,48,Kenan Fatkic,862954,True,Cedric Harenbrock,1,1
+4846715,2025,3. Liga,goal,5,Emre Aytun,1321597,False,John Posselt,0,1
+4846714,2025,3. Liga,goal,76,Patrick Sussek,840926,True,Jan-Simon Symalla,1,1
+4846714,2025,3. Liga,goal,83,Frederik Christensen,1138001,True,,2,1
+4846714,2025,3. Liga,goal,72,Davide-Danilo Sekulovic,1696007,False,Marcel Costly,0,1
+4846721,2025,3. Liga,goal,27,Lukas Schleimer,971582,True,,1,0
+4846721,2025,3. Liga,goal,66,Florian Pick,620154,False,,1,1
+4846717,2025,3. Liga,goal,11,Felix Lohkemper,416121,True,Lukas Klünter,1,0
+4846717,2025,3. Liga,goal,25,Jose-Enrique Rios Alonso,1001334,True,,2,0
+4846717,2025,3. Liga,goal,76,Nicklas Shipnoski,764470,True,Adama Diakhaby,3,0
+4846717,2025,3. Liga,goal,80,Nicklas Shipnoski,764470,True,Kennedy Okpala,4,0
+4846717,2025,3. Liga,goal,89,Nicklas Shipnoski,764470,True,,5,1
+4846717,2025,3. Liga,goal,90,Terrence Boyd,293560,True,Djayson Mendes,6,1
+4846717,2025,3. Liga,goal,85,Marek Janssen,1052910,False,Jose-Enrique Rios Alonso,4,1
+4846718,2025,3. Liga,goal,81,Robin Ziegele,788495,True,Sebastian Stolze,1,0
+4846718,2025,3. Liga,goal,90,Phil Beckhoff,1185570,True,Noel Eichinger,2,0
+4846716,2025,3. Liga,goal,18,Deniz Zeitler,1580112,True,Paul Hennrich,1,0
+4846716,2025,3. Liga,goal,28,Dennis Chessa,554961,False,,1,1
+4846722,2025,3. Liga,goal,34,Pascal Fallmann,1185204,False,Julian Guttau,0,1
+4846723,2025,3. Liga,goal,42,Ryan Don Naderi,1404384,True,Cedric Harenbrock,1,1
+4846723,2025,3. Liga,goal,36,Moritz Hannemann,978378,False,Lukas Michelbrink,0,1
+4846723,2025,3. Liga,goal,71,Erik Engelhardt,862686,False,Can Moustfa,1,2
+4846723,2025,3. Liga,goal,90,Can Moustfa,1663143,False,Axel Borgmann,1,3
+4846728,2025,3. Liga,goal,60,John Posselt,1396332,True,,1,2
+4846728,2025,3. Liga,goal,73,Semi Belkahia,887941,True,,2,2
+4846728,2025,3. Liga,goal,11,Masca,1431263,False,Sascha Voelcke,0,1
+4846728,2025,3. Liga,goal,58,Felix Lohkemper,416121,False,Sascha Voelcke,0,2
+4846728,2025,3. Liga,goal,74,Nicklas Shipnoski,764470,False,,2,3
+4846724,2025,3. Liga,goal,41,Max Christiansen,531014,True,Marvin Rittmüller,1,2
+4846724,2025,3. Liga,goal,52,Patrick Hobsch,636477,True,Manuel Pfeifer,2,2
+4846724,2025,3. Liga,goal,4,Lex-Tyger Lobinger,979511,False,,0,1
+4846724,2025,3. Liga,goal,8,David Otto,906921,False,Tim Kloss,0,2
+4846731,2025,3. Liga,goal,27,Fridolin Wagner,673292,True,Bjarke Jacobsen,1,0
+4846731,2025,3. Liga,goal,64,Patrick Kammerbauer,775691,True,Lars Kehl,2,0
+4846725,2025,3. Liga,goal,18,Jannik Mause,884408,True,,1,0
+4846725,2025,3. Liga,goal,30,Jannik Mause,884408,True,,2,0
+4846725,2025,3. Liga,goal,59,Kaito Mizuta,1072117,True,Ramien Safi,3,0
+4846725,2025,3. Liga,goal,85,Valentin Lässig,1457957,False,Ayoube Amaimouni-Echghouyab,3,1
+4846730,2025,3. Liga,goal,11,Dominik Steczyk,949666,True,,1,0
+4846730,2025,3. Liga,goal,88,Jonas Arweiler,795376,True,Yari Otto,2,1
+4846730,2025,3. Liga,goal,66,Gustav Christensen,1345042,False,Marcel Costly,1,1
+4846730,2025,3. Liga,goal,90,Simon Lorenz,776085,False,Fredrik Carlsen,2,2
+4846729,2025,3. Liga,goal,14,Dennis Chessa,554961,True,Elias Löder,1,0
+4846729,2025,3. Liga,goal,20,Niklas Kölle,820641,True,Leon Dajaku,2,1
+4846729,2025,3. Liga,goal,77,Niklas Kölle,820641,True,Andre Becker,4,1
+4846729,2025,3. Liga,goal,72,Elias Löder,951778,True,Marcel Seegert,3,1
+4846729,2025,3. Liga,goal,84,Lucas Röser,637939,True,Dennis Dressel,5,1
+4846729,2025,3. Liga,goal,17,Joshua Endres,682381,False,Luca Trslic,1,1
+4846734,2025,3. Liga,goal,32,Patrick Sussek,840926,True,Joshua Bitter,1,0
+4846734,2025,3. Liga,goal,71,Tobias Fleckstein,951925,True,,2,1
+4846734,2025,3. Liga,goal,45,Cedric Harenbrock,860598,False,,1,1
+4846734,2025,3. Liga,goal,76,Cedric Harenbrock,860598,False,,2,2
+4846739,2025,3. Liga,goal,38,Jakob Tranziska,1399589,True,Lauris Bausenwein,1,0
+4846739,2025,3. Liga,goal,78,Chilohem Onuoha,1659369,False,Julian Stark,1,1
+4846739,2025,3. Liga,goal,88,Julian Stark,1140914,False,Jonas Arweiler,1,2
+4846736,2025,3. Liga,goal,22,Marcel Costly,556540,True,Yannick Deichmann,1,0
+4846736,2025,3. Liga,goal,87,Marcel Costly,556540,True,Max Besuschkow,3,1
+4846736,2025,3. Liga,goal,52,Simon Lorenz,776085,True,,2,1
+4846736,2025,3. Liga,goal,90,Davide-Danilo Sekulovic,1696007,True,,4,1
+4846736,2025,3. Liga,goal,32,Leon Dajaku,942374,False,,1,1
+4846738,2025,3. Liga,goal,90,Adrian Fein,767797,True,Leopold Wurm,1,1
+4846738,2025,3. Liga,goal,18,Kai Brünker,748861,False,Kasim Rabihic,0,1
+4846740,2025,3. Liga,goal,14,Soichiro Kozuki,941494,True,,1,0
+4846740,2025,3. Liga,goal,40,David Otto,906921,True,Lucas Wolf,2,0
+4846740,2025,3. Liga,goal,51,Leonhard Münst,1250794,True,David Otto,3,0
+4846740,2025,3. Liga,goal,88,Lex-Tyger Lobinger,979511,True,Lucas Wolf,4,1
+4846740,2025,3. Liga,goal,79,Julian Rufidis,1185142,False,,3,1
+4846737,2025,3. Liga,goal,16,Felix Lohkemper,416121,True,Nicklas Shipnoski,1,0
+4846737,2025,3. Liga,goal,49,Robin Meißner,964599,False,Lars Kehl,1,1
+4846737,2025,3. Liga,goal,59,Robin Meißner,964599,False,,1,2
+4846737,2025,3. Liga,goal,64,Frederik Christensen,1183634,False,Fridolin Wagner,1,3
+4846737,2025,3. Liga,goal,87,Ismail Badjie,1663016,False,Bernd Riesselman,1,4
+4846733,2025,3. Liga,goal,22,Tolcay Cigerci,555654,True,King Manu,1,1
+4846733,2025,3. Liga,goal,72,Tolcay Cigerci,555654,True,,3,2
+4846733,2025,3. Liga,goal,67,Erik Engelhardt,862686,True,Henry Rorig,2,2
+4846733,2025,3. Liga,goal,14,Lars Gindorf,1263675,False,,0,1
+4846733,2025,3. Liga,goal,26,Mika Schroers,1174731,False,Felix Meyer,1,2
+4846732,2025,3. Liga,goal,16,Julian Guttau,931614,True,Mika Clausen,1,0
+4846732,2025,3. Liga,goal,42,Julian Guttau,931614,True,Marvin Stefaniak,2,1
+4846732,2025,3. Liga,goal,40,Tobias Kraulich,770567,False,Tom Moustier,1,1
+4846732,2025,3. Liga,goal,65,Marvin Obuz,1050816,False,Kaito Mizuta,2,2
+4846741,2025,3. Liga,goal,87,Moritz Flotho,1294751,True,,1,0
+4846735,2025,3. Liga,goal,36,Luka Djuric,1586401,True,,1,1
+4846735,2025,3. Liga,goal,19,Dan-Axel Zagadou,852347,False,Justin Diehl,0,1
+4846735,2025,3. Liga,goal,49,Jordan Majchrzak,1429906,False,Lauri Penna,1,2
+4846735,2025,3. Liga,goal,67,Mohamed Sankoh,1116945,False,,1,3
+4846743,2025,3. Liga,goal,20,Niklas Hoffmann,687869,False,Arianit Ferati,0,1
+4846743,2025,3. Liga,goal,67,Arianit Ferati,660897,False,,0,2
+4846742,2025,3. Liga,goal,90,Dennis Kaygin,1512703,False,Yann Sturm,0,1
+4846744,2025,3. Liga,goal,12,Ryan Don Naderi,1404384,True,,1,0
+4846744,2025,3. Liga,goal,56,Jan Mejdr,688712,True,Kenan Fatkic,2,0
+4846744,2025,3. Liga,goal,65,Jakob Lewald,1045830,True,,3,0
+4846751,2025,3. Liga,goal,6,Ayoube Amaimouni-Echghouyab,1680173,False,Luka Djuric,0,1
+4846751,2025,3. Liga,goal,76,Deniz Zeitler,1580112,False,Ayoube Amaimouni-Echghouyab,0,2
+4846751,2025,3. Liga,goal,81,Ben Opoku,1583680,False,,0,3
+4846751,2025,3. Liga,goal,85,Paul Hennrich,1688937,False,Florian Bahr,0,4
+4846747,2025,3. Liga,goal,15,Kasim Rabihic,631149,True,Florian Pick,1,1
+4846747,2025,3. Liga,goal,58,Kaan Caliskaner,971403,True,,2,3
+4846747,2025,3. Liga,goal,7,Jonas Arweiler,795376,False,Berkan Taz,0,1
+4846747,2025,3. Liga,goal,21,Jonas Arweiler,795376,False,Berkan Taz,1,2
+4846747,2025,3. Liga,goal,54,Berkan Taz,872402,False,Timur Gayret,1,3
+4846747,2025,3. Liga,goal,77,Timur Gayret,978381,False,Berkan Taz,2,4
+4846748,2025,3. Liga,goal,6,Justin Diehl,1434478,True,Maximilian Herwerth,1,0
+4846748,2025,3. Liga,goal,56,Nicolas Sessa,693728,True,,2,0
+4846748,2025,3. Liga,goal,73,Mansour Ouro-Tagba,1469955,True,,3,0
+4846746,2025,3. Liga,goal,40,Ahmet Metin Arslan,566241,True,Lucas Brumme,1,0
+4846750,2025,3. Liga,goal,84,Max Scholze,1413926,True,Max Brandt,1,1
+4846750,2025,3. Liga,goal,67,Tolcay Cigerci,555654,False,,0,1
+4846750,2025,3. Liga,goal,90,Erik Engelhardt,862686,False,Henry Rorig,1,2
+4846745,2025,3. Liga,goal,41,Sigurd Haugen,631761,True,Tunay Deniz,1,0
+4846745,2025,3. Liga,goal,78,Sigurd Haugen,631761,True,,2,1
+4846745,2025,3. Liga,goal,90,Thore Jacobsen,658797,True,,3,1
+4846745,2025,3. Liga,goal,42,Joshua Bitter,763975,False,Jan-Simon Symalla,1,1
+4846749,2025,3. Liga,goal,16,John Posselt,1396332,True,,1,0
+4846749,2025,3. Liga,goal,29,Noel Eichinger,1385841,False,,1,1
+4846749,2025,3. Liga,goal,66,Nicolas Oliveira,1437228,False,Sebastian Stolze,1,2
+4846761,2025,3. Liga,goal,64,Moritz Flotho,1294751,True,Jordy Gillekens,1,2
+4846761,2025,3. Liga,goal,22,Lars Gindorf,1263675,False,,0,1
+4846761,2025,3. Liga,goal,30,Mika Schroers,1174731,False,Bentley Bahn,0,2
+4846752,2025,3. Liga,goal,24,Jannis Boziaris,1400168,True,Tolcay Cigerci,1,0
+4846752,2025,3. Liga,goal,60,Jannis Boziaris,1400168,True,Lukas Michelbrink,3,1
+4846752,2025,3. Liga,goal,34,Erik Engelhardt,862686,True,,2,0
+4846752,2025,3. Liga,goal,90,Tolcay Cigerci,555654,True,Justin Butler,4,2
+4846752,2025,3. Liga,goal,39,Robin Müller,1195447,False,,2,1
+4846752,2025,3. Liga,goal,71,Lorenzo Paldino,970598,False,Marko Ilic,3,2
+4846752,2025,3. Liga,goal,90,Lorenzo Paldino,970598,False,Leon Sommer,4,3
+4846755,2025,3. Liga,goal,24,Dennis Kaygin,1512703,True,Max Besuschkow,1,0
+4846755,2025,3. Liga,goal,86,Yann Sturm,1520061,True,Max Besuschkow,2,1
+4846755,2025,3. Liga,goal,55,Kai Brünker,748861,False,Florian Pick,1,1
+4846757,2025,3. Liga,goal,51,Eric Hottmann,846014,True,Noel Eichinger,1,2
+4846757,2025,3. Liga,goal,90,Eric Hottmann,846014,True,Leo Matzler,3,2
+4846757,2025,3. Liga,goal,57,Nicolas Oliveira,1437228,True,Lucas Hermes,2,2
+4846757,2025,3. Liga,goal,31,Mansour Ouro-Tagba,1469955,False,Christopher Olivier,0,1
+4846757,2025,3. Liga,goal,44,Noah Darvich,1479921,False,,0,2
+4846759,2025,3. Liga,goal,14,Berkan Taz,872402,True,Alessio Besio,1,0
+4846759,2025,3. Liga,goal,34,Alessio Besio,1250259,True,Joshua Eze,2,0
+4846759,2025,3. Liga,goal,61,Timur Gayret,978381,True,Oualid Mhamdi,3,0
+4846759,2025,3. Liga,goal,73,Dennis Waidner,1072484,True,Chilohem Onuoha,4,0
+4846759,2025,3. Liga,goal,77,Fynn Otto,1288516,True,Timur Gayret,5,0
+4846756,2025,3. Liga,goal,25,Samuel Abifade,953179,True,Malte Karbstein,1,1
+4846756,2025,3. Liga,goal,60,Kennedy Okpala,1455252,True,Lukas Klünter,2,1
+4846756,2025,3. Liga,goal,67,Kennedy Okpala,1455252,True,Niklas Hoffmann,3,1
+4846756,2025,3. Liga,goal,10,Max Christiansen,531014,False,Marvin Rittmüller,0,1
+4846758,2025,3. Liga,goal,87,Nico Grimbs,1404487,True,,1,2
+4846758,2025,3. Liga,goal,41,David Kopacz,860597,False,Lars Kehl,0,1
+4846758,2025,3. Liga,goal,78,Robin Meißner,964599,False,David Kopacz,0,2
+4846754,2025,3. Liga,goal,2,Umut Tohumcu,1366006,True,,1,0
+4846754,2025,3. Liga,goal,57,Tristan Zobel,1406447,False,Julian Guttau,1,1
+4846760,2025,3. Liga,goal,36,Lex-Tyger Lobinger,979511,True,,1,2
+4846760,2025,3. Liga,goal,90,Lex-Tyger Lobinger,979511,True,,2,4
+4846760,2025,3. Liga,goal,20,Ryan Don Naderi,1404384,False,Jonas Dirkner,0,1
+4846760,2025,3. Liga,goal,24,Ryan Don Naderi,1404384,False,Cedric Harenbrock,0,2
+4846760,2025,3. Liga,goal,50,Kenan Fatkic,862954,False,,1,3
+4846760,2025,3. Liga,goal,55,Kenan Fatkic,862954,False,,1,4
+4846753,2025,3. Liga,goal,23,Florian Krüger,988082,True,Joshua Bitter,1,0
+4846753,2025,3. Liga,goal,25,Ramien Safi,1388062,False,,1,1
+4846771,2025,3. Liga,goal,54,David Otto,906921,True,,1,1
+4846771,2025,3. Liga,goal,69,Lex-Tyger Lobinger,979511,True,Meiko Sponsel,2,1
+4846771,2025,3. Liga,goal,78,Lex-Tyger Lobinger,979511,True,,3,1
+4846771,2025,3. Liga,goal,16,Yannick Deichmann,641188,False,Frederik Christensen,0,1
+4846766,2025,3. Liga,goal,39,Thore Jacobsen,658797,True,,1,0
+4846766,2025,3. Liga,goal,45,Thore Jacobsen,658797,True,Tunay Deniz,2,0
+4846766,2025,3. Liga,goal,83,King Manu,1559822,True,,3,0
+4846763,2025,3. Liga,goal,45,Erik Majetschak,846008,True,Eric Uhlmann,1,0
+4846763,2025,3. Liga,goal,54,Julian Guttau,931614,True,,2,1
+4846763,2025,3. Liga,goal,86,Jonah Fabisch,1177733,True,,3,3
+4846763,2025,3. Liga,goal,90,Erik Weinhauer,1416621,True,Ricky Bornschein,4,3
+4846763,2025,3. Liga,goal,45,Eric Hottmann,846014,False,Noel Eichinger,1,1
+4846763,2025,3. Liga,goal,60,Sebastian Stolze,357808,False,Benedikt Saller,2,2
+4846763,2025,3. Liga,goal,68,Benedikt Bauer,1520556,False,Phil Beckhoff,2,3
+4846768,2025,3. Liga,goal,45,Fatih Kaya,938537,False,Moritz Flotho,0,1
+4846768,2025,3. Liga,goal,90,Nikolas Agrafiotis,1180316,False,David Suárez,0,2
+4846769,2025,3. Liga,goal,19,Andre Becker,738061,True,Luis Görlich,1,0
+4846769,2025,3. Liga,goal,28,Noah Darvich,1479921,False,,1,1
+4846769,2025,3. Liga,goal,46,Mansour Ouro-Tagba,1469955,False,,1,2
+4846769,2025,3. Liga,goal,54,Mansour Ouro-Tagba,1469955,False,,1,3
+4846764,2025,3. Liga,goal,5,Florian Carstens,884542,True,Marco Schuster,1,0
+4846764,2025,3. Liga,goal,90,Christian Kinsombi,956863,True,,2,2
+4846764,2025,3. Liga,goal,26,Jonas Arweiler,795376,False,Berkan Taz,1,1
+4846764,2025,3. Liga,goal,78,Martin Ens,1532853,False,Timur Gayret,1,2
+4846765,2025,3. Liga,goal,84,Arian Llugiqi,1279553,True,Ben Opoku,1,0
+4846765,2025,3. Liga,goal,90,Ayoube Amaimouni-Echghouyab,1680173,True,,2,0
+4846767,2025,3. Liga,goal,37,Torben Müsel,864436,True,Marvin Obuz,1,0
+4846767,2025,3. Liga,goal,70,Marek Janssen,1052910,True,,2,1
+4846767,2025,3. Liga,goal,44,Johannes Geis,237542,False,,1,1
+4846762,2025,3. Liga,goal,2,Lars Gindorf,1263675,True,Pierre Nadjombe,1,0
+4846762,2025,3. Liga,goal,39,Lars Gindorf,1263675,True,Mika Schroers,2,0
+4846773,2025,3. Liga,goal,20,Conor Noss,1099298,True,Tim Heike,1,0
+4846773,2025,3. Liga,goal,69,Joshua Bitter,763975,True,Christian Viet,2,0
+4846773,2025,3. Liga,goal,85,Terrence Boyd,293560,False,Arianit Ferati,2,1
+4846772,2025,3. Liga,goal,73,Ismail Badjie,1663016,False,Robin Meißner,0,1
+4846777,2025,3. Liga,goal,28,Kristian Böhnlein,638096,True,,1,0
+4846777,2025,3. Liga,goal,44,Joshua Endres,682381,True,Luca Trslic,2,0
+4846777,2025,3. Liga,goal,45,Paul Hennrich,1688937,False,Arian Llugiqi,2,1
+4846774,2025,3. Liga,goal,82,Dennis Kaygin,1512703,True,,1,2
+4846774,2025,3. Liga,goal,51,Jaka Cuber Potocnik,1633419,False,Ahmet Metin Arslan,0,1
+4846774,2025,3. Liga,goal,77,Kaito Mizuta,1072117,False,Torben Müsel,0,2
+4846780,2025,3. Liga,goal,28,Alessio Besio,1250259,True,Oualid Mhamdi,1,0
+4846780,2025,3. Liga,goal,71,Jonas Arweiler,795376,False,,1,1
+4846779,2025,3. Liga,goal,13,Kenan Fatkic,862954,False,,0,1
+4846779,2025,3. Liga,goal,17,Andreas Voglsammer,230907,False,Ryan Don Naderi,0,2
+4846779,2025,3. Liga,goal,29,Ryan Don Naderi,1404384,False,Andreas Voglsammer,0,3
+4846779,2025,3. Liga,goal,44,Ryan Don Naderi,1404384,False,Marco Schuster,0,4
+4846779,2025,3. Liga,goal,81,Emil Holten,562958,False,Nico Neidhart,0,5
+4846776,2025,3. Liga,goal,5,Dominic Baumann,560386,True,Philip Fahrner,1,0
+4846776,2025,3. Liga,goal,68,Leon Sommer,1347936,False,,1,1
+4846778,2025,3. Liga,goal,27,Nicolas Sessa,693728,True,Noah Darvich,1,2
+4846778,2025,3. Liga,goal,21,Lars Gindorf,1263675,False,,0,1
+4846778,2025,3. Liga,goal,90,Lars Gindorf,1263675,False,Marc Richter,1,3
+4846778,2025,3. Liga,goal,24,Mika Schroers,1174731,False,Emmanuel Elekwa,0,2
+4846775,2025,3. Liga,goal,32,Lucas Hermes,1083802,True,Noel Eichinger,1,0
+4846775,2025,3. Liga,goal,75,Leopold Wurm,1529522,True,Lucas Hermes,2,0
+4846775,2025,3. Liga,goal,81,Noel Eichinger,1385841,True,,3,0
+4846775,2025,3. Liga,goal,86,Philipp Müller,1463296,True,Adrian Fein,4,0
+4846781,2025,3. Liga,goal,83,David Otto,906921,False,,0,1
