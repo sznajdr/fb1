@@ -202,3 +202,523 @@ match_id,season,competition,match_name,league_name,match_date,home_team,away_tea
 4863627,2025,Frauen-Bundesliga,"FC Köln-vs-TSG 1899 Hoffenheim_Sun, Nov 9, 2025, 15:00 UTC",Frauen-Bundesliga,2025-11-09T15:00:00.000Z,FC Köln,TSG 1899 Hoffenheim,1,0,True
 4863628,2025,Frauen-Bundesliga,"Werder Bremen-vs-RB Leipzig_Sun, Nov 9, 2025, 17:30 UTC",Frauen-Bundesliga,2025-11-09T17:30:00.000Z,Werder Bremen,RB Leipzig,2,1,True
 4863624,2025,Frauen-Bundesliga,"Freiburg-vs-Bayer Leverkusen_Mon, Nov 10, 2025, 17:00 UTC",Frauen-Bundesliga,2025-11-10T17:00:00.000Z,Freiburg,Bayer Leverkusen,2,1,True
+4544074,2024,3. Liga,"1860 München-vs-Saarbrücken_Fri, Aug 2, 2024, 17:00 UTC",3. Liga,2024-08-02T17:00:00.000Z,1860 München,Saarbrücken,0,1,True
+4544082,2024,3. Liga,"Borussia Dortmund II-vs-Unterhaching_Sat, Aug 3, 2024, 12:00 UTC",3. Liga,2024-08-03T12:00:00.000Z,Borussia Dortmund II,Unterhaching,3,0,True
+4544084,2024,3. Liga,"Erzgebirge Aue-vs-Hannover 96 II_Sat, Aug 3, 2024, 12:00 UTC",3. Liga,2024-08-03T12:00:00.000Z,Erzgebirge Aue,Hannover 96 II,2,1,True
+4544086,2024,3. Liga,"RW Essen-vs-Alemannia Aachen_Sat, Aug 3, 2024, 12:00 UTC",3. Liga,2024-08-03T12:00:00.000Z,RW Essen,Alemannia Aachen,1,2,True
+4544078,2024,3. Liga,"Sandhausen-vs-VfL Osnabrück_Sat, Aug 3, 2024, 12:00 UTC",3. Liga,2024-08-03T12:00:00.000Z,Sandhausen,VfL Osnabrück,1,0,True
+4544081,2024,3. Liga,"SC Verl-vs-Wehen Wiesbaden_Sat, Aug 3, 2024, 12:00 UTC",3. Liga,2024-08-03T12:00:00.000Z,SC Verl,Wehen Wiesbaden,2,2,True
+4544083,2024,3. Liga,"Hansa Rostock-vs-VfB Stuttgart II_Sat, Aug 3, 2024, 14:30 UTC",3. Liga,2024-08-03T14:30:00.000Z,Hansa Rostock,VfB Stuttgart II,1,1,True
+4544085,2024,3. Liga,"Viktoria Köln 1904-vs-Dynamo Dresden_Sun, Aug 4, 2024, 11:30 UTC",3. Liga,2024-08-04T11:30:00.000Z,Viktoria Köln 1904,Dynamo Dresden,1,2,True
+4544079,2024,3. Liga,"Energie Cottbus-vs-Arminia Bielefeld_Sun, Aug 4, 2024, 14:30 UTC",3. Liga,2024-08-04T14:30:00.000Z,Energie Cottbus,Arminia Bielefeld,1,2,True
+4544080,2024,3. Liga,"Ingolstadt-vs-Waldhof Mannheim_Sun, Aug 4, 2024, 17:30 UTC",3. Liga,2024-08-04T17:30:00.000Z,Ingolstadt,Waldhof Mannheim,2,1,True
+4544072,2024,3. Liga,"Dynamo Dresden-vs-Energie Cottbus_Fri, Aug 9, 2024, 17:00 UTC",3. Liga,2024-08-09T17:00:00.000Z,Dynamo Dresden,Energie Cottbus,4,2,True
+4544068,2024,3. Liga,"Alemannia Aachen-vs-SC Verl_Sat, Aug 10, 2024, 12:00 UTC",3. Liga,2024-08-10T12:00:00.000Z,Alemannia Aachen,SC Verl,1,1,True
+4544069,2024,3. Liga,"VfL Osnabrück-vs-Erzgebirge Aue_Sat, Aug 10, 2024, 12:00 UTC",3. Liga,2024-08-10T12:00:00.000Z,VfL Osnabrück,Erzgebirge Aue,0,2,True
+4544077,2024,3. Liga,"Unterhaching-vs-Ingolstadt_Sat, Aug 10, 2024, 12:00 UTC",3. Liga,2024-08-10T12:00:00.000Z,Unterhaching,Ingolstadt,2,1,True
+4544070,2024,3. Liga,"Waldhof Mannheim-vs-Viktoria Köln 1904_Sat, Aug 10, 2024, 12:00 UTC",3. Liga,2024-08-10T12:00:00.000Z,Waldhof Mannheim,Viktoria Köln 1904,1,2,True
+4544073,2024,3. Liga,"Wehen Wiesbaden-vs-Hansa Rostock_Sat, Aug 10, 2024, 12:00 UTC",3. Liga,2024-08-10T12:00:00.000Z,Wehen Wiesbaden,Hansa Rostock,1,0,True
+4544071,2024,3. Liga,"Arminia Bielefeld-vs-Borussia Dortmund II_Sat, Aug 10, 2024, 14:30 UTC",3. Liga,2024-08-10T14:30:00.000Z,Arminia Bielefeld,Borussia Dortmund II,1,0,True
+4544061,2024,3. Liga,"Hannover 96 II-vs-RW Essen_Sun, Aug 11, 2024, 11:30 UTC",3. Liga,2024-08-11T11:30:00.000Z,Hannover 96 II,RW Essen,1,3,True
+4544075,2024,3. Liga,"VfB Stuttgart II-vs-1860 München_Sun, Aug 11, 2024, 14:30 UTC",3. Liga,2024-08-11T14:30:00.000Z,VfB Stuttgart II,1860 München,3,1,True
+4544076,2024,3. Liga,"Saarbrücken-vs-Sandhausen_Sun, Aug 11, 2024, 17:30 UTC",3. Liga,2024-08-11T17:30:00.000Z,Saarbrücken,Sandhausen,0,1,True
+4544067,2024,3. Liga,"Erzgebirge Aue-vs-Dynamo Dresden_Fri, Aug 23, 2024, 17:00 UTC",3. Liga,2024-08-23T17:00:00.000Z,Erzgebirge Aue,Dynamo Dresden,2,0,True
+4544064,2024,3. Liga,"Hansa Rostock-vs-Borussia Dortmund II_Sat, Aug 24, 2024, 12:00 UTC",3. Liga,2024-08-24T12:00:00.000Z,Hansa Rostock,Borussia Dortmund II,1,1,True
+4544065,2024,3. Liga,"VfL Osnabrück-vs-Unterhaching_Sat, Aug 24, 2024, 12:00 UTC",3. Liga,2024-08-24T12:00:00.000Z,VfL Osnabrück,Unterhaching,4,2,True
+4544063,2024,3. Liga,"RW Essen-vs-Arminia Bielefeld_Sat, Aug 24, 2024, 12:00 UTC",3. Liga,2024-08-24T12:00:00.000Z,RW Essen,Arminia Bielefeld,0,0,True
+4544088,2024,3. Liga,"Saarbrücken-vs-Ingolstadt_Sat, Aug 24, 2024, 12:00 UTC",3. Liga,2024-08-24T12:00:00.000Z,Saarbrücken,Ingolstadt,2,3,True
+4544090,2024,3. Liga,"Sandhausen-vs-Hannover 96 II_Sat, Aug 24, 2024, 12:00 UTC",3. Liga,2024-08-24T12:00:00.000Z,Sandhausen,Hannover 96 II,0,1,True
+4544089,2024,3. Liga,"Energie Cottbus-vs-Alemannia Aachen_Sat, Aug 24, 2024, 14:30 UTC",3. Liga,2024-08-24T14:30:00.000Z,Energie Cottbus,Alemannia Aachen,2,1,True
+4544062,2024,3. Liga,"1860 München-vs-Viktoria Köln 1904_Sun, Aug 25, 2024, 11:30 UTC",3. Liga,2024-08-25T11:30:00.000Z,1860 München,Viktoria Köln 1904,1,3,True
+4544087,2024,3. Liga,"SC Verl-vs-Waldhof Mannheim_Sun, Aug 25, 2024, 14:30 UTC",3. Liga,2024-08-25T14:30:00.000Z,SC Verl,Waldhof Mannheim,1,1,True
+4544066,2024,3. Liga,"VfB Stuttgart II-vs-Wehen Wiesbaden_Sun, Aug 25, 2024, 17:30 UTC",3. Liga,2024-08-25T17:30:00.000Z,VfB Stuttgart II,Wehen Wiesbaden,2,2,True
+4544128,2024,3. Liga,"Viktoria Köln 1904-vs-Hansa Rostock_Fri, Aug 30, 2024, 17:00 UTC",3. Liga,2024-08-30T17:00:00.000Z,Viktoria Köln 1904,Hansa Rostock,3,0,True
+4544091,2024,3. Liga,"Alemannia Aachen-vs-Erzgebirge Aue_Sat, Aug 31, 2024, 12:00 UTC",3. Liga,2024-08-31T12:00:00.000Z,Alemannia Aachen,Erzgebirge Aue,1,2,True
+4544097,2024,3. Liga,"Arminia Bielefeld-vs-Sandhausen_Sat, Aug 31, 2024, 12:00 UTC",3. Liga,2024-08-31T12:00:00.000Z,Arminia Bielefeld,Sandhausen,1,1,True
+4544094,2024,3. Liga,"Dynamo Dresden-vs-VfB Stuttgart II_Sat, Aug 31, 2024, 12:00 UTC",3. Liga,2024-08-31T12:00:00.000Z,Dynamo Dresden,VfB Stuttgart II,2,0,True
+4544098,2024,3. Liga,"Ingolstadt-vs-1860 München_Sat, Aug 31, 2024, 12:00 UTC",3. Liga,2024-08-31T12:00:00.000Z,Ingolstadt,1860 München,1,2,True
+4544092,2024,3. Liga,"Waldhof Mannheim-vs-Saarbrücken_Sat, Aug 31, 2024, 12:00 UTC",3. Liga,2024-08-31T12:00:00.000Z,Waldhof Mannheim,Saarbrücken,0,1,True
+4544095,2024,3. Liga,"Borussia Dortmund II-vs-VfL Osnabrück_Sat, Aug 31, 2024, 14:30 UTC",3. Liga,2024-08-31T14:30:00.000Z,Borussia Dortmund II,VfL Osnabrück,1,1,True
+4544093,2024,3. Liga,"Wehen Wiesbaden-vs-Energie Cottbus_Sun, Sep 1, 2024, 11:30 UTC",3. Liga,2024-09-01T11:30:00.000Z,Wehen Wiesbaden,Energie Cottbus,2,1,True
+4544096,2024,3. Liga,"Unterhaching-vs-RW Essen_Sun, Sep 1, 2024, 14:30 UTC",3. Liga,2024-09-01T14:30:00.000Z,Unterhaching,RW Essen,2,0,True
+4544119,2024,3. Liga,"Hannover 96 II-vs-SC Verl_Sun, Sep 1, 2024, 17:30 UTC",3. Liga,2024-09-01T17:30:00.000Z,Hannover 96 II,SC Verl,1,2,True
+4544126,2024,3. Liga,"Sandhausen-vs-Borussia Dortmund II_Fri, Sep 13, 2024, 17:00 UTC",3. Liga,2024-09-13T17:00:00.000Z,Sandhausen,Borussia Dortmund II,3,1,True
+4544124,2024,3. Liga,"1860 München-vs-Dynamo Dresden_Sat, Sep 14, 2024, 12:00 UTC",3. Liga,2024-09-14T12:00:00.000Z,1860 München,Dynamo Dresden,2,3,True
+4544120,2024,3. Liga,"Hansa Rostock-vs-Waldhof Mannheim_Sat, Sep 14, 2024, 12:00 UTC",3. Liga,2024-09-14T12:00:00.000Z,Hansa Rostock,Waldhof Mannheim,1,1,True
+4544123,2024,3. Liga,"RW Essen-vs-Wehen Wiesbaden_Sat, Sep 14, 2024, 12:00 UTC",3. Liga,2024-09-14T12:00:00.000Z,RW Essen,Wehen Wiesbaden,0,3,True
+4544127,2024,3. Liga,"Saarbrücken-vs-Unterhaching_Sat, Sep 14, 2024, 12:00 UTC",3. Liga,2024-09-14T12:00:00.000Z,Saarbrücken,Unterhaching,1,1,True
+4544121,2024,3. Liga,"VfB Stuttgart II-vs-Ingolstadt_Sat, Sep 14, 2024, 12:00 UTC",3. Liga,2024-09-14T12:00:00.000Z,VfB Stuttgart II,Ingolstadt,3,2,True
+4544129,2024,3. Liga,"VfL Osnabrück-vs-Hannover 96 II_Sat, Sep 14, 2024, 14:30 UTC",3. Liga,2024-09-14T14:30:00.000Z,VfL Osnabrück,Hannover 96 II,1,1,True
+4544118,2024,3. Liga,"Erzgebirge Aue-vs-Arminia Bielefeld_Sun, Sep 15, 2024, 11:30 UTC",3. Liga,2024-09-15T11:30:00.000Z,Erzgebirge Aue,Arminia Bielefeld,1,3,True
+4544125,2024,3. Liga,"SC Verl-vs-Energie Cottbus_Sun, Sep 15, 2024, 14:30 UTC",3. Liga,2024-09-15T14:30:00.000Z,SC Verl,Energie Cottbus,0,3,True
+4544122,2024,3. Liga,"Alemannia Aachen-vs-Viktoria Köln 1904_Sun, Sep 15, 2024, 17:30 UTC",3. Liga,2024-09-15T17:30:00.000Z,Alemannia Aachen,Viktoria Köln 1904,1,0,True
+4544135,2024,3. Liga,"Unterhaching-vs-Erzgebirge Aue_Fri, Sep 20, 2024, 17:00 UTC",3. Liga,2024-09-20T17:00:00.000Z,Unterhaching,Erzgebirge Aue,2,2,True
+4544101,2024,3. Liga,"Dynamo Dresden-vs-Hansa Rostock_Sat, Sep 21, 2024, 12:00 UTC",3. Liga,2024-09-21T12:00:00.000Z,Dynamo Dresden,Hansa Rostock,1,1,True
+4544132,2024,3. Liga,"Energie Cottbus-vs-VfB Stuttgart II_Sat, Sep 21, 2024, 12:00 UTC",3. Liga,2024-09-21T12:00:00.000Z,Energie Cottbus,VfB Stuttgart II,4,0,True
+4544131,2024,3. Liga,"Ingolstadt-vs-RW Essen_Sat, Sep 21, 2024, 12:00 UTC",3. Liga,2024-09-21T12:00:00.000Z,Ingolstadt,RW Essen,2,2,True
+4544130,2024,3. Liga,"Waldhof Mannheim-vs-VfL Osnabrück_Sat, Sep 21, 2024, 12:00 UTC",3. Liga,2024-09-21T12:00:00.000Z,Waldhof Mannheim,VfL Osnabrück,3,2,True
+4544133,2024,3. Liga,"Wehen Wiesbaden-vs-Sandhausen_Sat, Sep 21, 2024, 12:00 UTC",3. Liga,2024-09-21T12:00:00.000Z,Wehen Wiesbaden,Sandhausen,1,3,True
+4544136,2024,3. Liga,"Arminia Bielefeld-vs-1860 München_Sat, Sep 21, 2024, 14:30 UTC",3. Liga,2024-09-21T14:30:00.000Z,Arminia Bielefeld,1860 München,0,1,True
+4544100,2024,3. Liga,"Hannover 96 II-vs-Saarbrücken_Sun, Sep 22, 2024, 11:30 UTC",3. Liga,2024-09-22T11:30:00.000Z,Hannover 96 II,Saarbrücken,1,3,True
+4544109,2024,3. Liga,"Viktoria Köln 1904-vs-SC Verl_Sun, Sep 22, 2024, 14:30 UTC",3. Liga,2024-09-22T14:30:00.000Z,Viktoria Köln 1904,SC Verl,2,1,True
+4544134,2024,3. Liga,"Borussia Dortmund II-vs-Alemannia Aachen_Sun, Sep 22, 2024, 17:30 UTC",3. Liga,2024-09-22T17:30:00.000Z,Borussia Dortmund II,Alemannia Aachen,3,0,True
+4544106,2024,3. Liga,"Erzgebirge Aue-vs-Wehen Wiesbaden_Tue, Sep 24, 2024, 17:00 UTC",3. Liga,2024-09-24T17:00:00.000Z,Erzgebirge Aue,Wehen Wiesbaden,2,1,True
+4544102,2024,3. Liga,"Hansa Rostock-vs-Unterhaching_Tue, Sep 24, 2024, 17:00 UTC",3. Liga,2024-09-24T17:00:00.000Z,Hansa Rostock,Unterhaching,4,1,True
+4544111,2024,3. Liga,"VfL Osnabrück-vs-Energie Cottbus_Tue, Sep 24, 2024, 17:00 UTC",3. Liga,2024-09-24T17:00:00.000Z,VfL Osnabrück,Energie Cottbus,2,5,True
+4544099,2024,3. Liga,"Sandhausen-vs-Ingolstadt_Tue, Sep 24, 2024, 17:00 UTC",3. Liga,2024-09-24T17:00:00.000Z,Sandhausen,Ingolstadt,4,3,True
+4544105,2024,3. Liga,"VfB Stuttgart II-vs-Arminia Bielefeld_Tue, Sep 24, 2024, 17:00 UTC",3. Liga,2024-09-24T17:00:00.000Z,VfB Stuttgart II,Arminia Bielefeld,3,0,True
+4544103,2024,3. Liga,"1860 München-vs-Hannover 96 II_Wed, Sep 25, 2024, 17:00 UTC",3. Liga,2024-09-25T17:00:00.000Z,1860 München,Hannover 96 II,1,0,True
+4544107,2024,3. Liga,"Alemannia Aachen-vs-Waldhof Mannheim_Wed, Sep 25, 2024, 17:00 UTC",3. Liga,2024-09-25T17:00:00.000Z,Alemannia Aachen,Waldhof Mannheim,0,0,True
+4544108,2024,3. Liga,"RW Essen-vs-Borussia Dortmund II_Wed, Sep 25, 2024, 17:00 UTC",3. Liga,2024-09-25T17:00:00.000Z,RW Essen,Borussia Dortmund II,3,1,True
+4544110,2024,3. Liga,"Saarbrücken-vs-Viktoria Köln 1904_Wed, Sep 25, 2024, 17:00 UTC",3. Liga,2024-09-25T17:00:00.000Z,Saarbrücken,Viktoria Köln 1904,1,0,True
+4544104,2024,3. Liga,"SC Verl-vs-Dynamo Dresden_Wed, Sep 25, 2024, 17:00 UTC",3. Liga,2024-09-25T17:00:00.000Z,SC Verl,Dynamo Dresden,0,3,True
+4544117,2024,3. Liga,"Unterhaching-vs-Sandhausen_Fri, Sep 27, 2024, 17:00 UTC",3. Liga,2024-09-27T17:00:00.000Z,Unterhaching,Sandhausen,0,0,True
+4544116,2024,3. Liga,"Borussia Dortmund II-vs-1860 München_Sat, Sep 28, 2024, 12:00 UTC",3. Liga,2024-09-28T12:00:00.000Z,Borussia Dortmund II,1860 München,1,2,True
+4544158,2024,3. Liga,"Hannover 96 II-vs-VfB Stuttgart II_Sat, Sep 28, 2024, 12:00 UTC",3. Liga,2024-09-28T12:00:00.000Z,Hannover 96 II,VfB Stuttgart II,3,1,True
+4544113,2024,3. Liga,"Viktoria Köln 1904-vs-Erzgebirge Aue_Sat, Sep 28, 2024, 12:00 UTC",3. Liga,2024-09-28T12:00:00.000Z,Viktoria Köln 1904,Erzgebirge Aue,2,0,True
+4544112,2024,3. Liga,"Waldhof Mannheim-vs-RW Essen_Sat, Sep 28, 2024, 12:00 UTC",3. Liga,2024-09-28T12:00:00.000Z,Waldhof Mannheim,RW Essen,1,0,True
+4544115,2024,3. Liga,"Wehen Wiesbaden-vs-VfL Osnabrück_Sat, Sep 28, 2024, 12:00 UTC",3. Liga,2024-09-28T12:00:00.000Z,Wehen Wiesbaden,VfL Osnabrück,2,1,True
+4544114,2024,3. Liga,"Energie Cottbus-vs-Saarbrücken_Sat, Sep 28, 2024, 14:30 UTC",3. Liga,2024-09-28T14:30:00.000Z,Energie Cottbus,Saarbrücken,4,1,True
+4544157,2024,3. Liga,"Ingolstadt-vs-Hansa Rostock_Sun, Sep 29, 2024, 11:30 UTC",3. Liga,2024-09-29T11:30:00.000Z,Ingolstadt,Hansa Rostock,2,1,True
+4544159,2024,3. Liga,"Dynamo Dresden-vs-Alemannia Aachen_Sun, Sep 29, 2024, 14:30 UTC",3. Liga,2024-09-29T14:30:00.000Z,Dynamo Dresden,Alemannia Aachen,0,0,True
+4544166,2024,3. Liga,"Arminia Bielefeld-vs-SC Verl_Sun, Sep 29, 2024, 17:30 UTC",3. Liga,2024-09-29T17:30:00.000Z,Arminia Bielefeld,SC Verl,2,1,True
+4544163,2024,3. Liga,"Borussia Dortmund II-vs-Dynamo Dresden_Fri, Oct 4, 2024, 17:00 UTC",3. Liga,2024-10-04T17:00:00.000Z,Borussia Dortmund II,Dynamo Dresden,2,1,True
+4544165,2024,3. Liga,"1860 München-vs-Wehen Wiesbaden_Sat, Oct 5, 2024, 12:00 UTC",3. Liga,2024-10-05T12:00:00.000Z,1860 München,Wehen Wiesbaden,2,3,True
+4544160,2024,3. Liga,"Erzgebirge Aue-vs-Hansa Rostock_Sat, Oct 5, 2024, 12:00 UTC",3. Liga,2024-10-05T12:00:00.000Z,Erzgebirge Aue,Hansa Rostock,1,2,True
+4544168,2024,3. Liga,"RW Essen-vs-Viktoria Köln 1904_Sat, Oct 5, 2024, 12:00 UTC",3. Liga,2024-10-05T12:00:00.000Z,RW Essen,Viktoria Köln 1904,2,1,True
+4544156,2024,3. Liga,"Sandhausen-vs-Waldhof Mannheim_Sat, Oct 5, 2024, 12:00 UTC",3. Liga,2024-10-05T12:00:00.000Z,Sandhausen,Waldhof Mannheim,2,1,True
+4544169,2024,3. Liga,"SC Verl-vs-Unterhaching_Sat, Oct 5, 2024, 12:00 UTC",3. Liga,2024-10-05T12:00:00.000Z,SC Verl,Unterhaching,2,0,True
+4544164,2024,3. Liga,"Alemannia Aachen-vs-Ingolstadt_Sat, Oct 5, 2024, 14:30 UTC",3. Liga,2024-10-05T14:30:00.000Z,Alemannia Aachen,Ingolstadt,1,1,True
+4544167,2024,3. Liga,"Hannover 96 II-vs-Energie Cottbus_Sun, Oct 6, 2024, 11:30 UTC",3. Liga,2024-10-06T11:30:00.000Z,Hannover 96 II,Energie Cottbus,0,0,True
+4544161,2024,3. Liga,"Saarbrücken-vs-Arminia Bielefeld_Sun, Oct 6, 2024, 14:30 UTC",3. Liga,2024-10-06T14:30:00.000Z,Saarbrücken,Arminia Bielefeld,0,0,True
+4544162,2024,3. Liga,"VfL Osnabrück-vs-VfB Stuttgart II_Sun, Oct 6, 2024, 17:30 UTC",3. Liga,2024-10-06T17:30:00.000Z,VfL Osnabrück,VfB Stuttgart II,1,0,True
+4544139,2024,3. Liga,"Waldhof Mannheim-vs-Erzgebirge Aue_Fri, Oct 18, 2024, 17:00 UTC",3. Liga,2024-10-18T17:00:00.000Z,Waldhof Mannheim,Erzgebirge Aue,3,0,True
+4544141,2024,3. Liga,"Energie Cottbus-vs-Sandhausen_Sat, Oct 19, 2024, 12:00 UTC",3. Liga,2024-10-19T12:00:00.000Z,Energie Cottbus,Sandhausen,1,1,True
+4544170,2024,3. Liga,"Hansa Rostock-vs-Alemannia Aachen_Sat, Oct 19, 2024, 12:00 UTC",3. Liga,2024-10-19T12:00:00.000Z,Hansa Rostock,Alemannia Aachen,1,2,True
+4544171,2024,3. Liga,"Ingolstadt-vs-SC Verl_Sat, Oct 19, 2024, 12:00 UTC",3. Liga,2024-10-19T12:00:00.000Z,Ingolstadt,SC Verl,1,1,True
+4544172,2024,3. Liga,"Viktoria Köln 1904-vs-Borussia Dortmund II_Sat, Oct 19, 2024, 12:00 UTC",3. Liga,2024-10-19T12:00:00.000Z,Viktoria Köln 1904,Borussia Dortmund II,3,5,True
+4544173,2024,3. Liga,"Wehen Wiesbaden-vs-Hannover 96 II_Sat, Oct 19, 2024, 12:00 UTC",3. Liga,2024-10-19T12:00:00.000Z,Wehen Wiesbaden,Hannover 96 II,1,5,True
+4544140,2024,3. Liga,"VfB Stuttgart II-vs-Saarbrücken_Sat, Oct 19, 2024, 14:30 UTC",3. Liga,2024-10-19T14:30:00.000Z,VfB Stuttgart II,Saarbrücken,2,3,True
+4544174,2024,3. Liga,"Dynamo Dresden-vs-RW Essen_Sun, Oct 20, 2024, 11:30 UTC",3. Liga,2024-10-20T11:30:00.000Z,Dynamo Dresden,RW Essen,3,3,True
+4544138,2024,3. Liga,"Arminia Bielefeld-vs-VfL Osnabrück_Sun, Oct 20, 2024, 14:30 UTC",3. Liga,2024-10-20T14:30:00.000Z,Arminia Bielefeld,VfL Osnabrück,3,1,True
+4544147,2024,3. Liga,"Unterhaching-vs-1860 München_Sun, Oct 20, 2024, 17:30 UTC",3. Liga,2024-10-20T17:30:00.000Z,Unterhaching,1860 München,2,2,True
+4544150,2024,3. Liga,"Borussia Dortmund II-vs-Waldhof Mannheim_Tue, Oct 22, 2024, 17:00 UTC",3. Liga,2024-10-22T17:00:00.000Z,Borussia Dortmund II,Waldhof Mannheim,0,1,True
+4544149,2024,3. Liga,"Erzgebirge Aue-vs-Energie Cottbus_Tue, Oct 22, 2024, 17:00 UTC",3. Liga,2024-10-22T17:00:00.000Z,Erzgebirge Aue,Energie Cottbus,1,3,True
+4544137,2024,3. Liga,"Saarbrücken-vs-Hansa Rostock_Tue, Oct 22, 2024, 17:00 UTC",3. Liga,2024-10-22T17:00:00.000Z,Saarbrücken,Hansa Rostock,2,0,True
+4544151,2024,3. Liga,"Sandhausen-vs-VfB Stuttgart II_Tue, Oct 22, 2024, 17:00 UTC",3. Liga,2024-10-22T17:00:00.000Z,Sandhausen,VfB Stuttgart II,1,1,True
+4544148,2024,3. Liga,"Viktoria Köln 1904-vs-Ingolstadt_Tue, Oct 22, 2024, 17:00 UTC",3. Liga,2024-10-22T17:00:00.000Z,Viktoria Köln 1904,Ingolstadt,4,4,True
+4544146,2024,3. Liga,"1860 München-vs-VfL Osnabrück_Wed, Oct 23, 2024, 17:00 UTC",3. Liga,2024-10-23T17:00:00.000Z,1860 München,VfL Osnabrück,2,2,True
+4544144,2024,3. Liga,"Alemannia Aachen-vs-Unterhaching_Wed, Oct 23, 2024, 17:00 UTC",3. Liga,2024-10-23T17:00:00.000Z,Alemannia Aachen,Unterhaching,3,1,True
+4544142,2024,3. Liga,"Hannover 96 II-vs-Arminia Bielefeld_Wed, Oct 23, 2024, 17:00 UTC",3. Liga,2024-10-23T17:00:00.000Z,Hannover 96 II,Arminia Bielefeld,1,4,True
+4544145,2024,3. Liga,"RW Essen-vs-SC Verl_Wed, Oct 23, 2024, 17:00 UTC",3. Liga,2024-10-23T17:00:00.000Z,RW Essen,SC Verl,1,3,True
+4544143,2024,3. Liga,"Wehen Wiesbaden-vs-Dynamo Dresden_Wed, Oct 23, 2024, 17:00 UTC",3. Liga,2024-10-23T17:00:00.000Z,Wehen Wiesbaden,Dynamo Dresden,1,0,True
+4544178,2024,3. Liga,"Ingolstadt-vs-Borussia Dortmund II_Fri, Oct 25, 2024, 17:00 UTC",3. Liga,2024-10-25T17:00:00.000Z,Ingolstadt,Borussia Dortmund II,5,3,True
+4544152,2024,3. Liga,"Arminia Bielefeld-vs-Alemannia Aachen_Sat, Oct 26, 2024, 12:00 UTC",3. Liga,2024-10-26T12:00:00.000Z,Arminia Bielefeld,Alemannia Aachen,1,1,True
+4544180,2024,3. Liga,"Dynamo Dresden-vs-Hannover 96 II_Sat, Oct 26, 2024, 12:00 UTC",3. Liga,2024-10-26T12:00:00.000Z,Dynamo Dresden,Hannover 96 II,2,1,True
+4544175,2024,3. Liga,"Hansa Rostock-vs-RW Essen_Sat, Oct 26, 2024, 12:00 UTC",3. Liga,2024-10-26T12:00:00.000Z,Hansa Rostock,RW Essen,4,0,True
+4544155,2024,3. Liga,"VfL Osnabrück-vs-Saarbrücken_Sat, Oct 26, 2024, 12:00 UTC",3. Liga,2024-10-26T12:00:00.000Z,VfL Osnabrück,Saarbrücken,1,1,True
+4544176,2024,3. Liga,"Unterhaching-vs-Viktoria Köln 1904_Sat, Oct 26, 2024, 12:00 UTC",3. Liga,2024-10-26T12:00:00.000Z,Unterhaching,Viktoria Köln 1904,1,1,True
+4544177,2024,3. Liga,"SC Verl-vs-Sandhausen_Sat, Oct 26, 2024, 14:30 UTC",3. Liga,2024-10-26T14:30:00.000Z,SC Verl,Sandhausen,1,1,True
+4544179,2024,3. Liga,"Energie Cottbus-vs-1860 München_Sun, Oct 27, 2024, 12:30 UTC",3. Liga,2024-10-27T12:30:00.000Z,Energie Cottbus,1860 München,5,1,True
+4544154,2024,3. Liga,"VfB Stuttgart II-vs-Erzgebirge Aue_Sun, Oct 27, 2024, 15:30 UTC",3. Liga,2024-10-27T15:30:00.000Z,VfB Stuttgart II,Erzgebirge Aue,0,1,True
+4544153,2024,3. Liga,"Waldhof Mannheim-vs-Wehen Wiesbaden_Sun, Oct 27, 2024, 18:30 UTC",3. Liga,2024-10-27T18:30:00.000Z,Waldhof Mannheim,Wehen Wiesbaden,2,2,True
+4544188,2024,3. Liga,"Viktoria Köln 1904-vs-VfB Stuttgart II_Fri, Nov 1, 2024, 18:00 UTC",3. Liga,2024-11-01T18:00:00.000Z,Viktoria Köln 1904,VfB Stuttgart II,2,0,True
+4544181,2024,3. Liga,"Erzgebirge Aue-vs-Saarbrücken_Sat, Nov 2, 2024, 13:00 UTC",3. Liga,2024-11-02T13:00:00.000Z,Erzgebirge Aue,Saarbrücken,1,1,True
+4544201,2024,3. Liga,"Hansa Rostock-vs-VfL Osnabrück_Sat, Nov 2, 2024, 13:00 UTC",3. Liga,2024-11-02T13:00:00.000Z,Hansa Rostock,VfL Osnabrück,2,0,True
+4544182,2024,3. Liga,"Ingolstadt-vs-Dynamo Dresden_Sat, Nov 2, 2024, 13:00 UTC",3. Liga,2024-11-02T13:00:00.000Z,Ingolstadt,Dynamo Dresden,1,1,True
+4544186,2024,3. Liga,"RW Essen-vs-Energie Cottbus_Sat, Nov 2, 2024, 13:00 UTC",3. Liga,2024-11-02T13:00:00.000Z,RW Essen,Energie Cottbus,4,0,True
+4544187,2024,3. Liga,"Sandhausen-vs-1860 München_Sat, Nov 2, 2024, 13:00 UTC",3. Liga,2024-11-02T13:00:00.000Z,Sandhausen,1860 München,0,3,True
+4544212,2024,3. Liga,"Alemannia Aachen-vs-Hannover 96 II_Sat, Nov 2, 2024, 15:30 UTC",3. Liga,2024-11-02T15:30:00.000Z,Alemannia Aachen,Hannover 96 II,0,0,True
+4544185,2024,3. Liga,"Unterhaching-vs-Waldhof Mannheim_Sun, Nov 3, 2024, 12:30 UTC",3. Liga,2024-11-03T12:30:00.000Z,Unterhaching,Waldhof Mannheim,1,1,True
+4544183,2024,3. Liga,"Wehen Wiesbaden-vs-Arminia Bielefeld_Sun, Nov 3, 2024, 15:30 UTC",3. Liga,2024-11-03T15:30:00.000Z,Wehen Wiesbaden,Arminia Bielefeld,0,0,True
+4544184,2024,3. Liga,"Borussia Dortmund II-vs-SC Verl_Sun, Nov 3, 2024, 18:30 UTC",3. Liga,2024-11-03T18:30:00.000Z,Borussia Dortmund II,SC Verl,3,1,True
+4544202,2024,3. Liga,"SC Verl-vs-Hansa Rostock_Fri, Nov 8, 2024, 18:00 UTC",3. Liga,2024-11-08T18:00:00.000Z,SC Verl,Hansa Rostock,1,0,True
+4544203,2024,3. Liga,"1860 München-vs-Waldhof Mannheim_Sat, Nov 9, 2024, 13:00 UTC",3. Liga,2024-11-09T13:00:00.000Z,1860 München,Waldhof Mannheim,3,0,True
+4544207,2024,3. Liga,"Energie Cottbus-vs-Borussia Dortmund II_Sat, Nov 9, 2024, 13:00 UTC",3. Liga,2024-11-09T13:00:00.000Z,Energie Cottbus,Borussia Dortmund II,3,3,True
+4544208,2024,3. Liga,"VfL Osnabrück-vs-Dynamo Dresden_Sat, Nov 9, 2024, 13:00 UTC",3. Liga,2024-11-09T13:00:00.000Z,VfL Osnabrück,Dynamo Dresden,0,3,True
+4544204,2024,3. Liga,"Saarbrücken-vs-Wehen Wiesbaden_Sat, Nov 9, 2024, 13:00 UTC",3. Liga,2024-11-09T13:00:00.000Z,Saarbrücken,Wehen Wiesbaden,3,1,True
+4544205,2024,3. Liga,"Sandhausen-vs-Alemannia Aachen_Sat, Nov 9, 2024, 13:00 UTC",3. Liga,2024-11-09T13:00:00.000Z,Sandhausen,Alemannia Aachen,4,0,True
+4544206,2024,3. Liga,"Arminia Bielefeld-vs-Viktoria Köln 1904_Sat, Nov 9, 2024, 15:30 UTC",3. Liga,2024-11-09T15:30:00.000Z,Arminia Bielefeld,Viktoria Köln 1904,2,0,True
+4544209,2024,3. Liga,"Hannover 96 II-vs-Ingolstadt_Sun, Nov 10, 2024, 12:30 UTC",3. Liga,2024-11-10T12:30:00.000Z,Hannover 96 II,Ingolstadt,0,4,True
+4544211,2024,3. Liga,"Erzgebirge Aue-vs-RW Essen_Sun, Nov 10, 2024, 15:30 UTC",3. Liga,2024-11-10T15:30:00.000Z,Erzgebirge Aue,RW Essen,2,1,True
+4544210,2024,3. Liga,"VfB Stuttgart II-vs-Unterhaching_Sun, Nov 10, 2024, 18:30 UTC",3. Liga,2024-11-10T18:30:00.000Z,VfB Stuttgart II,Unterhaching,3,2,True
+4544199,2024,3. Liga,"Viktoria Köln 1904-vs-Energie Cottbus_Fri, Nov 22, 2024, 18:00 UTC",3. Liga,2024-11-22T18:00:00.000Z,Viktoria Köln 1904,Energie Cottbus,0,1,True
+4544193,2024,3. Liga,"Alemannia Aachen-vs-1860 München_Sat, Nov 23, 2024, 13:00 UTC",3. Liga,2024-11-23T13:00:00.000Z,Alemannia Aachen,1860 München,1,1,True
+4544198,2024,3. Liga,"Dynamo Dresden-vs-Saarbrücken_Sat, Nov 23, 2024, 13:00 UTC",3. Liga,2024-11-23T13:00:00.000Z,Dynamo Dresden,Saarbrücken,1,1,True
+4544189,2024,3. Liga,"Hansa Rostock-vs-Arminia Bielefeld_Sat, Nov 23, 2024, 13:00 UTC",3. Liga,2024-11-23T13:00:00.000Z,Hansa Rostock,Arminia Bielefeld,2,1,True
+4544195,2024,3. Liga,"RW Essen-vs-Sandhausen_Sat, Nov 23, 2024, 13:00 UTC",3. Liga,2024-11-23T13:00:00.000Z,RW Essen,Sandhausen,1,1,True
+4544192,2024,3. Liga,"SC Verl-vs-VfB Stuttgart II_Sat, Nov 23, 2024, 13:00 UTC",3. Liga,2024-11-23T13:00:00.000Z,SC Verl,VfB Stuttgart II,2,2,True
+4544196,2024,3. Liga,"Unterhaching-vs-Wehen Wiesbaden_Sat, Nov 23, 2024, 15:30 UTC",3. Liga,2024-11-23T15:30:00.000Z,Unterhaching,Wehen Wiesbaden,1,1,True
+4544194,2024,3. Liga,"Waldhof Mannheim-vs-Hannover 96 II_Sun, Nov 24, 2024, 12:30 UTC",3. Liga,2024-11-24T12:30:00.000Z,Waldhof Mannheim,Hannover 96 II,2,1,True
+4544200,2024,3. Liga,"Ingolstadt-vs-VfL Osnabrück_Sun, Nov 24, 2024, 15:30 UTC",3. Liga,2024-11-24T15:30:00.000Z,Ingolstadt,VfL Osnabrück,4,2,True
+4544197,2024,3. Liga,"Borussia Dortmund II-vs-Erzgebirge Aue_Sun, Nov 24, 2024, 18:30 UTC",3. Liga,2024-11-24T18:30:00.000Z,Borussia Dortmund II,Erzgebirge Aue,3,1,True
+4544234,2024,3. Liga,"Arminia Bielefeld-vs-Ingolstadt_Fri, Nov 29, 2024, 18:00 UTC",3. Liga,2024-11-29T18:00:00.000Z,Arminia Bielefeld,Ingolstadt,1,0,True
+4544238,2024,3. Liga,"1860 München-vs-Hansa Rostock_Sat, Nov 30, 2024, 13:00 UTC",3. Liga,2024-11-30T13:00:00.000Z,1860 München,Hansa Rostock,1,2,True
+4544232,2024,3. Liga,"Energie Cottbus-vs-Unterhaching_Sat, Nov 30, 2024, 13:00 UTC",3. Liga,2024-11-30T13:00:00.000Z,Energie Cottbus,Unterhaching,2,0,True
+4544237,2024,3. Liga,"Erzgebirge Aue-vs-SC Verl_Sat, Nov 30, 2024, 13:00 UTC",3. Liga,2024-11-30T13:00:00.000Z,Erzgebirge Aue,SC Verl,2,5,True
+4544236,2024,3. Liga,"Hannover 96 II-vs-Borussia Dortmund II_Sat, Nov 30, 2024, 13:00 UTC",3. Liga,2024-11-30T13:00:00.000Z,Hannover 96 II,Borussia Dortmund II,2,0,True
+4544235,2024,3. Liga,"Sandhausen-vs-Dynamo Dresden_Sat, Nov 30, 2024, 13:00 UTC",3. Liga,2024-11-30T13:00:00.000Z,Sandhausen,Dynamo Dresden,2,4,True
+4544190,2024,3. Liga,"VfB Stuttgart II-vs-Waldhof Mannheim_Sat, Nov 30, 2024, 15:30 UTC",3. Liga,2024-11-30T15:30:00.000Z,VfB Stuttgart II,Waldhof Mannheim,2,0,True
+4544240,2024,3. Liga,"VfL Osnabrück-vs-Alemannia Aachen_Sun, Dec 1, 2024, 12:30 UTC",3. Liga,2024-12-01T12:30:00.000Z,VfL Osnabrück,Alemannia Aachen,1,1,True
+4544191,2024,3. Liga,"Saarbrücken-vs-RW Essen_Sun, Dec 1, 2024, 15:30 UTC",3. Liga,2024-12-01T15:30:00.000Z,Saarbrücken,RW Essen,1,0,True
+4544233,2024,3. Liga,"Wehen Wiesbaden-vs-Viktoria Köln 1904_Sun, Dec 1, 2024, 18:30 UTC",3. Liga,2024-12-01T18:30:00.000Z,Wehen Wiesbaden,Viktoria Köln 1904,3,1,True
+4544248,2024,3. Liga,"SC Verl-vs-Saarbrücken_Fri, Dec 6, 2024, 18:00 UTC",3. Liga,2024-12-06T18:00:00.000Z,SC Verl,Saarbrücken,1,1,True
+4544243,2024,3. Liga,"Borussia Dortmund II-vs-Wehen Wiesbaden_Sat, Dec 7, 2024, 13:00 UTC",3. Liga,2024-12-07T13:00:00.000Z,Borussia Dortmund II,Wehen Wiesbaden,2,2,True
+4544241,2024,3. Liga,"Hansa Rostock-vs-Sandhausen_Sat, Dec 7, 2024, 13:00 UTC",3. Liga,2024-12-07T13:00:00.000Z,Hansa Rostock,Sandhausen,1,0,True
+4544231,2024,3. Liga,"Ingolstadt-vs-Erzgebirge Aue_Sat, Dec 7, 2024, 13:00 UTC",3. Liga,2024-12-07T13:00:00.000Z,Ingolstadt,Erzgebirge Aue,1,0,True
+4544244,2024,3. Liga,"Unterhaching-vs-Hannover 96 II_Sat, Dec 7, 2024, 13:00 UTC",3. Liga,2024-12-07T13:00:00.000Z,Unterhaching,Hannover 96 II,1,2,True
+4544246,2024,3. Liga,"Waldhof Mannheim-vs-Energie Cottbus_Sat, Dec 7, 2024, 13:00 UTC",3. Liga,2024-12-07T13:00:00.000Z,Waldhof Mannheim,Energie Cottbus,0,1,True
+4544245,2024,3. Liga,"Alemannia Aachen-vs-VfB Stuttgart II_Sat, Dec 7, 2024, 15:30 UTC",3. Liga,2024-12-07T15:30:00.000Z,Alemannia Aachen,VfB Stuttgart II,2,1,True
+4544239,2024,3. Liga,"RW Essen-vs-1860 München_Sun, Dec 8, 2024, 12:30 UTC",3. Liga,2024-12-08T12:30:00.000Z,RW Essen,1860 München,0,3,True
+4544242,2024,3. Liga,"Dynamo Dresden-vs-Arminia Bielefeld_Sun, Dec 8, 2024, 15:30 UTC",3. Liga,2024-12-08T15:30:00.000Z,Dynamo Dresden,Arminia Bielefeld,3,0,True
+4544247,2024,3. Liga,"Viktoria Köln 1904-vs-VfL Osnabrück_Sun, Dec 8, 2024, 18:30 UTC",3. Liga,2024-12-08T18:30:00.000Z,Viktoria Köln 1904,VfL Osnabrück,2,0,True
+4544217,2024,3. Liga,"Dynamo Dresden-vs-Waldhof Mannheim_Fri, Dec 13, 2024, 18:00 UTC",3. Liga,2024-12-13T18:00:00.000Z,Dynamo Dresden,Waldhof Mannheim,2,1,True
+4544218,2024,3. Liga,"Arminia Bielefeld-vs-Unterhaching_Sat, Dec 14, 2024, 13:00 UTC",3. Liga,2024-12-14T13:00:00.000Z,Arminia Bielefeld,Unterhaching,3,3,True
+4544215,2024,3. Liga,"Hannover 96 II-vs-Viktoria Köln 1904_Sat, Dec 14, 2024, 13:00 UTC",3. Liga,2024-12-14T13:00:00.000Z,Hannover 96 II,Viktoria Köln 1904,1,2,True
+4544219,2024,3. Liga,"Sandhausen-vs-Erzgebirge Aue_Sat, Dec 14, 2024, 13:00 UTC",3. Liga,2024-12-14T13:00:00.000Z,Sandhausen,Erzgebirge Aue,4,6,True
+4544214,2024,3. Liga,"VfB Stuttgart II-vs-Borussia Dortmund II_Sat, Dec 14, 2024, 13:00 UTC",3. Liga,2024-12-14T13:00:00.000Z,VfB Stuttgart II,Borussia Dortmund II,0,3,True
+4544221,2024,3. Liga,"Wehen Wiesbaden-vs-Ingolstadt_Sat, Dec 14, 2024, 13:00 UTC",3. Liga,2024-12-14T13:00:00.000Z,Wehen Wiesbaden,Ingolstadt,2,5,True
+4544213,2024,3. Liga,"1860 München-vs-SC Verl_Sat, Dec 14, 2024, 15:30 UTC",3. Liga,2024-12-14T15:30:00.000Z,1860 München,SC Verl,0,4,True
+4544216,2024,3. Liga,"Energie Cottbus-vs-Hansa Rostock_Sun, Dec 15, 2024, 12:30 UTC",3. Liga,2024-12-15T12:30:00.000Z,Energie Cottbus,Hansa Rostock,3,1,True
+4544220,2024,3. Liga,"VfL Osnabrück-vs-RW Essen_Sun, Dec 15, 2024, 15:30 UTC",3. Liga,2024-12-15T15:30:00.000Z,VfL Osnabrück,RW Essen,2,0,True
+4544222,2024,3. Liga,"Saarbrücken-vs-Alemannia Aachen_Sun, Dec 15, 2024, 18:30 UTC",3. Liga,2024-12-15T18:30:00.000Z,Saarbrücken,Alemannia Aachen,1,1,True
+4544225,2024,3. Liga,"Ingolstadt-vs-Energie Cottbus_Fri, Dec 20, 2024, 18:00 UTC",3. Liga,2024-12-20T18:00:00.000Z,Ingolstadt,Energie Cottbus,1,1,True
+4544227,2024,3. Liga,"Borussia Dortmund II-vs-Saarbrücken_Sat, Dec 21, 2024, 13:00 UTC",3. Liga,2024-12-21T13:00:00.000Z,Borussia Dortmund II,Saarbrücken,0,0,True
+4544223,2024,3. Liga,"Erzgebirge Aue-vs-1860 München_Sat, Dec 21, 2024, 13:00 UTC",3. Liga,2024-12-21T13:00:00.000Z,Erzgebirge Aue,1860 München,3,1,True
+4544229,2024,3. Liga,"RW Essen-vs-VfB Stuttgart II_Sat, Dec 21, 2024, 13:00 UTC",3. Liga,2024-12-21T13:00:00.000Z,RW Essen,VfB Stuttgart II,2,2,True
+4544249,2024,3. Liga,"Unterhaching-vs-Dynamo Dresden_Sat, Dec 21, 2024, 13:00 UTC",3. Liga,2024-12-21T13:00:00.000Z,Unterhaching,Dynamo Dresden,0,3,True
+4544230,2024,3. Liga,"Viktoria Köln 1904-vs-Sandhausen_Sat, Dec 21, 2024, 13:00 UTC",3. Liga,2024-12-21T13:00:00.000Z,Viktoria Köln 1904,Sandhausen,2,0,True
+4544228,2024,3. Liga,"Alemannia Aachen-vs-Wehen Wiesbaden_Sat, Dec 21, 2024, 15:30 UTC",3. Liga,2024-12-21T15:30:00.000Z,Alemannia Aachen,Wehen Wiesbaden,0,0,True
+4544224,2024,3. Liga,"Waldhof Mannheim-vs-Arminia Bielefeld_Sun, Dec 22, 2024, 12:30 UTC",3. Liga,2024-12-22T12:30:00.000Z,Waldhof Mannheim,Arminia Bielefeld,1,1,True
+4544250,2024,3. Liga,"SC Verl-vs-VfL Osnabrück_Sun, Dec 22, 2024, 15:30 UTC",3. Liga,2024-12-22T15:30:00.000Z,SC Verl,VfL Osnabrück,1,1,True
+4544226,2024,3. Liga,"Hansa Rostock-vs-Hannover 96 II_Sun, Dec 22, 2024, 18:30 UTC",3. Liga,2024-12-22T18:30:00.000Z,Hansa Rostock,Hannover 96 II,1,0,True
+4544275,2024,3. Liga,"Hannover 96 II-vs-Erzgebirge Aue_Fri, Jan 17, 2025, 18:00 UTC",3. Liga,2025-01-17T18:00:00.000Z,Hannover 96 II,Erzgebirge Aue,2,1,True
+4544272,2024,3. Liga,"Arminia Bielefeld-vs-Energie Cottbus_Sat, Jan 18, 2025, 13:00 UTC",3. Liga,2025-01-18T13:00:00.000Z,Arminia Bielefeld,Energie Cottbus,0,2,True
+4544276,2024,3. Liga,"VfL Osnabrück-vs-Sandhausen_Sat, Jan 18, 2025, 13:00 UTC",3. Liga,2025-01-18T13:00:00.000Z,VfL Osnabrück,Sandhausen,3,2,True
+4544273,2024,3. Liga,"Saarbrücken-vs-1860 München_Sat, Jan 18, 2025, 13:00 UTC",3. Liga,2025-01-18T13:00:00.000Z,Saarbrücken,1860 München,4,0,True
+4544278,2024,3. Liga,"Unterhaching-vs-Borussia Dortmund II_Sat, Jan 18, 2025, 13:00 UTC",3. Liga,2025-01-18T13:00:00.000Z,Unterhaching,Borussia Dortmund II,1,2,True
+4544274,2024,3. Liga,"VfB Stuttgart II-vs-Hansa Rostock_Sat, Jan 18, 2025, 13:00 UTC",3. Liga,2025-01-18T13:00:00.000Z,VfB Stuttgart II,Hansa Rostock,0,3,True
+4544271,2024,3. Liga,"Wehen Wiesbaden-vs-SC Verl_Sat, Jan 18, 2025, 15:30 UTC",3. Liga,2025-01-18T15:30:00.000Z,Wehen Wiesbaden,SC Verl,0,1,True
+4544277,2024,3. Liga,"Dynamo Dresden-vs-Viktoria Köln 1904_Sun, Jan 19, 2025, 12:30 UTC",3. Liga,2025-01-19T12:30:00.000Z,Dynamo Dresden,Viktoria Köln 1904,2,3,True
+4544279,2024,3. Liga,"Alemannia Aachen-vs-RW Essen_Sun, Jan 19, 2025, 15:30 UTC",3. Liga,2025-01-19T15:30:00.000Z,Alemannia Aachen,RW Essen,2,0,True
+4544270,2024,3. Liga,"Waldhof Mannheim-vs-Ingolstadt_Sun, Jan 19, 2025, 18:30 UTC",3. Liga,2025-01-19T18:30:00.000Z,Waldhof Mannheim,Ingolstadt,0,0,True
+4544281,2024,3. Liga,"Viktoria Köln 1904-vs-Waldhof Mannheim_Fri, Jan 24, 2025, 18:00 UTC",3. Liga,2025-01-24T18:00:00.000Z,Viktoria Köln 1904,Waldhof Mannheim,1,0,True
+4544286,2024,3. Liga,"1860 München-vs-VfB Stuttgart II_Sat, Jan 25, 2025, 13:00 UTC",3. Liga,2025-01-25T13:00:00.000Z,1860 München,VfB Stuttgart II,1,1,True
+4544288,2024,3. Liga,"Energie Cottbus-vs-Dynamo Dresden_Sat, Jan 25, 2025, 13:00 UTC",3. Liga,2025-01-25T13:00:00.000Z,Energie Cottbus,Dynamo Dresden,1,1,True
+4544283,2024,3. Liga,"Erzgebirge Aue-vs-VfL Osnabrück_Sat, Jan 25, 2025, 13:00 UTC",3. Liga,2025-01-25T13:00:00.000Z,Erzgebirge Aue,VfL Osnabrück,0,0,True
+4544284,2024,3. Liga,"Hansa Rostock-vs-Wehen Wiesbaden_Sat, Jan 25, 2025, 13:00 UTC",3. Liga,2025-01-25T13:00:00.000Z,Hansa Rostock,Wehen Wiesbaden,1,4,True
+4544280,2024,3. Liga,"SC Verl-vs-Alemannia Aachen_Sat, Jan 25, 2025, 13:00 UTC",3. Liga,2025-01-25T13:00:00.000Z,SC Verl,Alemannia Aachen,2,1,True
+4544287,2024,3. Liga,"Sandhausen-vs-Saarbrücken_Sat, Jan 25, 2025, 15:30 UTC",3. Liga,2025-01-25T15:30:00.000Z,Sandhausen,Saarbrücken,3,4,True
+4544260,2024,3. Liga,"RW Essen-vs-Hannover 96 II_Sun, Jan 26, 2025, 12:30 UTC",3. Liga,2025-01-26T12:30:00.000Z,RW Essen,Hannover 96 II,5,1,True
+4544282,2024,3. Liga,"Ingolstadt-vs-Unterhaching_Sun, Jan 26, 2025, 15:30 UTC",3. Liga,2025-01-26T15:30:00.000Z,Ingolstadt,Unterhaching,3,1,True
+4544285,2024,3. Liga,"Borussia Dortmund II-vs-Arminia Bielefeld_Sun, Jan 26, 2025, 18:30 UTC",3. Liga,2025-01-26T18:30:00.000Z,Borussia Dortmund II,Arminia Bielefeld,0,4,True
+4544258,2024,3. Liga,"Alemannia Aachen-vs-Energie Cottbus_Fri, Jan 31, 2025, 18:00 UTC",3. Liga,2025-01-31T18:00:00.000Z,Alemannia Aachen,Energie Cottbus,0,0,True
+4544256,2024,3. Liga,"Borussia Dortmund II-vs-Hansa Rostock_Sat, Feb 1, 2025, 13:00 UTC",3. Liga,2025-02-01T13:00:00.000Z,Borussia Dortmund II,Hansa Rostock,0,2,True
+4544261,2024,3. Liga,"Dynamo Dresden-vs-Erzgebirge Aue_Sat, Feb 1, 2025, 13:00 UTC",3. Liga,2025-02-01T13:00:00.000Z,Dynamo Dresden,Erzgebirge Aue,2,1,True
+4544254,2024,3. Liga,"Ingolstadt-vs-Saarbrücken_Sat, Feb 1, 2025, 13:00 UTC",3. Liga,2025-02-01T13:00:00.000Z,Ingolstadt,Saarbrücken,1,0,True
+4544253,2024,3. Liga,"Waldhof Mannheim-vs-SC Verl_Sat, Feb 1, 2025, 13:00 UTC",3. Liga,2025-02-01T13:00:00.000Z,Waldhof Mannheim,SC Verl,2,2,True
+4544255,2024,3. Liga,"Wehen Wiesbaden-vs-VfB Stuttgart II_Sat, Feb 1, 2025, 13:00 UTC",3. Liga,2025-02-01T13:00:00.000Z,Wehen Wiesbaden,VfB Stuttgart II,2,0,True
+4544259,2024,3. Liga,"Viktoria Köln 1904-vs-1860 München_Sat, Feb 1, 2025, 15:30 UTC",3. Liga,2025-02-01T15:30:00.000Z,Viktoria Köln 1904,1860 München,1,2,True
+4544252,2024,3. Liga,"Arminia Bielefeld-vs-RW Essen_Sun, Feb 2, 2025, 12:30 UTC",3. Liga,2025-02-02T12:30:00.000Z,Arminia Bielefeld,RW Essen,1,2,True
+4544257,2024,3. Liga,"Unterhaching-vs-VfL Osnabrück_Sun, Feb 2, 2025, 15:30 UTC",3. Liga,2025-02-02T15:30:00.000Z,Unterhaching,VfL Osnabrück,2,3,True
+4544251,2024,3. Liga,"Hannover 96 II-vs-Sandhausen_Sun, Feb 2, 2025, 18:30 UTC",3. Liga,2025-02-02T18:30:00.000Z,Hannover 96 II,Sandhausen,2,2,True
+4544268,2024,3. Liga,"Sandhausen-vs-Arminia Bielefeld_Fri, Feb 7, 2025, 18:00 UTC",3. Liga,2025-02-07T18:00:00.000Z,Sandhausen,Arminia Bielefeld,1,0,True
+4544265,2024,3. Liga,"Energie Cottbus-vs-Wehen Wiesbaden_Sat, Feb 8, 2025, 13:00 UTC",3. Liga,2025-02-08T13:00:00.000Z,Energie Cottbus,Wehen Wiesbaden,2,1,True
+4544264,2024,3. Liga,"Erzgebirge Aue-vs-Alemannia Aachen_Sat, Feb 8, 2025, 13:00 UTC",3. Liga,2025-02-08T13:00:00.000Z,Erzgebirge Aue,Alemannia Aachen,1,1,True
+4544267,2024,3. Liga,"RW Essen-vs-Unterhaching_Sat, Feb 8, 2025, 13:00 UTC",3. Liga,2025-02-08T13:00:00.000Z,RW Essen,Unterhaching,1,1,True
+4544262,2024,3. Liga,"Saarbrücken-vs-Waldhof Mannheim_Sat, Feb 8, 2025, 13:00 UTC",3. Liga,2025-02-08T13:00:00.000Z,Saarbrücken,Waldhof Mannheim,2,1,True
+4544269,2024,3. Liga,"VfB Stuttgart II-vs-Dynamo Dresden_Sat, Feb 8, 2025, 13:00 UTC",3. Liga,2025-02-08T13:00:00.000Z,VfB Stuttgart II,Dynamo Dresden,2,1,True
+4544289,2024,3. Liga,"1860 München-vs-Ingolstadt_Sat, Feb 8, 2025, 15:30 UTC",3. Liga,2025-02-08T15:30:00.000Z,1860 München,Ingolstadt,1,1,True
+4544266,2024,3. Liga,"Hansa Rostock-vs-Viktoria Köln 1904_Sun, Feb 9, 2025, 12:30 UTC",3. Liga,2025-02-09T12:30:00.000Z,Hansa Rostock,Viktoria Köln 1904,1,1,True
+4544318,2024,3. Liga,"SC Verl-vs-Hannover 96 II_Sun, Feb 9, 2025, 15:30 UTC",3. Liga,2025-02-09T15:30:00.000Z,SC Verl,Hannover 96 II,1,0,True
+4544263,2024,3. Liga,"VfL Osnabrück-vs-Borussia Dortmund II_Sun, Feb 9, 2025, 18:30 UTC",3. Liga,2025-02-09T18:30:00.000Z,VfL Osnabrück,Borussia Dortmund II,1,0,True
+4544312,2024,3. Liga,"Viktoria Köln 1904-vs-Alemannia Aachen_Fri, Feb 14, 2025, 18:00 UTC",3. Liga,2025-02-14T18:00:00.000Z,Viktoria Köln 1904,Alemannia Aachen,3,1,True
+4544319,2024,3. Liga,"Arminia Bielefeld-vs-Erzgebirge Aue_Sat, Feb 15, 2025, 13:00 UTC",3. Liga,2025-02-15T13:00:00.000Z,Arminia Bielefeld,Erzgebirge Aue,2,1,True
+4544313,2024,3. Liga,"Hannover 96 II-vs-VfL Osnabrück_Sat, Feb 15, 2025, 13:00 UTC",3. Liga,2025-02-15T13:00:00.000Z,Hannover 96 II,VfL Osnabrück,1,5,True
+4544311,2024,3. Liga,"Ingolstadt-vs-VfB Stuttgart II_Sat, Feb 15, 2025, 13:00 UTC",3. Liga,2025-02-15T13:00:00.000Z,Ingolstadt,VfB Stuttgart II,1,1,True
+4544310,2024,3. Liga,"Waldhof Mannheim-vs-Hansa Rostock_Sat, Feb 15, 2025, 13:00 UTC",3. Liga,2025-02-15T13:00:00.000Z,Waldhof Mannheim,Hansa Rostock,5,0,True
+4544317,2024,3. Liga,"Wehen Wiesbaden-vs-RW Essen_Sat, Feb 15, 2025, 13:00 UTC",3. Liga,2025-02-15T13:00:00.000Z,Wehen Wiesbaden,RW Essen,1,3,True
+4544316,2024,3. Liga,"Borussia Dortmund II-vs-Sandhausen_Sat, Feb 15, 2025, 15:30 UTC",3. Liga,2025-02-15T15:30:00.000Z,Borussia Dortmund II,Sandhausen,1,0,True
+4544309,2024,3. Liga,"Unterhaching-vs-Saarbrücken_Sun, Feb 16, 2025, 12:30 UTC",3. Liga,2025-02-16T12:30:00.000Z,Unterhaching,Saarbrücken,2,0,True
+4544314,2024,3. Liga,"Energie Cottbus-vs-SC Verl_Sun, Feb 16, 2025, 15:30 UTC",3. Liga,2025-02-16T15:30:00.000Z,Energie Cottbus,SC Verl,1,0,True
+4544315,2024,3. Liga,"Dynamo Dresden-vs-1860 München_Sun, Feb 16, 2025, 18:30 UTC",3. Liga,2025-02-16T18:30:00.000Z,Dynamo Dresden,1860 München,5,2,True
+4544300,2024,3. Liga,"1860 München-vs-Arminia Bielefeld_Fri, Feb 21, 2025, 18:00 UTC",3. Liga,2025-02-21T18:00:00.000Z,1860 München,Arminia Bielefeld,0,3,True
+4544325,2024,3. Liga,"Alemannia Aachen-vs-Borussia Dortmund II_Sat, Feb 22, 2025, 13:00 UTC",3. Liga,2025-02-22T13:00:00.000Z,Alemannia Aachen,Borussia Dortmund II,2,2,True
+4544323,2024,3. Liga,"Erzgebirge Aue-vs-Unterhaching_Sat, Feb 22, 2025, 13:00 UTC",3. Liga,2025-02-22T13:00:00.000Z,Erzgebirge Aue,Unterhaching,1,0,True
+4544320,2024,3. Liga,"Hansa Rostock-vs-Dynamo Dresden_Sat, Feb 22, 2025, 13:00 UTC",3. Liga,2025-02-22T13:00:00.000Z,Hansa Rostock,Dynamo Dresden,1,0,True
+4544326,2024,3. Liga,"RW Essen-vs-Ingolstadt_Sat, Feb 22, 2025, 13:00 UTC",3. Liga,2025-02-22T13:00:00.000Z,RW Essen,Ingolstadt,2,0,True
+4544291,2024,3. Liga,"SC Verl-vs-Viktoria Köln 1904_Sat, Feb 22, 2025, 13:00 UTC",3. Liga,2025-02-22T13:00:00.000Z,SC Verl,Viktoria Köln 1904,1,1,True
+4544321,2024,3. Liga,"Saarbrücken-vs-Hannover 96 II_Sat, Feb 22, 2025, 15:30 UTC",3. Liga,2025-02-22T15:30:00.000Z,Saarbrücken,Hannover 96 II,4,1,True
+4544322,2024,3. Liga,"VfB Stuttgart II-vs-Energie Cottbus_Sun, Feb 23, 2025, 12:30 UTC",3. Liga,2025-02-23T12:30:00.000Z,VfB Stuttgart II,Energie Cottbus,2,0,True
+4544324,2024,3. Liga,"VfL Osnabrück-vs-Waldhof Mannheim_Sun, Feb 23, 2025, 15:30 UTC",3. Liga,2025-02-23T15:30:00.000Z,VfL Osnabrück,Waldhof Mannheim,1,1,True
+4544292,2024,3. Liga,"Sandhausen-vs-Wehen Wiesbaden_Sun, Feb 23, 2025, 18:30 UTC",3. Liga,2025-02-23T18:30:00.000Z,Sandhausen,Wehen Wiesbaden,0,1,True
+4544301,2024,3. Liga,"Viktoria Köln 1904-vs-Saarbrücken_Fri, Feb 28, 2025, 18:00 UTC",3. Liga,2025-02-28T18:00:00.000Z,Viktoria Köln 1904,Saarbrücken,1,2,True
+4544302,2024,3. Liga,"Borussia Dortmund II-vs-RW Essen_Sat, Mar 1, 2025, 13:00 UTC",3. Liga,2025-03-01T13:00:00.000Z,Borussia Dortmund II,RW Essen,0,1,True
+4544293,2024,3. Liga,"Energie Cottbus-vs-VfL Osnabrück_Sat, Mar 1, 2025, 13:00 UTC",3. Liga,2025-03-01T13:00:00.000Z,Energie Cottbus,VfL Osnabrück,1,2,True
+4544295,2024,3. Liga,"Hannover 96 II-vs-1860 München_Sat, Mar 1, 2025, 13:00 UTC",3. Liga,2025-03-01T13:00:00.000Z,Hannover 96 II,1860 München,1,3,True
+4544294,2024,3. Liga,"Ingolstadt-vs-Sandhausen_Sat, Mar 1, 2025, 13:00 UTC",3. Liga,2025-03-01T13:00:00.000Z,Ingolstadt,Sandhausen,2,1,True
+4544296,2024,3. Liga,"Wehen Wiesbaden-vs-Erzgebirge Aue_Sat, Mar 1, 2025, 13:00 UTC",3. Liga,2025-03-01T13:00:00.000Z,Wehen Wiesbaden,Erzgebirge Aue,0,2,True
+4544297,2024,3. Liga,"Dynamo Dresden-vs-SC Verl_Sat, Mar 1, 2025, 15:30 UTC",3. Liga,2025-03-01T15:30:00.000Z,Dynamo Dresden,SC Verl,3,0,True
+4544290,2024,3. Liga,"Waldhof Mannheim-vs-Alemannia Aachen_Sun, Mar 2, 2025, 12:30 UTC",3. Liga,2025-03-02T12:30:00.000Z,Waldhof Mannheim,Alemannia Aachen,2,1,True
+4544299,2024,3. Liga,"Arminia Bielefeld-vs-VfB Stuttgart II_Sun, Mar 2, 2025, 18:30 UTC",3. Liga,2025-03-02T18:30:00.000Z,Arminia Bielefeld,VfB Stuttgart II,4,1,True
+4544298,2024,3. Liga,"Unterhaching-vs-Hansa Rostock_Wed, May 7, 2025, 17:00 UTC",3. Liga,2025-05-07T17:00:00.000Z,Unterhaching,Hansa Rostock,0,2,True
+4544307,2024,3. Liga,"VfL Osnabrück-vs-Wehen Wiesbaden_Fri, Mar 7, 2025, 18:00 UTC",3. Liga,2025-03-07T18:00:00.000Z,VfL Osnabrück,Wehen Wiesbaden,0,1,True
+4544342,2024,3. Liga,"Alemannia Aachen-vs-Dynamo Dresden_Sat, Mar 8, 2025, 13:00 UTC",3. Liga,2025-03-08T13:00:00.000Z,Alemannia Aachen,Dynamo Dresden,0,1,True
+4544327,2024,3. Liga,"Hansa Rostock-vs-Ingolstadt_Sat, Mar 8, 2025, 13:00 UTC",3. Liga,2025-03-08T13:00:00.000Z,Hansa Rostock,Ingolstadt,2,0,True
+4544304,2024,3. Liga,"Saarbrücken-vs-Energie Cottbus_Sat, Mar 8, 2025, 13:00 UTC",3. Liga,2025-03-08T13:00:00.000Z,Saarbrücken,Energie Cottbus,2,1,True
+4544341,2024,3. Liga,"Sandhausen-vs-Unterhaching_Sat, Mar 8, 2025, 13:00 UTC",3. Liga,2025-03-08T13:00:00.000Z,Sandhausen,Unterhaching,2,2,True
+4544305,2024,3. Liga,"VfB Stuttgart II-vs-Hannover 96 II_Sat, Mar 8, 2025, 13:00 UTC",3. Liga,2025-03-08T13:00:00.000Z,VfB Stuttgart II,Hannover 96 II,2,1,True
+4544308,2024,3. Liga,"SC Verl-vs-Arminia Bielefeld_Sat, Mar 8, 2025, 15:30 UTC",3. Liga,2025-03-08T15:30:00.000Z,SC Verl,Arminia Bielefeld,2,1,True
+4544343,2024,3. Liga,"1860 München-vs-Borussia Dortmund II_Sun, Mar 9, 2025, 12:30 UTC",3. Liga,2025-03-09T12:30:00.000Z,1860 München,Borussia Dortmund II,1,0,True
+4544306,2024,3. Liga,"Erzgebirge Aue-vs-Viktoria Köln 1904_Sun, Mar 9, 2025, 15:45 UTC",3. Liga,2025-03-09T15:45:00.000Z,Erzgebirge Aue,Viktoria Köln 1904,2,1,True
+4544303,2024,3. Liga,"RW Essen-vs-Waldhof Mannheim_Sun, Mar 9, 2025, 18:30 UTC",3. Liga,2025-03-09T18:30:00.000Z,RW Essen,Waldhof Mannheim,1,0,True
+4544348,2024,3. Liga,"Arminia Bielefeld-vs-Saarbrücken_Tue, Mar 11, 2025, 18:00 UTC",3. Liga,2025-03-11T18:00:00.000Z,Arminia Bielefeld,Saarbrücken,3,1,True
+4544339,2024,3. Liga,"Energie Cottbus-vs-Hannover 96 II_Tue, Mar 11, 2025, 18:00 UTC",3. Liga,2025-03-11T18:00:00.000Z,Energie Cottbus,Hannover 96 II,2,2,True
+4544349,2024,3. Liga,"Ingolstadt-vs-Alemannia Aachen_Tue, Mar 11, 2025, 18:00 UTC",3. Liga,2025-03-11T18:00:00.000Z,Ingolstadt,Alemannia Aachen,0,3,True
+4544347,2024,3. Liga,"Unterhaching-vs-SC Verl_Tue, Mar 11, 2025, 18:00 UTC",3. Liga,2025-03-11T18:00:00.000Z,Unterhaching,SC Verl,1,2,True
+4544346,2024,3. Liga,"VfB Stuttgart II-vs-VfL Osnabrück_Tue, Mar 11, 2025, 18:00 UTC",3. Liga,2025-03-11T18:00:00.000Z,VfB Stuttgart II,VfL Osnabrück,1,2,True
+4544337,2024,3. Liga,"Dynamo Dresden-vs-Borussia Dortmund II_Wed, Mar 12, 2025, 18:00 UTC",3. Liga,2025-03-12T18:00:00.000Z,Dynamo Dresden,Borussia Dortmund II,0,0,True
+4544340,2024,3. Liga,"Hansa Rostock-vs-Erzgebirge Aue_Wed, Mar 12, 2025, 18:00 UTC",3. Liga,2025-03-12T18:00:00.000Z,Hansa Rostock,Erzgebirge Aue,4,1,True
+4544345,2024,3. Liga,"Viktoria Köln 1904-vs-RW Essen_Wed, Mar 12, 2025, 18:00 UTC",3. Liga,2025-03-12T18:00:00.000Z,Viktoria Köln 1904,RW Essen,1,0,True
+4544344,2024,3. Liga,"Waldhof Mannheim-vs-Sandhausen_Wed, Mar 12, 2025, 18:00 UTC",3. Liga,2025-03-12T18:00:00.000Z,Waldhof Mannheim,Sandhausen,3,2,True
+4544338,2024,3. Liga,"Wehen Wiesbaden-vs-1860 München_Wed, Mar 12, 2025, 18:00 UTC",3. Liga,2025-03-12T18:00:00.000Z,Wehen Wiesbaden,1860 München,0,0,True
+4544334,2024,3. Liga,"Saarbrücken-vs-VfB Stuttgart II_Fri, Mar 14, 2025, 18:00 UTC",3. Liga,2025-03-14T18:00:00.000Z,Saarbrücken,VfB Stuttgart II,0,2,True
+4544329,2024,3. Liga,"Borussia Dortmund II-vs-Viktoria Köln 1904_Sat, Mar 15, 2025, 13:00 UTC",3. Liga,2025-03-15T13:00:00.000Z,Borussia Dortmund II,Viktoria Köln 1904,1,1,True
+4544330,2024,3. Liga,"Hannover 96 II-vs-Wehen Wiesbaden_Sat, Mar 15, 2025, 13:00 UTC",3. Liga,2025-03-15T13:00:00.000Z,Hannover 96 II,Wehen Wiesbaden,3,2,True
+4544331,2024,3. Liga,"VfL Osnabrück-vs-Arminia Bielefeld_Sat, Mar 15, 2025, 13:00 UTC",3. Liga,2025-03-15T13:00:00.000Z,VfL Osnabrück,Arminia Bielefeld,0,1,True
+4544332,2024,3. Liga,"RW Essen-vs-Dynamo Dresden_Sat, Mar 15, 2025, 13:00 UTC",3. Liga,2025-03-15T13:00:00.000Z,RW Essen,Dynamo Dresden,1,1,True
+4544336,2024,3. Liga,"SC Verl-vs-Ingolstadt_Sat, Mar 15, 2025, 13:00 UTC",3. Liga,2025-03-15T13:00:00.000Z,SC Verl,Ingolstadt,1,4,True
+4544364,2024,3. Liga,"1860 München-vs-Unterhaching_Sat, Mar 15, 2025, 15:30 UTC",3. Liga,2025-03-15T15:30:00.000Z,1860 München,Unterhaching,2,1,True
+4544335,2024,3. Liga,"Sandhausen-vs-Energie Cottbus_Sun, Mar 16, 2025, 12:30 UTC",3. Liga,2025-03-16T12:30:00.000Z,Sandhausen,Energie Cottbus,0,1,True
+4544333,2024,3. Liga,"Erzgebirge Aue-vs-Waldhof Mannheim_Sun, Mar 16, 2025, 15:30 UTC",3. Liga,2025-03-16T15:30:00.000Z,Erzgebirge Aue,Waldhof Mannheim,0,1,True
+4544328,2024,3. Liga,"Alemannia Aachen-vs-Hansa Rostock_Sun, Mar 16, 2025, 18:30 UTC",3. Liga,2025-03-16T18:30:00.000Z,Alemannia Aachen,Hansa Rostock,2,1,True
+4544357,2024,3. Liga,"SC Verl-vs-RW Essen_Fri, Mar 28, 2025, 18:00 UTC",3. Liga,2025-03-28T18:00:00.000Z,SC Verl,RW Essen,3,0,True
+4544354,2024,3. Liga,"Energie Cottbus-vs-Erzgebirge Aue_Sat, Mar 29, 2025, 13:00 UTC",3. Liga,2025-03-29T13:00:00.000Z,Energie Cottbus,Erzgebirge Aue,1,0,True
+4544361,2024,3. Liga,"Hansa Rostock-vs-Saarbrücken_Sat, Mar 29, 2025, 13:00 UTC",3. Liga,2025-03-29T13:00:00.000Z,Hansa Rostock,Saarbrücken,0,0,True
+4544363,2024,3. Liga,"VfL Osnabrück-vs-1860 München_Sat, Mar 29, 2025, 13:00 UTC",3. Liga,2025-03-29T13:00:00.000Z,VfL Osnabrück,1860 München,1,0,True
+4544359,2024,3. Liga,"Unterhaching-vs-Alemannia Aachen_Sat, Mar 29, 2025, 13:00 UTC",3. Liga,2025-03-29T13:00:00.000Z,Unterhaching,Alemannia Aachen,0,2,True
+4544362,2024,3. Liga,"Waldhof Mannheim-vs-Borussia Dortmund II_Sat, Mar 29, 2025, 13:00 UTC",3. Liga,2025-03-29T13:00:00.000Z,Waldhof Mannheim,Borussia Dortmund II,0,0,True
+4544358,2024,3. Liga,"Arminia Bielefeld-vs-Hannover 96 II_Sat, Mar 29, 2025, 15:30 UTC",3. Liga,2025-03-29T15:30:00.000Z,Arminia Bielefeld,Hannover 96 II,2,2,True
+4544356,2024,3. Liga,"Ingolstadt-vs-Viktoria Köln 1904_Sun, Mar 30, 2025, 11:30 UTC",3. Liga,2025-03-30T11:30:00.000Z,Ingolstadt,Viktoria Köln 1904,3,1,True
+4544360,2024,3. Liga,"Dynamo Dresden-vs-Wehen Wiesbaden_Sun, Mar 30, 2025, 14:30 UTC",3. Liga,2025-03-30T14:30:00.000Z,Dynamo Dresden,Wehen Wiesbaden,2,0,True
+4544355,2024,3. Liga,"VfB Stuttgart II-vs-Sandhausen_Sun, Mar 30, 2025, 17:30 UTC",3. Liga,2025-03-30T17:30:00.000Z,VfB Stuttgart II,Sandhausen,2,1,True
+4544388,2024,3. Liga,"Hannover 96 II-vs-Dynamo Dresden_Fri, Apr 4, 2025, 17:00 UTC",3. Liga,2025-04-04T17:00:00.000Z,Hannover 96 II,Dynamo Dresden,2,3,True
+4544385,2024,3. Liga,"1860 München-vs-Energie Cottbus_Sat, Apr 5, 2025, 12:00 UTC",3. Liga,2025-04-05T12:00:00.000Z,1860 München,Energie Cottbus,5,1,True
+4544351,2024,3. Liga,"Erzgebirge Aue-vs-VfB Stuttgart II_Sat, Apr 5, 2025, 12:00 UTC",3. Liga,2025-04-05T12:00:00.000Z,Erzgebirge Aue,VfB Stuttgart II,2,1,True
+4544387,2024,3. Liga,"Saarbrücken-vs-VfL Osnabrück_Sat, Apr 5, 2025, 12:00 UTC",3. Liga,2025-04-05T12:00:00.000Z,Saarbrücken,VfL Osnabrück,1,1,True
+4544352,2024,3. Liga,"Viktoria Köln 1904-vs-Unterhaching_Sat, Apr 5, 2025, 12:00 UTC",3. Liga,2025-04-05T12:00:00.000Z,Viktoria Köln 1904,Unterhaching,3,1,True
+4544350,2024,3. Liga,"Wehen Wiesbaden-vs-Waldhof Mannheim_Sat, Apr 5, 2025, 12:00 UTC",3. Liga,2025-04-05T12:00:00.000Z,Wehen Wiesbaden,Waldhof Mannheim,2,2,True
+4544394,2024,3. Liga,"Alemannia Aachen-vs-Arminia Bielefeld_Sat, Apr 5, 2025, 14:30 UTC",3. Liga,2025-04-05T14:30:00.000Z,Alemannia Aachen,Arminia Bielefeld,0,1,True
+4544389,2024,3. Liga,"Borussia Dortmund II-vs-Ingolstadt_Sun, Apr 6, 2025, 11:30 UTC",3. Liga,2025-04-06T11:30:00.000Z,Borussia Dortmund II,Ingolstadt,3,3,True
+4544386,2024,3. Liga,"Sandhausen-vs-SC Verl_Sun, Apr 6, 2025, 14:30 UTC",3. Liga,2025-04-06T14:30:00.000Z,Sandhausen,SC Verl,1,3,True
+4544353,2024,3. Liga,"RW Essen-vs-Hansa Rostock_Sun, Apr 6, 2025, 17:30 UTC",3. Liga,2025-04-06T17:30:00.000Z,RW Essen,Hansa Rostock,2,1,True
+4544384,2024,3. Liga,"Arminia Bielefeld-vs-Wehen Wiesbaden_Tue, Apr 8, 2025, 17:00 UTC",3. Liga,2025-04-08T17:00:00.000Z,Arminia Bielefeld,Wehen Wiesbaden,4,2,True
+4544396,2024,3. Liga,"Hannover 96 II-vs-Alemannia Aachen_Tue, Apr 8, 2025, 17:00 UTC",3. Liga,2025-04-08T17:00:00.000Z,Hannover 96 II,Alemannia Aachen,1,1,True
+4544395,2024,3. Liga,"Saarbrücken-vs-Erzgebirge Aue_Tue, Apr 8, 2025, 17:00 UTC",3. Liga,2025-04-08T17:00:00.000Z,Saarbrücken,Erzgebirge Aue,2,0,True
+4544391,2024,3. Liga,"VfB Stuttgart II-vs-Viktoria Köln 1904_Tue, Apr 8, 2025, 17:00 UTC",3. Liga,2025-04-08T17:00:00.000Z,VfB Stuttgart II,Viktoria Köln 1904,1,2,True
+4544390,2024,3. Liga,"Waldhof Mannheim-vs-Unterhaching_Tue, Apr 8, 2025, 17:00 UTC",3. Liga,2025-04-08T17:00:00.000Z,Waldhof Mannheim,Unterhaching,0,2,True
+4544393,2024,3. Liga,"1860 München-vs-Sandhausen_Wed, Apr 9, 2025, 17:00 UTC",3. Liga,2025-04-09T17:00:00.000Z,1860 München,Sandhausen,2,0,True
+4544398,2024,3. Liga,"Dynamo Dresden-vs-Ingolstadt_Wed, Apr 9, 2025, 17:00 UTC",3. Liga,2025-04-09T17:00:00.000Z,Dynamo Dresden,Ingolstadt,2,2,True
+4544392,2024,3. Liga,"Energie Cottbus-vs-RW Essen_Wed, Apr 9, 2025, 17:00 UTC",3. Liga,2025-04-09T17:00:00.000Z,Energie Cottbus,RW Essen,0,1,True
+4544397,2024,3. Liga,"VfL Osnabrück-vs-Hansa Rostock_Wed, Apr 9, 2025, 17:00 UTC",3. Liga,2025-04-09T17:00:00.000Z,VfL Osnabrück,Hansa Rostock,0,1,True
+4544399,2024,3. Liga,"SC Verl-vs-Borussia Dortmund II_Wed, Apr 9, 2025, 17:00 UTC",3. Liga,2025-04-09T17:00:00.000Z,SC Verl,Borussia Dortmund II,0,1,True
+4544375,2024,3. Liga,"Wehen Wiesbaden-vs-Saarbrücken_Fri, Apr 11, 2025, 17:00 UTC",3. Liga,2025-04-11T17:00:00.000Z,Wehen Wiesbaden,Saarbrücken,1,1,True
+4544370,2024,3. Liga,"Dynamo Dresden-vs-VfL Osnabrück_Sat, Apr 12, 2025, 12:00 UTC",3. Liga,2025-04-12T12:00:00.000Z,Dynamo Dresden,VfL Osnabrück,0,1,True
+4544369,2024,3. Liga,"Hansa Rostock-vs-SC Verl_Sat, Apr 12, 2025, 12:00 UTC",3. Liga,2025-04-12T12:00:00.000Z,Hansa Rostock,SC Verl,4,0,True
+4544401,2024,3. Liga,"Ingolstadt-vs-Hannover 96 II_Sat, Apr 12, 2025, 12:00 UTC",3. Liga,2025-04-12T12:00:00.000Z,Ingolstadt,Hannover 96 II,3,3,True
+4544368,2024,3. Liga,"RW Essen-vs-Erzgebirge Aue_Sat, Apr 12, 2025, 12:00 UTC",3. Liga,2025-04-12T12:00:00.000Z,RW Essen,Erzgebirge Aue,4,2,True
+4544367,2024,3. Liga,"Unterhaching-vs-VfB Stuttgart II_Sat, Apr 12, 2025, 12:00 UTC",3. Liga,2025-04-12T12:00:00.000Z,Unterhaching,VfB Stuttgart II,2,2,True
+4544371,2024,3. Liga,"Alemannia Aachen-vs-Sandhausen_Sat, Apr 12, 2025, 14:30 UTC",3. Liga,2025-04-12T14:30:00.000Z,Alemannia Aachen,Sandhausen,2,1,True
+4544400,2024,3. Liga,"Waldhof Mannheim-vs-1860 München_Sun, Apr 13, 2025, 11:30 UTC",3. Liga,2025-04-13T11:30:00.000Z,Waldhof Mannheim,1860 München,0,3,True
+4544366,2024,3. Liga,"Borussia Dortmund II-vs-Energie Cottbus_Sun, Apr 13, 2025, 14:30 UTC",3. Liga,2025-04-13T14:30:00.000Z,Borussia Dortmund II,Energie Cottbus,4,1,True
+4544402,2024,3. Liga,"Viktoria Köln 1904-vs-Arminia Bielefeld_Sun, Apr 13, 2025, 17:30 UTC",3. Liga,2025-04-13T17:30:00.000Z,Viktoria Köln 1904,Arminia Bielefeld,0,2,True
+4544377,2024,3. Liga,"1860 München-vs-Alemannia Aachen_Sat, Apr 19, 2025, 12:00 UTC",3. Liga,2025-04-19T12:00:00.000Z,1860 München,Alemannia Aachen,2,1,True
+4544381,2024,3. Liga,"Arminia Bielefeld-vs-Hansa Rostock_Sat, Apr 19, 2025, 12:00 UTC",3. Liga,2025-04-19T12:00:00.000Z,Arminia Bielefeld,Hansa Rostock,4,0,True
+4544379,2024,3. Liga,"Energie Cottbus-vs-Viktoria Köln 1904_Sat, Apr 19, 2025, 12:00 UTC",3. Liga,2025-04-19T12:00:00.000Z,Energie Cottbus,Viktoria Köln 1904,1,0,True
+4544378,2024,3. Liga,"Sandhausen-vs-RW Essen_Sat, Apr 19, 2025, 12:00 UTC",3. Liga,2025-04-19T12:00:00.000Z,Sandhausen,RW Essen,0,2,True
+4544380,2024,3. Liga,"Wehen Wiesbaden-vs-Unterhaching_Sat, Apr 19, 2025, 12:00 UTC",3. Liga,2025-04-19T12:00:00.000Z,Wehen Wiesbaden,Unterhaching,3,0,True
+4544376,2024,3. Liga,"VfL Osnabrück-vs-Ingolstadt_Sat, Apr 19, 2025, 14:30 UTC",3. Liga,2025-04-19T14:30:00.000Z,VfL Osnabrück,Ingolstadt,1,0,True
+4544373,2024,3. Liga,"VfB Stuttgart II-vs-SC Verl_Sat, Apr 19, 2025, 14:30 UTC",3. Liga,2025-04-19T14:30:00.000Z,VfB Stuttgart II,SC Verl,1,1,True
+4544372,2024,3. Liga,"Saarbrücken-vs-Dynamo Dresden_Sun, Apr 20, 2025, 11:30 UTC",3. Liga,2025-04-20T11:30:00.000Z,Saarbrücken,Dynamo Dresden,1,4,True
+4544374,2024,3. Liga,"Hannover 96 II-vs-Waldhof Mannheim_Sun, Apr 20, 2025, 14:30 UTC",3. Liga,2025-04-20T14:30:00.000Z,Hannover 96 II,Waldhof Mannheim,1,1,True
+4544365,2024,3. Liga,"Erzgebirge Aue-vs-Borussia Dortmund II_Sun, Apr 20, 2025, 17:30 UTC",3. Liga,2025-04-20T17:30:00.000Z,Erzgebirge Aue,Borussia Dortmund II,2,1,True
+4544382,2024,3. Liga,"Hansa Rostock-vs-1860 München_Fri, Apr 25, 2025, 17:00 UTC",3. Liga,2025-04-25T17:00:00.000Z,Hansa Rostock,1860 München,1,0,True
+4544424,2024,3. Liga,"Borussia Dortmund II-vs-Hannover 96 II_Sat, Apr 26, 2025, 12:00 UTC",3. Liga,2025-04-26T12:00:00.000Z,Borussia Dortmund II,Hannover 96 II,0,4,True
+4544433,2024,3. Liga,"Dynamo Dresden-vs-Sandhausen_Sat, Apr 26, 2025, 12:00 UTC",3. Liga,2025-04-26T12:00:00.000Z,Dynamo Dresden,Sandhausen,2,1,True
+4544426,2024,3. Liga,"RW Essen-vs-Saarbrücken_Sat, Apr 26, 2025, 12:00 UTC",3. Liga,2025-04-26T12:00:00.000Z,RW Essen,Saarbrücken,0,3,True
+4544425,2024,3. Liga,"Unterhaching-vs-Energie Cottbus_Sat, Apr 26, 2025, 12:00 UTC",3. Liga,2025-04-26T12:00:00.000Z,Unterhaching,Energie Cottbus,1,1,True
+4544383,2024,3. Liga,"Viktoria Köln 1904-vs-Wehen Wiesbaden_Sat, Apr 26, 2025, 12:00 UTC",3. Liga,2025-04-26T12:00:00.000Z,Viktoria Köln 1904,Wehen Wiesbaden,2,0,True
+4544427,2024,3. Liga,"SC Verl-vs-Erzgebirge Aue_Sat, Apr 26, 2025, 14:30 UTC",3. Liga,2025-04-26T14:30:00.000Z,SC Verl,Erzgebirge Aue,5,1,True
+4544429,2024,3. Liga,"Ingolstadt-vs-Arminia Bielefeld_Sun, Apr 27, 2025, 11:30 UTC",3. Liga,2025-04-27T11:30:00.000Z,Ingolstadt,Arminia Bielefeld,0,3,True
+4544430,2024,3. Liga,"Alemannia Aachen-vs-VfL Osnabrück_Sun, Apr 27, 2025, 14:30 UTC",3. Liga,2025-04-27T14:30:00.000Z,Alemannia Aachen,VfL Osnabrück,1,0,True
+4544428,2024,3. Liga,"Waldhof Mannheim-vs-VfB Stuttgart II_Sun, Apr 27, 2025, 17:30 UTC",3. Liga,2025-04-27T17:30:00.000Z,Waldhof Mannheim,VfB Stuttgart II,0,0,True
+4544439,2024,3. Liga,"VfL Osnabrück-vs-Viktoria Köln 1904_Fri, May 2, 2025, 17:00 UTC",3. Liga,2025-05-02T17:00:00.000Z,VfL Osnabrück,Viktoria Köln 1904,2,0,True
+4544431,2024,3. Liga,"1860 München-vs-RW Essen_Sat, May 3, 2025, 12:00 UTC",3. Liga,2025-05-03T12:00:00.000Z,1860 München,RW Essen,1,3,True
+4544432,2024,3. Liga,"Saarbrücken-vs-SC Verl_Sat, May 3, 2025, 12:00 UTC",3. Liga,2025-05-03T12:00:00.000Z,Saarbrücken,SC Verl,4,3,True
+4544437,2024,3. Liga,"Sandhausen-vs-Hansa Rostock_Sat, May 3, 2025, 12:00 UTC",3. Liga,2025-05-03T12:00:00.000Z,Sandhausen,Hansa Rostock,0,3,True
+4544423,2024,3. Liga,"VfB Stuttgart II-vs-Alemannia Aachen_Sat, May 3, 2025, 12:00 UTC",3. Liga,2025-05-03T12:00:00.000Z,VfB Stuttgart II,Alemannia Aachen,2,1,True
+4544435,2024,3. Liga,"Wehen Wiesbaden-vs-Borussia Dortmund II_Sat, May 3, 2025, 12:00 UTC",3. Liga,2025-05-03T12:00:00.000Z,Wehen Wiesbaden,Borussia Dortmund II,4,2,True
+4544436,2024,3. Liga,"Arminia Bielefeld-vs-Dynamo Dresden_Sat, May 3, 2025, 14:30 UTC",3. Liga,2025-05-03T14:30:00.000Z,Arminia Bielefeld,Dynamo Dresden,1,1,True
+4544440,2024,3. Liga,"Energie Cottbus-vs-Waldhof Mannheim_Sun, May 4, 2025, 11:30 UTC",3. Liga,2025-05-04T11:30:00.000Z,Energie Cottbus,Waldhof Mannheim,2,4,True
+4544434,2024,3. Liga,"Erzgebirge Aue-vs-Ingolstadt_Sun, May 4, 2025, 14:30 UTC",3. Liga,2025-05-04T14:30:00.000Z,Erzgebirge Aue,Ingolstadt,1,0,True
+4544438,2024,3. Liga,"Hannover 96 II-vs-Unterhaching_Sun, May 4, 2025, 17:30 UTC",3. Liga,2025-05-04T17:30:00.000Z,Hannover 96 II,Unterhaching,0,0,True
+4544412,2024,3. Liga,"Borussia Dortmund II-vs-VfB Stuttgart II_Fri, May 9, 2025, 17:00 UTC",3. Liga,2025-05-09T17:00:00.000Z,Borussia Dortmund II,VfB Stuttgart II,0,1,True
+4544441,2024,3. Liga,"Alemannia Aachen-vs-Saarbrücken_Sat, May 10, 2025, 12:00 UTC",3. Liga,2025-05-10T12:00:00.000Z,Alemannia Aachen,Saarbrücken,4,2,True
+4544411,2024,3. Liga,"Erzgebirge Aue-vs-Sandhausen_Sat, May 10, 2025, 12:00 UTC",3. Liga,2025-05-10T12:00:00.000Z,Erzgebirge Aue,Sandhausen,2,3,True
+4544406,2024,3. Liga,"Hansa Rostock-vs-Energie Cottbus_Sat, May 10, 2025, 12:00 UTC",3. Liga,2025-05-10T12:00:00.000Z,Hansa Rostock,Energie Cottbus,1,3,True
+4544409,2024,3. Liga,"SC Verl-vs-1860 München_Sat, May 10, 2025, 12:00 UTC",3. Liga,2025-05-10T12:00:00.000Z,SC Verl,1860 München,2,2,True
+4544410,2024,3. Liga,"Waldhof Mannheim-vs-Dynamo Dresden_Sat, May 10, 2025, 12:00 UTC",3. Liga,2025-05-10T12:00:00.000Z,Waldhof Mannheim,Dynamo Dresden,1,0,True
+4544414,2024,3. Liga,"Ingolstadt-vs-Wehen Wiesbaden_Sat, May 10, 2025, 14:30 UTC",3. Liga,2025-05-10T14:30:00.000Z,Ingolstadt,Wehen Wiesbaden,2,3,True
+4544407,2024,3. Liga,"Unterhaching-vs-Arminia Bielefeld_Sun, May 11, 2025, 11:30 UTC",3. Liga,2025-05-11T11:30:00.000Z,Unterhaching,Arminia Bielefeld,1,2,True
+4544408,2024,3. Liga,"RW Essen-vs-VfL Osnabrück_Sun, May 11, 2025, 14:30 UTC",3. Liga,2025-05-11T14:30:00.000Z,RW Essen,VfL Osnabrück,3,1,True
+4544404,2024,3. Liga,"Viktoria Köln 1904-vs-Hannover 96 II_Sun, May 11, 2025, 17:30 UTC",3. Liga,2025-05-11T17:30:00.000Z,Viktoria Köln 1904,Hannover 96 II,2,0,True
+4544420,2024,3. Liga,"1860 München-vs-Erzgebirge Aue_Sat, May 17, 2025, 11:30 UTC",3. Liga,2025-05-17T11:30:00.000Z,1860 München,Erzgebirge Aue,1,1,True
+4544421,2024,3. Liga,"Arminia Bielefeld-vs-Waldhof Mannheim_Sat, May 17, 2025, 11:30 UTC",3. Liga,2025-05-17T11:30:00.000Z,Arminia Bielefeld,Waldhof Mannheim,1,0,True
+4544419,2024,3. Liga,"Dynamo Dresden-vs-Unterhaching_Sat, May 17, 2025, 11:30 UTC",3. Liga,2025-05-17T11:30:00.000Z,Dynamo Dresden,Unterhaching,3,0,True
+4544417,2024,3. Liga,"Energie Cottbus-vs-Ingolstadt_Sat, May 17, 2025, 11:30 UTC",3. Liga,2025-05-17T11:30:00.000Z,Energie Cottbus,Ingolstadt,1,4,True
+4544415,2024,3. Liga,"Hannover 96 II-vs-Hansa Rostock_Sat, May 17, 2025, 11:30 UTC",3. Liga,2025-05-17T11:30:00.000Z,Hannover 96 II,Hansa Rostock,2,1,True
+4544416,2024,3. Liga,"VfL Osnabrück-vs-SC Verl_Sat, May 17, 2025, 11:30 UTC",3. Liga,2025-05-17T11:30:00.000Z,VfL Osnabrück,SC Verl,0,3,True
+4544413,2024,3. Liga,"Saarbrücken-vs-Borussia Dortmund II_Sat, May 17, 2025, 11:30 UTC",3. Liga,2025-05-17T11:30:00.000Z,Saarbrücken,Borussia Dortmund II,2,1,True
+4544422,2024,3. Liga,"Sandhausen-vs-Viktoria Köln 1904_Sat, May 17, 2025, 11:30 UTC",3. Liga,2025-05-17T11:30:00.000Z,Sandhausen,Viktoria Köln 1904,0,4,True
+4544403,2024,3. Liga,"VfB Stuttgart II-vs-RW Essen_Sat, May 17, 2025, 11:30 UTC",3. Liga,2025-05-17T11:30:00.000Z,VfB Stuttgart II,RW Essen,1,1,True
+4544418,2024,3. Liga,"Wehen Wiesbaden-vs-Alemannia Aachen_Sat, May 17, 2025, 11:30 UTC",3. Liga,2025-05-17T11:30:00.000Z,Wehen Wiesbaden,Alemannia Aachen,2,1,True
+4846642,2025,3. Liga,"RW Essen-vs-1860 München_Fri, Aug 1, 2025, 17:00 UTC",3. Liga,2025-08-01T17:00:00.000Z,RW Essen,1860 München,1,1,True
+4846644,2025,3. Liga,"Energie Cottbus-vs-Saarbrücken_Sat, Aug 2, 2025, 12:00 UTC",3. Liga,2025-08-02T12:00:00.000Z,Energie Cottbus,Saarbrücken,3,3,True
+4846646,2025,3. Liga,"Hoffenheim II-vs-TSV Havelse_Sat, Aug 2, 2025, 12:00 UTC",3. Liga,2025-08-02T12:00:00.000Z,Hoffenheim II,TSV Havelse,0,0,True
+4846647,2025,3. Liga,"Ingolstadt-vs-Jahn Regensburg_Sat, Aug 2, 2025, 12:00 UTC",3. Liga,2025-08-02T12:00:00.000Z,Ingolstadt,Jahn Regensburg,1,1,True
+4846649,2025,3. Liga,"VfL Osnabrück-vs-Alemannia Aachen_Sat, Aug 2, 2025, 12:00 UTC",3. Liga,2025-08-02T12:00:00.000Z,VfL Osnabrück,Alemannia Aachen,0,0,True
+4846648,2025,3. Liga,"Waldhof Mannheim-vs-SC Verl_Sat, Aug 2, 2025, 12:00 UTC",3. Liga,2025-08-02T12:00:00.000Z,Waldhof Mannheim,SC Verl,2,2,True
+4846645,2025,3. Liga,"MSV Duisburg-vs-VfB Stuttgart II_Sat, Aug 2, 2025, 14:30 UTC",3. Liga,2025-08-02T14:30:00.000Z,MSV Duisburg,VfB Stuttgart II,2,1,True
+4846643,2025,3. Liga,"Erzgebirge Aue-vs-Hansa Rostock_Sun, Aug 3, 2025, 11:30 UTC",3. Liga,2025-08-03T11:30:00.000Z,Erzgebirge Aue,Hansa Rostock,0,0,True
+4846650,2025,3. Liga,"Viktoria Köln 1904-vs-FC Schweinfurt_Sun, Aug 3, 2025, 14:30 UTC",3. Liga,2025-08-03T14:30:00.000Z,Viktoria Köln 1904,FC Schweinfurt,2,0,True
+4846651,2025,3. Liga,"Wehen Wiesbaden-vs-Ulm_Sun, Aug 3, 2025, 17:30 UTC",3. Liga,2025-08-03T17:30:00.000Z,Wehen Wiesbaden,Ulm,3,1,True
+4846657,2025,3. Liga,"FC Schweinfurt-vs-Energie Cottbus_Fri, Aug 8, 2025, 17:00 UTC",3. Liga,2025-08-08T17:00:00.000Z,FC Schweinfurt,Energie Cottbus,0,2,True
+4846654,2025,3. Liga,"1860 München-vs-VfL Osnabrück_Sat, Aug 9, 2025, 12:00 UTC",3. Liga,2025-08-09T12:00:00.000Z,1860 München,VfL Osnabrück,3,1,True
+4846652,2025,3. Liga,"Alemannia Aachen-vs-Hoffenheim II_Sat, Aug 9, 2025, 12:00 UTC",3. Liga,2025-08-09T12:00:00.000Z,Alemannia Aachen,Hoffenheim II,2,4,True
+4846656,2025,3. Liga,"Saarbrücken-vs-Viktoria Köln 1904_Sat, Aug 9, 2025, 12:00 UTC",3. Liga,2025-08-09T12:00:00.000Z,Saarbrücken,Viktoria Köln 1904,2,1,True
+4846659,2025,3. Liga,"TSV Havelse-vs-RW Essen_Sat, Aug 9, 2025, 12:00 UTC",3. Liga,2025-08-09T12:00:00.000Z,TSV Havelse,RW Essen,1,1,True
+4846660,2025,3. Liga,"Ulm-vs-Erzgebirge Aue_Sat, Aug 9, 2025, 12:00 UTC",3. Liga,2025-08-09T12:00:00.000Z,Ulm,Erzgebirge Aue,1,0,True
+4846661,2025,3. Liga,"SC Verl-vs-Wehen Wiesbaden_Sat, Aug 9, 2025, 14:30 UTC",3. Liga,2025-08-09T14:30:00.000Z,SC Verl,Wehen Wiesbaden,2,2,True
+4846655,2025,3. Liga,"Jahn Regensburg-vs-MSV Duisburg_Sun, Aug 10, 2025, 11:30 UTC",3. Liga,2025-08-10T11:30:00.000Z,Jahn Regensburg,MSV Duisburg,0,4,True
+4846653,2025,3. Liga,"Hansa Rostock-vs-Waldhof Mannheim_Sun, Aug 10, 2025, 14:30 UTC",3. Liga,2025-08-10T14:30:00.000Z,Hansa Rostock,Waldhof Mannheim,1,0,True
+4846658,2025,3. Liga,"VfB Stuttgart II-vs-Ingolstadt_Sun, Aug 10, 2025, 17:30 UTC",3. Liga,2025-08-10T17:30:00.000Z,VfB Stuttgart II,Ingolstadt,2,1,True
+4846671,2025,3. Liga,"Wehen Wiesbaden-vs-RW Essen_Fri, Aug 22, 2025, 17:00 UTC",3. Liga,2025-08-22T17:00:00.000Z,Wehen Wiesbaden,RW Essen,3,4,True
+4846662,2025,3. Liga,"Alemannia Aachen-vs-1860 München_Sat, Aug 23, 2025, 12:00 UTC",3. Liga,2025-08-23T12:00:00.000Z,Alemannia Aachen,1860 München,0,2,True
+4846665,2025,3. Liga,"Hoffenheim II-vs-Energie Cottbus_Sat, Aug 23, 2025, 12:00 UTC",3. Liga,2025-08-23T12:00:00.000Z,Hoffenheim II,Energie Cottbus,4,1,True
+4846668,2025,3. Liga,"Jahn Regensburg-vs-FC Schweinfurt_Sat, Aug 23, 2025, 12:00 UTC",3. Liga,2025-08-23T12:00:00.000Z,Jahn Regensburg,FC Schweinfurt,3,0,True
+4846670,2025,3. Liga,"VfL Osnabrück-vs-Saarbrücken_Sat, Aug 23, 2025, 12:00 UTC",3. Liga,2025-08-23T12:00:00.000Z,VfL Osnabrück,Saarbrücken,2,0,True
+4846669,2025,3. Liga,"VfB Stuttgart II-vs-SC Verl_Sat, Aug 23, 2025, 12:00 UTC",3. Liga,2025-08-23T12:00:00.000Z,VfB Stuttgart II,SC Verl,1,1,True
+4846664,2025,3. Liga,"MSV Duisburg-vs-Ulm_Sat, Aug 23, 2025, 14:30 UTC",3. Liga,2025-08-23T14:30:00.000Z,MSV Duisburg,Ulm,2,1,True
+4846666,2025,3. Liga,"Ingolstadt-vs-Hansa Rostock_Sun, Aug 24, 2025, 11:30 UTC",3. Liga,2025-08-24T11:30:00.000Z,Ingolstadt,Hansa Rostock,1,1,True
+4846663,2025,3. Liga,"Erzgebirge Aue-vs-TSV Havelse_Sun, Aug 24, 2025, 14:30 UTC",3. Liga,2025-08-24T14:30:00.000Z,Erzgebirge Aue,TSV Havelse,2,1,True
+4846667,2025,3. Liga,"Waldhof Mannheim-vs-Viktoria Köln 1904_Sun, Aug 24, 2025, 17:30 UTC",3. Liga,2025-08-24T17:30:00.000Z,Waldhof Mannheim,Viktoria Köln 1904,2,0,True
+4846681,2025,3. Liga,"Viktoria Köln 1904-vs-Jahn Regensburg_Fri, Aug 29, 2025, 17:00 UTC",3. Liga,2025-08-29T17:00:00.000Z,Viktoria Köln 1904,Jahn Regensburg,1,0,True
+4846674,2025,3. Liga,"1860 München-vs-VfB Stuttgart II_Sat, Aug 30, 2025, 12:00 UTC",3. Liga,2025-08-30T12:00:00.000Z,1860 München,VfB Stuttgart II,1,1,True
+4846672,2025,3. Liga,"Energie Cottbus-vs-Ingolstadt_Sat, Aug 30, 2025, 12:00 UTC",3. Liga,2025-08-30T12:00:00.000Z,Energie Cottbus,Ingolstadt,1,1,True
+4846676,2025,3. Liga,"Saarbrücken-vs-Erzgebirge Aue_Sat, Aug 30, 2025, 12:00 UTC",3. Liga,2025-08-30T12:00:00.000Z,Saarbrücken,Erzgebirge Aue,4,1,True
+4846680,2025,3. Liga,"SC Verl-vs-MSV Duisburg_Sat, Aug 30, 2025, 12:00 UTC",3. Liga,2025-08-30T12:00:00.000Z,SC Verl,MSV Duisburg,2,3,True
+4846678,2025,3. Liga,"TSV Havelse-vs-VfL Osnabrück_Sat, Aug 30, 2025, 12:00 UTC",3. Liga,2025-08-30T12:00:00.000Z,TSV Havelse,VfL Osnabrück,0,2,True
+4846673,2025,3. Liga,"Hansa Rostock-vs-Hoffenheim II_Sat, Aug 30, 2025, 14:30 UTC",3. Liga,2025-08-30T14:30:00.000Z,Hansa Rostock,Hoffenheim II,0,1,True
+4846679,2025,3. Liga,"Ulm-vs-Waldhof Mannheim_Sun, Aug 31, 2025, 11:30 UTC",3. Liga,2025-08-31T11:30:00.000Z,Ulm,Waldhof Mannheim,1,2,True
+4846677,2025,3. Liga,"FC Schweinfurt-vs-Wehen Wiesbaden_Sun, Aug 31, 2025, 14:30 UTC",3. Liga,2025-08-31T14:30:00.000Z,FC Schweinfurt,Wehen Wiesbaden,0,1,True
+4846675,2025,3. Liga,"RW Essen-vs-Alemannia Aachen_Sun, Aug 31, 2025, 17:30 UTC",3. Liga,2025-08-31T17:30:00.000Z,RW Essen,Alemannia Aachen,2,3,True
+4846689,2025,3. Liga,"Jahn Regensburg-vs-RW Essen_Fri, Sep 12, 2025, 17:00 UTC",3. Liga,2025-09-12T17:00:00.000Z,Jahn Regensburg,RW Essen,1,3,True
+4846683,2025,3. Liga,"Erzgebirge Aue-vs-Viktoria Köln 1904_Sat, Sep 13, 2025, 12:00 UTC",3. Liga,2025-09-13T12:00:00.000Z,Erzgebirge Aue,Viktoria Köln 1904,0,3,True
+4846685,2025,3. Liga,"Hoffenheim II-vs-SC Verl_Sat, Sep 13, 2025, 12:00 UTC",3. Liga,2025-09-13T12:00:00.000Z,Hoffenheim II,SC Verl,2,4,True
+4846686,2025,3. Liga,"Ingolstadt-vs-FC Schweinfurt_Sat, Sep 13, 2025, 12:00 UTC",3. Liga,2025-09-13T12:00:00.000Z,Ingolstadt,FC Schweinfurt,2,3,True
+4846684,2025,3. Liga,"MSV Duisburg-vs-Wehen Wiesbaden_Sat, Sep 13, 2025, 12:00 UTC",3. Liga,2025-09-13T12:00:00.000Z,MSV Duisburg,Wehen Wiesbaden,3,1,True
+4846690,2025,3. Liga,"VfB Stuttgart II-vs-Saarbrücken_Sat, Sep 13, 2025, 12:00 UTC",3. Liga,2025-09-13T12:00:00.000Z,VfB Stuttgart II,Saarbrücken,1,3,True
+4846682,2025,3. Liga,"Alemannia Aachen-vs-Ulm_Sat, Sep 13, 2025, 14:30 UTC",3. Liga,2025-09-13T14:30:00.000Z,Alemannia Aachen,Ulm,1,3,True
+4846691,2025,3. Liga,"VfL Osnabrück-vs-Hansa Rostock_Sun, Sep 14, 2025, 11:30 UTC",3. Liga,2025-09-14T11:30:00.000Z,VfL Osnabrück,Hansa Rostock,0,0,True
+4846687,2025,3. Liga,"Waldhof Mannheim-vs-Energie Cottbus_Sun, Sep 14, 2025, 14:30 UTC",3. Liga,2025-09-14T14:30:00.000Z,Waldhof Mannheim,Energie Cottbus,0,3,True
+4846688,2025,3. Liga,"1860 München-vs-TSV Havelse_Sun, Sep 14, 2025, 17:30 UTC",3. Liga,2025-09-14T17:30:00.000Z,1860 München,TSV Havelse,3,2,True
+4846697,2025,3. Liga,"FC Schweinfurt-vs-MSV Duisburg_Tue, Sep 16, 2025, 17:00 UTC",3. Liga,2025-09-16T17:00:00.000Z,FC Schweinfurt,MSV Duisburg,0,3,True
+4846692,2025,3. Liga,"Saarbrücken-vs-Ulm_Tue, Sep 16, 2025, 17:00 UTC",3. Liga,2025-09-16T17:00:00.000Z,Saarbrücken,Ulm,3,1,True
+4846699,2025,3. Liga,"SC Verl-vs-Alemannia Aachen_Tue, Sep 16, 2025, 17:00 UTC",3. Liga,2025-09-16T17:00:00.000Z,SC Verl,Alemannia Aachen,2,1,True
+4846700,2025,3. Liga,"Viktoria Köln 1904-vs-Hoffenheim II_Tue, Sep 16, 2025, 17:00 UTC",3. Liga,2025-09-16T17:00:00.000Z,Viktoria Köln 1904,Hoffenheim II,2,1,True
+4846701,2025,3. Liga,"Wehen Wiesbaden-vs-Jahn Regensburg_Tue, Sep 16, 2025, 17:00 UTC",3. Liga,2025-09-16T17:00:00.000Z,Wehen Wiesbaden,Jahn Regensburg,2,0,True
+4846693,2025,3. Liga,"Energie Cottbus-vs-Erzgebirge Aue_Wed, Sep 17, 2025, 17:00 UTC",3. Liga,2025-09-17T17:00:00.000Z,Energie Cottbus,Erzgebirge Aue,2,1,True
+4846694,2025,3. Liga,"Hansa Rostock-vs-1860 München_Wed, Sep 17, 2025, 17:00 UTC",3. Liga,2025-09-17T17:00:00.000Z,Hansa Rostock,1860 München,2,1,True
+4846696,2025,3. Liga,"RW Essen-vs-VfL Osnabrück_Wed, Sep 17, 2025, 17:00 UTC",3. Liga,2025-09-17T17:00:00.000Z,RW Essen,VfL Osnabrück,1,1,True
+4846698,2025,3. Liga,"TSV Havelse-vs-Ingolstadt_Wed, Sep 17, 2025, 17:00 UTC",3. Liga,2025-09-17T17:00:00.000Z,TSV Havelse,Ingolstadt,2,6,True
+4846695,2025,3. Liga,"Waldhof Mannheim-vs-VfB Stuttgart II_Wed, Sep 17, 2025, 17:00 UTC",3. Liga,2025-09-17T17:00:00.000Z,Waldhof Mannheim,VfB Stuttgart II,0,1,True
+4846706,2025,3. Liga,"Saarbrücken-vs-FC Schweinfurt_Fri, Sep 19, 2025, 17:00 UTC",3. Liga,2025-09-19T17:00:00.000Z,Saarbrücken,FC Schweinfurt,2,1,True
+4846702,2025,3. Liga,"Alemannia Aachen-vs-Waldhof Mannheim_Sat, Sep 20, 2025, 12:00 UTC",3. Liga,2025-09-20T12:00:00.000Z,Alemannia Aachen,Waldhof Mannheim,3,2,True
+4846703,2025,3. Liga,"Ingolstadt-vs-Wehen Wiesbaden_Sat, Sep 20, 2025, 12:00 UTC",3. Liga,2025-09-20T12:00:00.000Z,Ingolstadt,Wehen Wiesbaden,0,0,True
+4846711,2025,3. Liga,"VfL Osnabrück-vs-Erzgebirge Aue_Sat, Sep 20, 2025, 12:00 UTC",3. Liga,2025-09-20T12:00:00.000Z,VfL Osnabrück,Erzgebirge Aue,3,1,True
+4846705,2025,3. Liga,"RW Essen-vs-Hansa Rostock_Sat, Sep 20, 2025, 12:00 UTC",3. Liga,2025-09-20T12:00:00.000Z,RW Essen,Hansa Rostock,3,0,True
+4846707,2025,3. Liga,"VfB Stuttgart II-vs-Viktoria Köln 1904_Sat, Sep 20, 2025, 12:00 UTC",3. Liga,2025-09-20T12:00:00.000Z,VfB Stuttgart II,Viktoria Köln 1904,2,1,True
+4846704,2025,3. Liga,"1860 München-vs-Hoffenheim II_Sat, Sep 20, 2025, 14:30 UTC",3. Liga,2025-09-20T14:30:00.000Z,1860 München,Hoffenheim II,1,5,True
+4846708,2025,3. Liga,"TSV Havelse-vs-MSV Duisburg_Sun, Sep 21, 2025, 11:30 UTC",3. Liga,2025-09-21T11:30:00.000Z,TSV Havelse,MSV Duisburg,1,1,True
+4846710,2025,3. Liga,"SC Verl-vs-Energie Cottbus_Sun, Sep 21, 2025, 14:30 UTC",3. Liga,2025-09-21T14:30:00.000Z,SC Verl,Energie Cottbus,2,1,True
+4846709,2025,3. Liga,"Ulm-vs-Jahn Regensburg_Sun, Sep 21, 2025, 17:30 UTC",3. Liga,2025-09-21T17:30:00.000Z,Ulm,Jahn Regensburg,2,1,True
+4846713,2025,3. Liga,"Energie Cottbus-vs-VfB Stuttgart II_Fri, Sep 26, 2025, 17:00 UTC",3. Liga,2025-09-26T17:00:00.000Z,Energie Cottbus,VfB Stuttgart II,5,0,True
+4846712,2025,3. Liga,"Erzgebirge Aue-vs-1860 München_Sat, Sep 27, 2025, 12:00 UTC",3. Liga,2025-09-27T12:00:00.000Z,Erzgebirge Aue,1860 München,2,0,True
+4846719,2025,3. Liga,"FC Schweinfurt-vs-Alemannia Aachen_Sat, Sep 27, 2025, 12:00 UTC",3. Liga,2025-09-27T12:00:00.000Z,FC Schweinfurt,Alemannia Aachen,1,5,True
+4846715,2025,3. Liga,"Hansa Rostock-vs-TSV Havelse_Sat, Sep 27, 2025, 12:00 UTC",3. Liga,2025-09-27T12:00:00.000Z,Hansa Rostock,TSV Havelse,1,1,True
+4846714,2025,3. Liga,"MSV Duisburg-vs-Ingolstadt_Sat, Sep 27, 2025, 12:00 UTC",3. Liga,2025-09-27T12:00:00.000Z,MSV Duisburg,Ingolstadt,2,1,True
+4846721,2025,3. Liga,"Wehen Wiesbaden-vs-Saarbrücken_Sat, Sep 27, 2025, 12:00 UTC",3. Liga,2025-09-27T12:00:00.000Z,Wehen Wiesbaden,Saarbrücken,1,1,True
+4846717,2025,3. Liga,"Waldhof Mannheim-vs-RW Essen_Sat, Sep 27, 2025, 14:30 UTC",3. Liga,2025-09-27T14:30:00.000Z,Waldhof Mannheim,RW Essen,6,1,True
+4846718,2025,3. Liga,"Jahn Regensburg-vs-SC Verl_Sun, Sep 28, 2025, 11:30 UTC",3. Liga,2025-09-28T11:30:00.000Z,Jahn Regensburg,SC Verl,2,0,True
+4846716,2025,3. Liga,"Hoffenheim II-vs-Ulm_Sun, Sep 28, 2025, 14:30 UTC",3. Liga,2025-09-28T14:30:00.000Z,Hoffenheim II,Ulm,1,1,True
+4846720,2025,3. Liga,"Viktoria Köln 1904-vs-VfL Osnabrück_Sun, Sep 28, 2025, 17:30 UTC",3. Liga,2025-09-28T17:30:00.000Z,Viktoria Köln 1904,VfL Osnabrück,0,0,True
+4846722,2025,3. Liga,"Alemannia Aachen-vs-Erzgebirge Aue_Tue, Sep 30, 2025, 17:00 UTC",3. Liga,2025-09-30T17:00:00.000Z,Alemannia Aachen,Erzgebirge Aue,0,1,True
+4846723,2025,3. Liga,"Hansa Rostock-vs-Energie Cottbus_Tue, Sep 30, 2025, 17:00 UTC",3. Liga,2025-09-30T17:00:00.000Z,Hansa Rostock,Energie Cottbus,1,3,True
+4846726,2025,3. Liga,"Saarbrücken-vs-MSV Duisburg_Tue, Sep 30, 2025, 17:00 UTC",3. Liga,2025-09-30T17:00:00.000Z,Saarbrücken,MSV Duisburg,0,0,True
+4846728,2025,3. Liga,"TSV Havelse-vs-Waldhof Mannheim_Tue, Sep 30, 2025, 17:00 UTC",3. Liga,2025-09-30T17:00:00.000Z,TSV Havelse,Waldhof Mannheim,2,3,True
+4846727,2025,3. Liga,"VfB Stuttgart II-vs-Wehen Wiesbaden_Tue, Sep 30, 2025, 17:00 UTC",3. Liga,2025-09-30T17:00:00.000Z,VfB Stuttgart II,Wehen Wiesbaden,0,0,True
+4846724,2025,3. Liga,"1860 München-vs-Viktoria Köln 1904_Wed, Oct 1, 2025, 17:00 UTC",3. Liga,2025-10-01T17:00:00.000Z,1860 München,Viktoria Köln 1904,2,2,True
+4846731,2025,3. Liga,"VfL Osnabrück-vs-Jahn Regensburg_Wed, Oct 1, 2025, 17:00 UTC",3. Liga,2025-10-01T17:00:00.000Z,VfL Osnabrück,Jahn Regensburg,2,0,True
+4846725,2025,3. Liga,"RW Essen-vs-Hoffenheim II_Wed, Oct 1, 2025, 17:00 UTC",3. Liga,2025-10-01T17:00:00.000Z,RW Essen,Hoffenheim II,3,1,True
+4846730,2025,3. Liga,"SC Verl-vs-Ingolstadt_Wed, Oct 1, 2025, 17:00 UTC",3. Liga,2025-10-01T17:00:00.000Z,SC Verl,Ingolstadt,2,2,True
+4846729,2025,3. Liga,"Ulm-vs-FC Schweinfurt_Wed, Oct 1, 2025, 17:00 UTC",3. Liga,2025-10-01T17:00:00.000Z,Ulm,FC Schweinfurt,5,1,True
+4846734,2025,3. Liga,"MSV Duisburg-vs-Hansa Rostock_Fri, Oct 3, 2025, 17:00 UTC",3. Liga,2025-10-03T17:00:00.000Z,MSV Duisburg,Hansa Rostock,2,2,True
+4846739,2025,3. Liga,"FC Schweinfurt-vs-SC Verl_Sat, Oct 4, 2025, 12:00 UTC",3. Liga,2025-10-04T12:00:00.000Z,FC Schweinfurt,SC Verl,1,2,True
+4846736,2025,3. Liga,"Ingolstadt-vs-Ulm_Sat, Oct 4, 2025, 12:00 UTC",3. Liga,2025-10-04T12:00:00.000Z,Ingolstadt,Ulm,4,1,True
+4846738,2025,3. Liga,"Jahn Regensburg-vs-Saarbrücken_Sat, Oct 4, 2025, 12:00 UTC",3. Liga,2025-10-04T12:00:00.000Z,Jahn Regensburg,Saarbrücken,1,1,True
+4846740,2025,3. Liga,"Viktoria Köln 1904-vs-TSV Havelse_Sat, Oct 4, 2025, 12:00 UTC",3. Liga,2025-10-04T12:00:00.000Z,Viktoria Köln 1904,TSV Havelse,4,1,True
+4846737,2025,3. Liga,"Waldhof Mannheim-vs-VfL Osnabrück_Sat, Oct 4, 2025, 12:00 UTC",3. Liga,2025-10-04T12:00:00.000Z,Waldhof Mannheim,VfL Osnabrück,1,4,True
+4846733,2025,3. Liga,"Energie Cottbus-vs-Alemannia Aachen_Sat, Oct 4, 2025, 14:30 UTC",3. Liga,2025-10-04T14:30:00.000Z,Energie Cottbus,Alemannia Aachen,3,2,True
+4846732,2025,3. Liga,"Erzgebirge Aue-vs-RW Essen_Sun, Oct 5, 2025, 11:30 UTC",3. Liga,2025-10-05T11:30:00.000Z,Erzgebirge Aue,RW Essen,2,2,True
+4846741,2025,3. Liga,"Wehen Wiesbaden-vs-1860 München_Sun, Oct 5, 2025, 14:30 UTC",3. Liga,2025-10-05T14:30:00.000Z,Wehen Wiesbaden,1860 München,1,0,True
+4846735,2025,3. Liga,"Hoffenheim II-vs-VfB Stuttgart II_Sun, Oct 5, 2025, 17:30 UTC",3. Liga,2025-10-05T17:30:00.000Z,Hoffenheim II,VfB Stuttgart II,1,3,True
+4846743,2025,3. Liga,"Erzgebirge Aue-vs-Waldhof Mannheim_Fri, Oct 17, 2025, 17:00 UTC",3. Liga,2025-10-17T17:00:00.000Z,Erzgebirge Aue,Waldhof Mannheim,0,2,True
+4846742,2025,3. Liga,"Alemannia Aachen-vs-Ingolstadt_Sat, Oct 18, 2025, 12:00 UTC",3. Liga,2025-10-18T12:00:00.000Z,Alemannia Aachen,Ingolstadt,0,1,True
+4846744,2025,3. Liga,"Hansa Rostock-vs-Wehen Wiesbaden_Sat, Oct 18, 2025, 12:00 UTC",3. Liga,2025-10-18T12:00:00.000Z,Hansa Rostock,Wehen Wiesbaden,3,0,True
+4846751,2025,3. Liga,"VfL Osnabrück-vs-Hoffenheim II_Sat, Oct 18, 2025, 12:00 UTC",3. Liga,2025-10-18T12:00:00.000Z,VfL Osnabrück,Hoffenheim II,0,4,True
+4846747,2025,3. Liga,"Saarbrücken-vs-SC Verl_Sat, Oct 18, 2025, 12:00 UTC",3. Liga,2025-10-18T12:00:00.000Z,Saarbrücken,SC Verl,2,4,True
+4846748,2025,3. Liga,"VfB Stuttgart II-vs-FC Schweinfurt_Sat, Oct 18, 2025, 12:00 UTC",3. Liga,2025-10-18T12:00:00.000Z,VfB Stuttgart II,FC Schweinfurt,3,0,True
+4846746,2025,3. Liga,"RW Essen-vs-Viktoria Köln 1904_Sat, Oct 18, 2025, 14:30 UTC",3. Liga,2025-10-18T14:30:00.000Z,RW Essen,Viktoria Köln 1904,1,0,True
+4846750,2025,3. Liga,"Ulm-vs-Energie Cottbus_Sun, Oct 19, 2025, 11:30 UTC",3. Liga,2025-10-19T11:30:00.000Z,Ulm,Energie Cottbus,1,2,True
+4846745,2025,3. Liga,"1860 München-vs-MSV Duisburg_Sun, Oct 19, 2025, 14:30 UTC",3. Liga,2025-10-19T14:30:00.000Z,1860 München,MSV Duisburg,3,1,True
+4846749,2025,3. Liga,"TSV Havelse-vs-Jahn Regensburg_Sun, Oct 19, 2025, 17:30 UTC",3. Liga,2025-10-19T17:30:00.000Z,TSV Havelse,Jahn Regensburg,1,2,True
+4846761,2025,3. Liga,"Wehen Wiesbaden-vs-Alemannia Aachen_Fri, Oct 24, 2025, 17:00 UTC",3. Liga,2025-10-24T17:00:00.000Z,Wehen Wiesbaden,Alemannia Aachen,1,2,True
+4846752,2025,3. Liga,"Energie Cottbus-vs-TSV Havelse_Sat, Oct 25, 2025, 12:00 UTC",3. Liga,2025-10-25T12:00:00.000Z,Energie Cottbus,TSV Havelse,4,3,True
+4846755,2025,3. Liga,"Ingolstadt-vs-Saarbrücken_Sat, Oct 25, 2025, 12:00 UTC",3. Liga,2025-10-25T12:00:00.000Z,Ingolstadt,Saarbrücken,2,1,True
+4846757,2025,3. Liga,"Jahn Regensburg-vs-VfB Stuttgart II_Sat, Oct 25, 2025, 12:00 UTC",3. Liga,2025-10-25T12:00:00.000Z,Jahn Regensburg,VfB Stuttgart II,3,2,True
+4846759,2025,3. Liga,"SC Verl-vs-Ulm_Sat, Oct 25, 2025, 12:00 UTC",3. Liga,2025-10-25T12:00:00.000Z,SC Verl,Ulm,5,0,True
+4846756,2025,3. Liga,"Waldhof Mannheim-vs-1860 München_Sat, Oct 25, 2025, 12:00 UTC",3. Liga,2025-10-25T12:00:00.000Z,Waldhof Mannheim,1860 München,3,1,True
+4846758,2025,3. Liga,"FC Schweinfurt-vs-VfL Osnabrück_Sat, Oct 25, 2025, 14:30 UTC",3. Liga,2025-10-25T14:30:00.000Z,FC Schweinfurt,VfL Osnabrück,1,2,True
+4846754,2025,3. Liga,"Hoffenheim II-vs-Erzgebirge Aue_Sun, Oct 26, 2025, 12:30 UTC",3. Liga,2025-10-26T12:30:00.000Z,Hoffenheim II,Erzgebirge Aue,1,1,True
+4846760,2025,3. Liga,"Viktoria Köln 1904-vs-Hansa Rostock_Sun, Oct 26, 2025, 15:30 UTC",3. Liga,2025-10-26T15:30:00.000Z,Viktoria Köln 1904,Hansa Rostock,2,4,True
+4846753,2025,3. Liga,"MSV Duisburg-vs-RW Essen_Sun, Oct 26, 2025, 18:30 UTC",3. Liga,2025-10-26T18:30:00.000Z,MSV Duisburg,RW Essen,1,1,True
+4846771,2025,3. Liga,"Viktoria Köln 1904-vs-Ingolstadt_Fri, Oct 31, 2025, 18:00 UTC",3. Liga,2025-10-31T18:00:00.000Z,Viktoria Köln 1904,Ingolstadt,3,1,True
+4846766,2025,3. Liga,"1860 München-vs-Energie Cottbus_Sat, Nov 1, 2025, 13:00 UTC",3. Liga,2025-11-01T13:00:00.000Z,1860 München,Energie Cottbus,3,0,True
+4846763,2025,3. Liga,"Erzgebirge Aue-vs-Jahn Regensburg_Sat, Nov 1, 2025, 13:00 UTC",3. Liga,2025-11-01T13:00:00.000Z,Erzgebirge Aue,Jahn Regensburg,4,3,True
+4846770,2025,3. Liga,"VfL Osnabrück-vs-MSV Duisburg_Sat, Nov 1, 2025, 13:00 UTC",3. Liga,2025-11-01T13:00:00.000Z,VfL Osnabrück,MSV Duisburg,0,0,True
+4846768,2025,3. Liga,"TSV Havelse-vs-Wehen Wiesbaden_Sat, Nov 1, 2025, 13:00 UTC",3. Liga,2025-11-01T13:00:00.000Z,TSV Havelse,Wehen Wiesbaden,0,2,True
+4846769,2025,3. Liga,"Ulm-vs-VfB Stuttgart II_Sat, Nov 1, 2025, 13:00 UTC",3. Liga,2025-11-01T13:00:00.000Z,Ulm,VfB Stuttgart II,1,3,True
+4846764,2025,3. Liga,"Hansa Rostock-vs-SC Verl_Sat, Nov 1, 2025, 15:30 UTC",3. Liga,2025-11-01T15:30:00.000Z,Hansa Rostock,SC Verl,2,2,True
+4846765,2025,3. Liga,"Hoffenheim II-vs-Waldhof Mannheim_Sun, Nov 2, 2025, 12:30 UTC",3. Liga,2025-11-02T12:30:00.000Z,Hoffenheim II,Waldhof Mannheim,2,0,True
+4846767,2025,3. Liga,"RW Essen-vs-FC Schweinfurt_Sun, Nov 2, 2025, 15:30 UTC",3. Liga,2025-11-02T15:30:00.000Z,RW Essen,FC Schweinfurt,2,1,True
+4846762,2025,3. Liga,"Alemannia Aachen-vs-Saarbrücken_Sun, Nov 2, 2025, 18:30 UTC",3. Liga,2025-11-02T18:30:00.000Z,Alemannia Aachen,Saarbrücken,2,0,True
+4846773,2025,3. Liga,"MSV Duisburg-vs-Waldhof Mannheim_Fri, Nov 7, 2025, 18:00 UTC",3. Liga,2025-11-07T18:00:00.000Z,MSV Duisburg,Waldhof Mannheim,2,1,True
+4846772,2025,3. Liga,"Energie Cottbus-vs-VfL Osnabrück_Sat, Nov 8, 2025, 13:00 UTC",3. Liga,2025-11-08T13:00:00.000Z,Energie Cottbus,VfL Osnabrück,0,1,True
+4846777,2025,3. Liga,"FC Schweinfurt-vs-Hoffenheim II_Sat, Nov 8, 2025, 13:00 UTC",3. Liga,2025-11-08T13:00:00.000Z,FC Schweinfurt,Hoffenheim II,2,1,True
+4846774,2025,3. Liga,"Ingolstadt-vs-RW Essen_Sat, Nov 8, 2025, 13:00 UTC",3. Liga,2025-11-08T13:00:00.000Z,Ingolstadt,RW Essen,1,2,True
+4846780,2025,3. Liga,"SC Verl-vs-Erzgebirge Aue_Sat, Nov 8, 2025, 13:00 UTC",3. Liga,2025-11-08T13:00:00.000Z,SC Verl,Erzgebirge Aue,1,1,True
+4846779,2025,3. Liga,"Ulm-vs-Hansa Rostock_Sat, Nov 8, 2025, 13:00 UTC",3. Liga,2025-11-08T13:00:00.000Z,Ulm,Hansa Rostock,0,5,True
+4846776,2025,3. Liga,"Saarbrücken-vs-TSV Havelse_Sat, Nov 8, 2025, 15:30 UTC",3. Liga,2025-11-08T15:30:00.000Z,Saarbrücken,TSV Havelse,1,1,True
+4846778,2025,3. Liga,"VfB Stuttgart II-vs-Alemannia Aachen_Sun, Nov 9, 2025, 12:30 UTC",3. Liga,2025-11-09T12:30:00.000Z,VfB Stuttgart II,Alemannia Aachen,1,3,True
+4846775,2025,3. Liga,"Jahn Regensburg-vs-1860 München_Sun, Nov 9, 2025, 15:30 UTC",3. Liga,2025-11-09T15:30:00.000Z,Jahn Regensburg,1860 München,4,0,True
+4846781,2025,3. Liga,"Wehen Wiesbaden-vs-Viktoria Köln 1904_Sun, Nov 9, 2025, 18:30 UTC",3. Liga,2025-11-09T18:30:00.000Z,Wehen Wiesbaden,Viktoria Köln 1904,0,1,True
